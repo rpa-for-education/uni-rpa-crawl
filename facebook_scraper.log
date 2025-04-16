@@ -1,0 +1,72 @@
+2025-04-16 21:53:40,400 - INFO - ===== CÔNG CỤ LẤY LINK BÀI VIẾT FACEBOOK VÀ GỬI LÊN API =====
+2025-04-16 21:53:47,918 - INFO - Đã tìm thấy 8 cookie, bao gồm các cookie quan trọng
+2025-04-16 21:53:50,623 - INFO - Đã thêm 8/8 cookie vào trình duyệt
+2025-04-16 21:53:53,915 - INFO - Đăng nhập thành công!
+2025-04-16 21:53:55,228 - INFO - Đang truy cập vào group: https://www.facebook.com/groups/tansinhvienneu
+2025-04-16 21:53:55,238 - INFO - Tìm thấy 3 post containers trên màn hình.
+2025-04-16 21:53:55,409 - INFO - Đã gửi link lên API thành công (1/50): https://www.facebook.com/groups/tansinhvienneu/posts/2450122258720030/ | Phản hồi: {'message': 'Thêm bài viết thành công'}
+2025-04-16 21:53:59,260 - INFO - Tìm thấy 6 post containers trên màn hình.
+2025-04-16 21:53:59,356 - INFO - Đã gửi link lên API thành công (2/50): https://www.facebook.com/groups/tansinhvienneu/posts/2449970005401922/ | Phản hồi: {'message': 'URL bị trùng nên không thêm'}
+2025-04-16 21:54:00,943 - INFO - Đã gửi link lên API thành công (3/50): https://www.facebook.com/groups/tansinhvienneu/posts/2450111922054397/ | Phản hồi: {'message': 'URL bị trùng nên không thêm'}
+2025-04-16 21:54:04,641 - INFO - Tìm thấy 12 post containers trên màn hình.
+2025-04-16 21:54:04,820 - INFO - Đã gửi link lên API thành công (4/50): https://www.facebook.com/groups/tansinhvienneu/posts/2449668335432089/ | Phản hồi: {'message': 'URL bị trùng nên không thêm'}
+2025-04-16 21:54:05,642 - INFO - Đã gửi link lên API thành công (5/50): https://www.facebook.com/groups/tansinhvienneu/posts/2449968612068728/ | Phản hồi: {'message': 'URL bị trùng nên không thêm'}
+2025-04-16 21:54:07,250 - INFO - Đã gửi link lên API thành công (6/50): https://www.facebook.com/groups/tansinhvienneu/posts/2449674618764794/ | Phản hồi: {'message': 'URL bị trùng nên không thêm'}
+2025-04-16 21:54:08,445 - INFO - Đã gửi link lên API thành công (7/50): https://www.facebook.com/groups/tansinhvienneu/posts/2449311422134447/ | Phản hồi: {'message': 'URL bị trùng nên không thêm'}
+2025-04-16 21:54:10,016 - INFO - Đã gửi link lên API thành công (8/50): https://www.facebook.com/groups/tansinhvienneu/posts/2449992848732971/ | Phản hồi: {'message': 'URL bị trùng nên không thêm'}
+2025-04-16 21:54:13,898 - INFO - Tìm thấy 11 post containers trên màn hình.
+2025-04-16 21:54:14,018 - INFO - Đã gửi link lên API thành công (9/50): https://www.facebook.com/groups/tansinhvienneu/posts/2449977032067886/ | Phản hồi: {'message': 'URL bị trùng nên không thêm'}
+2025-04-16 21:54:14,756 - INFO - Đã gửi link lên API thành công (10/50): https://www.facebook.com/groups/tansinhvienneu/posts/2449960845402838/ | Phản hồi: {'message': 'URL bị trùng nên không thêm'}
+2025-04-16 21:54:16,232 - INFO - Đã gửi link lên API thành công (11/50): https://www.facebook.com/groups/tansinhvienneu/posts/2446936392371950/ | Phản hồi: {'message': 'URL bị trùng nên không thêm'}
+2025-04-16 21:54:19,735 - INFO - Tìm thấy 10 post containers trên màn hình.
+2025-04-16 21:54:19,829 - INFO - Đã gửi link lên API thành công (12/50): https://www.facebook.com/groups/tansinhvienneu/posts/2449938155405107/ | Phản hồi: {'message': 'URL bị trùng nên không thêm'}
+2025-04-16 21:54:21,329 - INFO - Đã gửi link lên API thành công (13/50): https://www.facebook.com/groups/tansinhvienneu/posts/2449074148824841/ | Phản hồi: {'message': 'URL bị trùng nên không thêm'}
+2025-04-16 21:54:22,885 - INFO - Đã gửi link lên API thành công (14/50): https://www.facebook.com/groups/tansinhvienneu/posts/2449960565402866/ | Phản hồi: {'message': 'URL bị trùng nên không thêm'}
+2025-04-16 21:54:24,386 - INFO - Đã gửi link lên API thành công (15/50): https://www.facebook.com/groups/tansinhvienneu/posts/2392710211127902/ | Phản hồi: {'message': 'URL bị trùng nên không thêm'}
+2025-04-16 21:54:27,974 - INFO - Tìm thấy 9 post containers trên màn hình.
+2025-04-16 21:54:28,082 - INFO - Đã gửi link lên API thành công (16/50): https://www.facebook.com/groups/tansinhvienneu/posts/2449162572149332/ | Phản hồi: {'message': 'URL bị trùng nên không thêm'}
+2025-04-16 21:54:29,554 - INFO - Đã gửi link lên API thành công (17/50): https://www.facebook.com/groups/tansinhvienneu/posts/2400903556975234/ | Phản hồi: {'message': 'URL bị trùng nên không thêm'}
+2025-04-16 21:54:30,204 - INFO - Đã gửi link lên API thành công (18/50): https://www.facebook.com/groups/tansinhvienneu/posts/2449939468738309/ | Phản hồi: {'message': 'URL bị trùng nên không thêm'}
+2025-04-16 21:54:33,183 - INFO - Tìm thấy 7 post containers trên màn hình.
+2025-04-16 21:54:33,300 - INFO - Đã gửi link lên API thành công (19/50): https://www.facebook.com/groups/tansinhvienneu/posts/2076164136115846/ | Phản hồi: {'message': 'URL bị trùng nên không thêm'}
+2025-04-16 21:54:34,448 - INFO - Đã gửi link lên API thành công (20/50): https://www.facebook.com/groups/tansinhvienneu/posts/2448349798897276/ | Phản hồi: {'message': 'URL bị trùng nên không thêm'}
+2025-04-16 21:54:37,166 - INFO - Tìm thấy 15 post containers trên màn hình.
+2025-04-16 21:54:37,293 - INFO - Đã gửi link lên API thành công (21/50): https://www.facebook.com/groups/tansinhvienneu/posts/2449813662084223/ | Phản hồi: {'message': 'URL bị trùng nên không thêm'}
+2025-04-16 21:54:38,317 - INFO - Đã gửi link lên API thành công (22/50): https://www.facebook.com/groups/tansinhvienneu/posts/2447900502275539/ | Phản hồi: {'message': 'URL bị trùng nên không thêm'}
+2025-04-16 21:54:39,502 - INFO - Đã gửi link lên API thành công (23/50): https://www.facebook.com/groups/tansinhvienneu/posts/2449090202156569/ | Phản hồi: {'message': 'URL bị trùng nên không thêm'}
+2025-04-16 21:54:40,315 - INFO - Đã gửi link lên API thành công (24/50): https://www.facebook.com/groups/tansinhvienneu/posts/2448810742184515/ | Phản hồi: {'message': 'URL bị trùng nên không thêm'}
+2025-04-16 21:54:41,791 - INFO - Đã gửi link lên API thành công (25/50): https://www.facebook.com/groups/tansinhvienneu/posts/2449798308752425/ | Phản hồi: {'message': 'URL bị trùng nên không thêm'}
+2025-04-16 21:54:44,402 - INFO - Tìm thấy 14 post containers trên màn hình.
+2025-04-16 21:54:44,526 - INFO - Đã gửi link lên API thành công (26/50): https://www.facebook.com/groups/tansinhvienneu/posts/2449233302142259/ | Phản hồi: {'message': 'URL bị trùng nên không thêm'}
+2025-04-16 21:54:45,944 - INFO - Đã gửi link lên API thành công (27/50): https://www.facebook.com/groups/tansinhvienneu/posts/2449953798736876/ | Phản hồi: {'message': 'URL bị trùng nên không thêm'}
+2025-04-16 21:54:46,975 - INFO - Đã gửi link lên API thành công (28/50): https://www.facebook.com/groups/tansinhvienneu/posts/2449244692141120/ | Phản hồi: {'message': 'URL bị trùng nên không thêm'}
+2025-04-16 21:54:48,188 - INFO - Đã gửi link lên API thành công (29/50): https://www.facebook.com/groups/tansinhvienneu/posts/2448696482195941/ | Phản hồi: {'message': 'URL bị trùng nên không thêm'}
+2025-04-16 21:54:50,475 - INFO - Tìm thấy 18 post containers trên màn hình.
+2025-04-16 21:54:50,592 - INFO - Đã gửi link lên API thành công (30/50): https://www.facebook.com/groups/tansinhvienneu/posts/2449201685478754/ | Phản hồi: {'message': 'URL bị trùng nên không thêm'}
+2025-04-16 21:54:51,481 - INFO - Đã gửi link lên API thành công (31/50): https://www.facebook.com/groups/tansinhvienneu/posts/2449058188826437/ | Phản hồi: {'message': 'URL bị trùng nên không thêm'}
+2025-04-16 21:54:52,569 - INFO - Đã gửi link lên API thành công (32/50): https://www.facebook.com/groups/tansinhvienneu/posts/2449482312117358/ | Phản hồi: {'message': 'URL bị trùng nên không thêm'}
+2025-04-16 21:54:53,647 - INFO - Đã gửi link lên API thành công (33/50): https://www.facebook.com/groups/tansinhvienneu/posts/2397157487349841/ | Phản hồi: {'message': 'URL bị trùng nên không thêm'}
+2025-04-16 21:54:54,452 - INFO - Đã gửi link lên API thành công (34/50): https://www.facebook.com/groups/tansinhvienneu/posts/2449011998831056/ | Phản hồi: {'message': 'URL bị trùng nên không thêm'}
+2025-04-16 21:54:56,313 - INFO - Tìm thấy 19 post containers trên màn hình.
+2025-04-16 21:54:56,479 - INFO - Đã gửi link lên API thành công (35/50): https://www.facebook.com/groups/tansinhvienneu/posts/2449021355496787/ | Phản hồi: {'message': 'URL bị trùng nên không thêm'}
+2025-04-16 21:54:57,823 - INFO - Đã gửi link lên API thành công (36/50): https://www.facebook.com/groups/tansinhvienneu/posts/2449277888804467/ | Phản hồi: {'message': 'URL bị trùng nên không thêm'}
+2025-04-16 21:54:58,728 - INFO - Đã gửi link lên API thành công (37/50): https://www.facebook.com/groups/tansinhvienneu/posts/2449675038764752/ | Phản hồi: {'message': 'URL bị trùng nên không thêm'}
+2025-04-16 21:55:00,308 - INFO - Đã gửi link lên API thành công (38/50): https://www.facebook.com/groups/tansinhvienneu/posts/2447397198992536/ | Phản hồi: {'message': 'URL bị trùng nên không thêm'}
+2025-04-16 21:55:02,739 - INFO - Tìm thấy 20 post containers trên màn hình.
+2025-04-16 21:55:02,881 - INFO - Đã gửi link lên API thành công (39/50): https://www.facebook.com/groups/tansinhvienneu/posts/2449293758802880/ | Phản hồi: {'message': 'URL bị trùng nên không thêm'}
+2025-04-16 21:55:03,784 - INFO - Đã gửi link lên API thành công (40/50): https://www.facebook.com/groups/tansinhvienneu/posts/2449104265488496/ | Phản hồi: {'message': 'URL bị trùng nên không thêm'}
+2025-04-16 21:55:04,673 - INFO - Đã gửi link lên API thành công (41/50): https://www.facebook.com/groups/tansinhvienneu/posts/2408073322924924/ | Phản hồi: {'message': 'URL bị trùng nên không thêm'}
+2025-04-16 21:55:06,149 - INFO - Đã gửi link lên API thành công (42/50): https://www.facebook.com/groups/tansinhvienneu/posts/2448213368910919/ | Phản hồi: {'message': 'URL bị trùng nên không thêm'}
+2025-04-16 21:55:07,829 - INFO - Tìm thấy 18 post containers trên màn hình.
+2025-04-16 21:55:07,958 - INFO - Đã gửi link lên API thành công (43/50): https://www.facebook.com/groups/tansinhvienneu/posts/2449784088753847/ | Phản hồi: {'message': 'URL bị trùng nên không thêm'}
+2025-04-16 21:55:08,632 - INFO - Đã gửi link lên API thành công (44/50): https://www.facebook.com/groups/tansinhvienneu/posts/2447767835622139/ | Phản hồi: {'message': 'URL bị trùng nên không thêm'}
+2025-04-16 21:55:09,850 - INFO - Đã gửi link lên API thành công (45/50): https://www.facebook.com/groups/tansinhvienneu/posts/2449655438766712/ | Phản hồi: {'message': 'URL bị trùng nên không thêm'}
+2025-04-16 21:55:11,014 - INFO - Đã gửi link lên API thành công (46/50): https://www.facebook.com/groups/tansinhvienneu/posts/2449016388830617/ | Phản hồi: {'message': 'URL bị trùng nên không thêm'}
+2025-04-16 21:55:12,772 - INFO - Tìm thấy 20 post containers trên màn hình.
+2025-04-16 21:55:12,905 - INFO - Đã gửi link lên API thành công (47/50): https://www.facebook.com/groups/tansinhvienneu/posts/2430764690655787/ | Phản hồi: {'message': 'URL bị trùng nên không thêm'}
+2025-04-16 21:55:14,162 - INFO - Đã gửi link lên API thành công (48/50): https://www.facebook.com/groups/tansinhvienneu/posts/2166660913732834/ | Phản hồi: {'message': 'URL bị trùng nên không thêm'}
+2025-04-16 21:55:15,553 - INFO - Đã gửi link lên API thành công (49/50): https://www.facebook.com/groups/tansinhvienneu/posts/2244390325959892/ | Phản hồi: {'message': 'URL bị trùng nên không thêm'}
+2025-04-16 21:55:17,150 - INFO - Đã gửi link lên API thành công (50/50): https://www.facebook.com/groups/tansinhvienneu/posts/2448577885541134/ | Phản hồi: {'message': 'URL bị trùng nên không thêm'}
+2025-04-16 21:55:17,975 - INFO - Đã thu thập đủ 50 bài viết.
+2025-04-16 21:55:17,976 - INFO - Đã hoàn thành thu thập và gửi 50 bài viết lên API!
+2025-04-16 21:55:18,136 - INFO - Đã đóng trình duyệt.
