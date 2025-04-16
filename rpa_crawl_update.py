@@ -215,7 +215,11 @@ def main():
     logging.info("===== TOOL LẤY LINK BÀI VIẾT FACEBOOK =====")
     cookie_file_path = "facebook_cookies.txt"
     group_url = "https://www.facebook.com/groups/tansinhvienneu"
-    max_posts = int(input("Nhập số lượng bài viết cần lấy (mặc định 50): ") or "50")
+
+    try:
+        max_posts = int(os.getenv("MAX_POSTS", "50"))
+    except ValueError:
+        max_posts = 50
 
     driver = None
     try:
@@ -235,6 +239,7 @@ def main():
                 logging.info("Đã đóng trình duyệt.")
             except Exception as e:
                 logging.error(f"Lỗi khi đóng trình duyệt: {e}")
+
 
 
 if __name__ == "__main__":
