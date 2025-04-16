@@ -16,7 +16,7 @@ from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
-from selenium.common.exceptions import TimeoutException, WebDriverException, NoSuchElementException
+from selenium.common.exceptions import TimeoutException, WebDriverException, NoSuchElementException, StaleElementReferenceException
 
 # Logging
 logging.basicConfig(
@@ -192,7 +192,8 @@ def get_post_links_from_group(driver, group_url, max_posts=50):
                             logging.error(f"Lỗi khi gửi API: {e}")
 
                         time.sleep(random.uniform(0.5, 1.5))
-                except NoSuchElementException:
+                except (NoSuchElementException, StaleElementReferenceException) as e:
+                    logging.warning(f"Lỗi khi xử lý bài viết: {e}")
                     continue
 
             driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
@@ -239,7 +240,6 @@ def main():
                 logging.info("Đã đóng trình duyệt.")
             except Exception as e:
                 logging.error(f"Lỗi khi đóng trình duyệt: {e}")
-
 
 
 if __name__ == "__main__":
