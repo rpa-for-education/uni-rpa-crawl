@@ -1,11 +1,9 @@
-# Netscape HTTP Cookie File
-# https://curl.haxx.se/docs/http-cookies.html
-
-.facebook.com	TRUE	/	TRUE	1747399561	c_user	61571984152551
-.facebook.com	TRUE	/	TRUE	1747399561	xs	35%3AKS2KiLadPhRnbA%3A2%3A1741976713%3A-1%3A-1%3A3-tBoNmQ8XeqVA%3AAcV-ZGHfO2XB6ZL9Pa83mDjcipLMJ_VrJoWvmjHaeOY
-.facebook.com	TRUE	/	TRUE	1747399561	datr	yPC0Z6Uxh28qjzRXz7cyaBsi
-.facebook.com	TRUE	/	TRUE	1747399561	fr	1ZQGV0gJJtpVwofLu.AWe95LU2RLhJoyZdbvGzwK_xE59tLZNSQbW7pQ1Bv95rcg46dbw.Bn_5u-..AAA.0.0.Bn_6Em.AWfaly74HLytZ8PWJlneEDrViTU
-.facebook.com	TRUE	/	TRUE	1747399561	sb	yPC0ZwjP3z0zdjjTSGEhXlTD
-.facebook.com	TRUE	/	TRUE	1747399561	dpr	0.800000011920929
-.facebook.com	TRUE	/	TRUE	1747399561	presence	C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1744807300340%2C%22v%22%3A1%7D
-.facebook.com	TRUE	/	TRUE	1747399561	wd	1141x953
+.facebook.com	TRUE	/	True	1752637383	fr	0agQxTRAGvG9SBBhU.AWcBWgFTdZO8NXxde8oRiR-NpKUnr9-YiSqeCXHpPGzXjzXZoB4.BoAHi0..AAA.0.0.BoAHjH.AWeENrFRq_wMXlGvguuHurAjjEw
+.facebook.com	TRUE	/	True	1776397383	c_user	61574030660500
+.facebook.com	TRUE	/	True	1779421371	ps_l	1
+.facebook.com	TRUE	/	True	1776397383	xs	29%3AkrYyLMx5m-FiLg%3A2%3A1744861381%3A-1%3A10601
+.facebook.com	TRUE	/	True	1779421371	ps_n	1
+.facebook.com	TRUE	/	True	0	presence	C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1744861385682%2C%22v%22%3A1%7D
+.facebook.com	TRUE	/	True	1745466185	wd	1512x740
+.facebook.com	TRUE	/	True	1779421383	sb	tHgAaNoyR_bQe5OgE24ZZw36
+.facebook.com	TRUE	/	True	1779421364	datr	tHgAaFarhS8QVIQJFoIWD_uN

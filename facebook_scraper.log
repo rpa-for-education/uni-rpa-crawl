@@ -70,3 +70,220 @@
 2025-04-16 21:55:17,975 - INFO - Đã thu thập đủ 50 bài viết.
 2025-04-16 21:55:17,976 - INFO - Đã hoàn thành thu thập và gửi 50 bài viết lên API!
 2025-04-16 21:55:18,136 - INFO - Đã đóng trình duyệt.
+2025-04-17 10:10:11,178 - INFO - ===== CÔNG CỤ LẤY LINK BÀI VIẾT FACEBOOK VÀ GỬI LÊN API =====
+2025-04-17 10:11:19,794 - INFO - Đã tìm thấy 8 cookie, bao gồm các cookie quan trọng
+2025-04-17 10:11:23,142 - INFO - Đã thêm 8/8 cookie vào trình duyệt
+2025-04-17 10:11:34,211 - ERROR - Kiểm tra đăng nhập thất bại: Message: 
+Stacktrace:
+0   chromedriver                        0x0000000104c5adec cxxbridge1$str$ptr + 2817040
+1   chromedriver                        0x0000000104c53088 cxxbridge1$str$ptr + 2784940
+2   chromedriver                        0x000000010479a8d8 cxxbridge1$string$len + 93028
+3   chromedriver                        0x00000001047e16a0 cxxbridge1$string$len + 383276
+4   chromedriver                        0x00000001048227b8 cxxbridge1$string$len + 649796
+5   chromedriver                        0x00000001047d5a80 cxxbridge1$string$len + 335116
+6   chromedriver                        0x0000000104c1fc74 cxxbridge1$str$ptr + 2575000
+7   chromedriver                        0x0000000104c22f40 cxxbridge1$str$ptr + 2588004
+8   chromedriver                        0x0000000104bff9fc cxxbridge1$str$ptr + 2443296
+9   chromedriver                        0x0000000104c237bc cxxbridge1$str$ptr + 2590176
+10  chromedriver                        0x0000000104bf0af0 cxxbridge1$str$ptr + 2382100
+11  chromedriver                        0x0000000104c439a0 cxxbridge1$str$ptr + 2721732
+12  chromedriver                        0x0000000104c43b2c cxxbridge1$str$ptr + 2722128
+13  chromedriver                        0x0000000104c52cd4 cxxbridge1$str$ptr + 2783992
+14  libsystem_pthread.dylib             0x00000001851cbfa8 _pthread_start + 148
+15  libsystem_pthread.dylib             0x00000001851c6da0 thread_start + 8
+
+2025-04-17 10:11:34,213 - ERROR - Cookie có thể không hợp lệ hoặc đã hết hạn
+2025-04-17 10:11:34,293 - INFO - Đã đóng trình duyệt.
+2025-04-17 10:11:37,858 - INFO - ===== CÔNG CỤ LẤY LINK BÀI VIẾT FACEBOOK VÀ GỬI LÊN API =====
+2025-04-17 10:11:40,952 - INFO - Đã tìm thấy 8 cookie, bao gồm các cookie quan trọng
+2025-04-17 10:11:43,742 - INFO - Đã thêm 8/8 cookie vào trình duyệt
+2025-04-17 10:11:54,560 - ERROR - Kiểm tra đăng nhập thất bại: Message: 
+Stacktrace:
+0   chromedriver                        0x000000010468adec cxxbridge1$str$ptr + 2817040
+1   chromedriver                        0x0000000104683088 cxxbridge1$str$ptr + 2784940
+2   chromedriver                        0x00000001041ca8d8 cxxbridge1$string$len + 93028
+3   chromedriver                        0x00000001042116a0 cxxbridge1$string$len + 383276
+4   chromedriver                        0x00000001042527b8 cxxbridge1$string$len + 649796
+5   chromedriver                        0x0000000104205a80 cxxbridge1$string$len + 335116
+6   chromedriver                        0x000000010464fc74 cxxbridge1$str$ptr + 2575000
+7   chromedriver                        0x0000000104652f40 cxxbridge1$str$ptr + 2588004
+8   chromedriver                        0x000000010462f9fc cxxbridge1$str$ptr + 2443296
+9   chromedriver                        0x00000001046537bc cxxbridge1$str$ptr + 2590176
+10  chromedriver                        0x0000000104620af0 cxxbridge1$str$ptr + 2382100
+11  chromedriver                        0x00000001046739a0 cxxbridge1$str$ptr + 2721732
+12  chromedriver                        0x0000000104673b2c cxxbridge1$str$ptr + 2722128
+13  chromedriver                        0x0000000104682cd4 cxxbridge1$str$ptr + 2783992
+14  libsystem_pthread.dylib             0x00000001851cbfa8 _pthread_start + 148
+15  libsystem_pthread.dylib             0x00000001851c6da0 thread_start + 8
+
+2025-04-17 10:11:54,561 - ERROR - Cookie có thể không hợp lệ hoặc đã hết hạn
+2025-04-17 10:11:54,636 - INFO - Đã đóng trình duyệt.
+2025-04-17 10:33:02,278 - INFO - ===== CÔNG CỤ LẤY LINK BÀI VIẾT FACEBOOK VÀ GỬI LÊN API =====
+2025-04-17 10:33:23,622 - INFO - ===== CÔNG CỤ LẤY LINK BÀI VIẾT FACEBOOK VÀ GỬI LÊN API =====
+2025-04-17 10:33:33,617 - INFO - Đã tìm thấy 8 cookie, bao gồm các cookie quan trọng
+2025-04-17 10:33:36,965 - INFO - Đã thêm 8/8 cookie vào trình duyệt
+2025-04-17 10:33:47,876 - ERROR - Kiểm tra đăng nhập thất bại: Message: 
+Stacktrace:
+0   chromedriver                        0x0000000100da6dec cxxbridge1$str$ptr + 2817040
+1   chromedriver                        0x0000000100d9f088 cxxbridge1$str$ptr + 2784940
+2   chromedriver                        0x00000001008e68d8 cxxbridge1$string$len + 93028
+3   chromedriver                        0x000000010092d6a0 cxxbridge1$string$len + 383276
+4   chromedriver                        0x000000010096e7b8 cxxbridge1$string$len + 649796
+5   chromedriver                        0x0000000100921a80 cxxbridge1$string$len + 335116
+6   chromedriver                        0x0000000100d6bc74 cxxbridge1$str$ptr + 2575000
+7   chromedriver                        0x0000000100d6ef40 cxxbridge1$str$ptr + 2588004
+8   chromedriver                        0x0000000100d4b9fc cxxbridge1$str$ptr + 2443296
+9   chromedriver                        0x0000000100d6f7bc cxxbridge1$str$ptr + 2590176
+10  chromedriver                        0x0000000100d3caf0 cxxbridge1$str$ptr + 2382100
+11  chromedriver                        0x0000000100d8f9a0 cxxbridge1$str$ptr + 2721732
+12  chromedriver                        0x0000000100d8fb2c cxxbridge1$str$ptr + 2722128
+13  chromedriver                        0x0000000100d9ecd4 cxxbridge1$str$ptr + 2783992
+14  libsystem_pthread.dylib             0x00000001851cbfa8 _pthread_start + 148
+15  libsystem_pthread.dylib             0x00000001851c6da0 thread_start + 8
+
+2025-04-17 10:33:47,876 - ERROR - Cookie có thể không hợp lệ hoặc đã hết hạn
+2025-04-17 10:33:47,968 - INFO - Đã đóng trình duyệt.
+2025-04-17 10:34:12,645 - INFO - ===== CÔNG CỤ LẤY LINK BÀI VIẾT FACEBOOK VÀ GỬI LÊN API =====
+2025-04-17 10:34:17,094 - ERROR - Không tìm thấy file cookie: facebook_cookies.txt
+2025-04-17 10:34:17,167 - INFO - Đã đóng trình duyệt.
+2025-04-17 10:35:06,804 - INFO - ===== CÔNG CỤ LẤY LINK BÀI VIẾT FACEBOOK VÀ GỬI LÊN API =====
+2025-04-17 10:35:22,339 - INFO - ===== CÔNG CỤ LẤY LINK BÀI VIẾT FACEBOOK VÀ GỬI LÊN API =====
+2025-04-17 10:38:16,592 - INFO - ===== CÔNG CỤ LẤY LINK BÀI VIẾT FACEBOOK VÀ GỬI LÊN API =====
+2025-04-17 10:38:45,167 - INFO - ===== CÔNG CỤ LẤY LINK BÀI VIẾT FACEBOOK VÀ GỬI LÊN API =====
+2025-04-17 10:39:28,953 - ERROR - Lỗi khi đăng nhập thủ công: Message: 
+Stacktrace:
+0   chromedriver                        0x00000001028dadec cxxbridge1$str$ptr + 2817040
+1   chromedriver                        0x00000001028d3088 cxxbridge1$str$ptr + 2784940
+2   chromedriver                        0x000000010241a8d8 cxxbridge1$string$len + 93028
+3   chromedriver                        0x00000001024616a0 cxxbridge1$string$len + 383276
+4   chromedriver                        0x00000001024a27b8 cxxbridge1$string$len + 649796
+5   chromedriver                        0x0000000102455a80 cxxbridge1$string$len + 335116
+6   chromedriver                        0x000000010289fc74 cxxbridge1$str$ptr + 2575000
+7   chromedriver                        0x00000001028a2f40 cxxbridge1$str$ptr + 2588004
+8   chromedriver                        0x000000010287f9fc cxxbridge1$str$ptr + 2443296
+9   chromedriver                        0x00000001028a37bc cxxbridge1$str$ptr + 2590176
+10  chromedriver                        0x0000000102870af0 cxxbridge1$str$ptr + 2382100
+11  chromedriver                        0x00000001028c39a0 cxxbridge1$str$ptr + 2721732
+12  chromedriver                        0x00000001028c3b2c cxxbridge1$str$ptr + 2722128
+13  chromedriver                        0x00000001028d2cd4 cxxbridge1$str$ptr + 2783992
+14  libsystem_pthread.dylib             0x00000001851cbfa8 _pthread_start + 148
+15  libsystem_pthread.dylib             0x00000001851c6da0 thread_start + 8
+
+2025-04-17 10:39:28,955 - ERROR - Đăng nhập thủ công thất bại
+2025-04-17 10:39:29,049 - INFO - Đã đóng trình duyệt.
+2025-04-17 10:39:50,285 - INFO - ===== CÔNG CỤ LẤY LINK BÀI VIẾT FACEBOOK VÀ GỬI LÊN API =====
+2025-04-17 10:40:21,441 - ERROR - Lỗi khi đăng nhập thủ công: Message: 
+Stacktrace:
+0   chromedriver                        0x0000000100596dec cxxbridge1$str$ptr + 2817040
+1   chromedriver                        0x000000010058f088 cxxbridge1$str$ptr + 2784940
+2   chromedriver                        0x00000001000d68d8 cxxbridge1$string$len + 93028
+3   chromedriver                        0x000000010011d6a0 cxxbridge1$string$len + 383276
+4   chromedriver                        0x000000010015e7b8 cxxbridge1$string$len + 649796
+5   chromedriver                        0x0000000100111a80 cxxbridge1$string$len + 335116
+6   chromedriver                        0x000000010055bc74 cxxbridge1$str$ptr + 2575000
+7   chromedriver                        0x000000010055ef40 cxxbridge1$str$ptr + 2588004
+8   chromedriver                        0x000000010053b9fc cxxbridge1$str$ptr + 2443296
+9   chromedriver                        0x000000010055f7bc cxxbridge1$str$ptr + 2590176
+10  chromedriver                        0x000000010052caf0 cxxbridge1$str$ptr + 2382100
+11  chromedriver                        0x000000010057f9a0 cxxbridge1$str$ptr + 2721732
+12  chromedriver                        0x000000010057fb2c cxxbridge1$str$ptr + 2722128
+13  chromedriver                        0x000000010058ecd4 cxxbridge1$str$ptr + 2783992
+14  libsystem_pthread.dylib             0x00000001851cbfa8 _pthread_start + 148
+15  libsystem_pthread.dylib             0x00000001851c6da0 thread_start + 8
+
+2025-04-17 10:40:21,443 - ERROR - Đăng nhập thủ công thất bại
+2025-04-17 10:40:21,525 - INFO - Đã đóng trình duyệt.
+2025-04-17 10:41:28,539 - INFO - ===== CÔNG CỤ LẤY LINK BÀI VIẾT FACEBOOK VÀ GỬI LÊN API =====
+2025-04-17 10:42:16,426 - ERROR - Lỗi khi đăng nhập thủ công: Message: 
+Stacktrace:
+0   chromedriver                        0x00000001005fadec cxxbridge1$str$ptr + 2817040
+1   chromedriver                        0x00000001005f3088 cxxbridge1$str$ptr + 2784940
+2   chromedriver                        0x000000010013a8d8 cxxbridge1$string$len + 93028
+3   chromedriver                        0x00000001001816a0 cxxbridge1$string$len + 383276
+4   chromedriver                        0x00000001001c27b8 cxxbridge1$string$len + 649796
+5   chromedriver                        0x0000000100175a80 cxxbridge1$string$len + 335116
+6   chromedriver                        0x00000001005bfc74 cxxbridge1$str$ptr + 2575000
+7   chromedriver                        0x00000001005c2f40 cxxbridge1$str$ptr + 2588004
+8   chromedriver                        0x000000010059f9fc cxxbridge1$str$ptr + 2443296
+9   chromedriver                        0x00000001005c37bc cxxbridge1$str$ptr + 2590176
+10  chromedriver                        0x0000000100590af0 cxxbridge1$str$ptr + 2382100
+11  chromedriver                        0x00000001005e39a0 cxxbridge1$str$ptr + 2721732
+12  chromedriver                        0x00000001005e3b2c cxxbridge1$str$ptr + 2722128
+13  chromedriver                        0x00000001005f2cd4 cxxbridge1$str$ptr + 2783992
+14  libsystem_pthread.dylib             0x00000001851cbfa8 _pthread_start + 148
+15  libsystem_pthread.dylib             0x00000001851c6da0 thread_start + 8
+
+2025-04-17 10:42:16,428 - ERROR - Đăng nhập thủ công thất bại
+2025-04-17 10:42:16,514 - INFO - Đã đóng trình duyệt.
+2025-04-17 10:42:24,626 - INFO - ===== CÔNG CỤ LẤY LINK BÀI VIẾT FACEBOOK VÀ GỬI LÊN API =====
+2025-04-17 10:43:05,757 - INFO - Đăng nhập thủ công thành công!
+2025-04-17 10:43:05,762 - INFO - Đã lưu cookies vào facebook_cookies.txt
+2025-04-17 10:43:07,670 - INFO - Đang truy cập vào group: https://www.facebook.com/groups/tansinhvienneu
+2025-04-17 10:43:07,708 - INFO - Tìm thấy 4 post containers trên màn hình.
+2025-04-17 10:43:07,988 - INFO - Đã gửi link lên API thành công (1/50): https://www.facebook.com/groups/tansinhvienneu/posts/2449668335432089/ | Phản hồi: {'message': 'URL bị trùng nên không thêm'}
+2025-04-17 10:43:11,977 - INFO - Tìm thấy 8 post containers trên màn hình.
+2025-04-17 10:43:12,115 - INFO - Đã gửi link lên API thành công (2/50): https://www.facebook.com/groups/tansinhvienneu/posts/2449968612068728/ | Phản hồi: {'message': 'URL bị trùng nên không thêm'}
+2025-04-17 10:43:13,717 - INFO - Đã gửi link lên API thành công (3/50): https://www.facebook.com/groups/tansinhvienneu/posts/2450621322003457/ | Phản hồi: {'message': 'Thêm bài viết thành công'}
+2025-04-17 10:43:17,789 - INFO - Tìm thấy 9 post containers trên màn hình.
+2025-04-17 10:43:18,126 - INFO - Đã gửi link lên API thành công (4/50): https://www.facebook.com/groups/tansinhvienneu/posts/2449311422134447/ | Phản hồi: {'message': 'URL bị trùng nên không thêm'}
+2025-04-17 10:43:19,533 - INFO - Đã gửi link lên API thành công (5/50): https://www.facebook.com/groups/tansinhvienneu/posts/2449204175478505/ | Phản hồi: {'message': 'URL bị trùng nên không thêm'}
+2025-04-17 10:43:20,302 - INFO - Đã gửi link lên API thành công (6/50): https://www.facebook.com/groups/tansinhvienneu/posts/2450677475331175/ | Phản hồi: {'message': 'Thêm bài viết thành công'}
+2025-04-17 10:43:21,061 - INFO - Đã gửi link lên API thành công (7/50): https://www.facebook.com/groups/tansinhvienneu/posts/2450122258720030/ | Phản hồi: {'message': 'URL bị trùng nên không thêm'}
+2025-04-17 10:43:25,213 - INFO - Tìm thấy 10 post containers trên màn hình.
+2025-04-17 10:43:25,340 - INFO - Đã gửi link lên API thành công (8/50): https://www.facebook.com/groups/tansinhvienneu/posts/2449674618764794/ | Phản hồi: {'message': 'URL bị trùng nên không thêm'}
+2025-04-17 10:43:26,448 - INFO - Đã gửi link lên API thành công (9/50): https://www.facebook.com/groups/tansinhvienneu/posts/2450243462041243/ | Phản hồi: {'message': 'Thêm bài viết thành công'}
+2025-04-17 10:43:28,585 - INFO - Đã gửi link lên API thành công (10/50): https://www.facebook.com/groups/tansinhvienneu/posts/2449104265488496/ | Phản hồi: {'message': 'URL bị trùng nên không thêm'}
+2025-04-17 10:43:31,965 - INFO - Tìm thấy 11 post containers trên màn hình.
+2025-04-17 10:43:32,080 - INFO - Đã gửi link lên API thành công (11/50): https://www.facebook.com/groups/tansinhvienneu/posts/2449074148824841/ | Phản hồi: {'message': 'URL bị trùng nên không thêm'}
+2025-04-17 10:43:33,661 - INFO - Đã gửi link lên API thành công (12/50): https://www.facebook.com/groups/tansinhvienneu/posts/2450572302008359/ | Phản hồi: {'message': 'Thêm bài viết thành công'}
+2025-04-17 10:43:35,169 - INFO - Đã gửi link lên API thành công (13/50): https://www.facebook.com/groups/tansinhvienneu/posts/2444761459256110/ | Phản hồi: {'message': 'Thêm bài viết thành công'}
+2025-04-17 10:43:36,384 - INFO - Đã gửi link lên API thành công (14/50): https://www.facebook.com/groups/tansinhvienneu/posts/2448202752245314/ | Phản hồi: {'message': 'URL bị trùng nên không thêm'}
+2025-04-17 10:43:39,638 - INFO - Tìm thấy 10 post containers trên màn hình.
+2025-04-17 10:43:39,759 - INFO - Đã gửi link lên API thành công (15/50): https://www.facebook.com/groups/tansinhvienneu/posts/2447529278979328/ | Phản hồi: {'message': 'URL bị trùng nên không thêm'}
+2025-04-17 10:43:40,791 - INFO - Đã gửi link lên API thành công (16/50): https://www.facebook.com/groups/tansinhvienneu/posts/2450125678719688/ | Phản hồi: {'message': 'Thêm bài viết thành công'}
+2025-04-17 10:43:41,560 - INFO - Đã gửi link lên API thành công (17/50): https://www.facebook.com/groups/tansinhvienneu/posts/2447397198992536/ | Phản hồi: {'message': 'URL bị trùng nên không thêm'}
+2025-04-17 10:43:45,231 - INFO - Tìm thấy 12 post containers trên màn hình.
+2025-04-17 10:43:46,217 - INFO - Đã gửi link lên API thành công (18/50): https://www.facebook.com/groups/tansinhvienneu/posts/2449992848732971/ | Phản hồi: {'message': 'URL bị trùng nên không thêm'}
+2025-04-17 10:43:48,221 - INFO - Đã gửi link lên API thành công (19/50): https://www.facebook.com/groups/tansinhvienneu/posts/2434441083621481/ | Phản hồi: {'message': 'URL bị trùng nên không thêm'}
+2025-04-17 10:43:49,478 - INFO - Đã gửi link lên API thành công (20/50): https://www.facebook.com/groups/tansinhvienneu/posts/2449798308752425/ | Phản hồi: {'message': 'URL bị trùng nên không thêm'}
+2025-04-17 10:43:50,761 - INFO - Đã gửi link lên API thành công (21/50): https://www.facebook.com/groups/tansinhvienneu/posts/2446124332453156/ | Phản hồi: {'message': 'URL bị trùng nên không thêm'}
+2025-04-17 10:43:53,894 - INFO - Tìm thấy 12 post containers trên màn hình.
+2025-04-17 10:43:54,056 - INFO - Đã gửi link lên API thành công (22/50): https://www.facebook.com/groups/tansinhvienneu/posts/2449970005401922/ | Phản hồi: {'message': 'URL bị trùng nên không thêm'}
+2025-04-17 10:43:55,505 - INFO - Đã gửi link lên API thành công (23/50): https://www.facebook.com/groups/tansinhvienneu/posts/2449971342068455/ | Phản hồi: {'message': 'Thêm bài viết thành công'}
+2025-04-17 10:43:56,887 - INFO - Đã gửi link lên API thành công (24/50): https://www.facebook.com/groups/tansinhvienneu/posts/2449784088753847/ | Phản hồi: {'message': 'URL bị trùng nên không thêm'}
+2025-04-17 10:43:59,831 - INFO - Tìm thấy 12 post containers trên màn hình.
+2025-04-17 10:44:00,061 - INFO - Đã gửi link lên API thành công (25/50): https://www.facebook.com/groups/tansinhvienneu/posts/2448349798897276/ | Phản hồi: {'message': 'URL bị trùng nên không thêm'}
+2025-04-17 10:44:01,584 - INFO - Đã gửi link lên API thành công (26/50): https://www.facebook.com/groups/tansinhvienneu/posts/2340154473050143/ | Phản hồi: {'message': 'Thêm bài viết thành công'}
+2025-04-17 10:44:02,440 - INFO - Đã gửi link lên API thành công (27/50): https://www.facebook.com/groups/tansinhvienneu/posts/2449813662084223/ | Phản hồi: {'message': 'URL bị trùng nên không thêm'}
+2025-04-17 10:44:05,543 - INFO - Tìm thấy 16 post containers trên màn hình.
+2025-04-17 10:44:05,658 - INFO - Đã gửi link lên API thành công (28/50): https://www.facebook.com/groups/tansinhvienneu/posts/2450119858720270/ | Phản hồi: {'message': 'URL bị trùng nên không thêm'}
+2025-04-17 10:44:06,727 - INFO - Đã gửi link lên API thành công (29/50): https://www.facebook.com/groups/tansinhvienneu/posts/2448696482195941/ | Phản hồi: {'message': 'URL bị trùng nên không thêm'}
+2025-04-17 10:44:07,757 - INFO - Đã gửi link lên API thành công (30/50): https://www.facebook.com/groups/tansinhvienneu/posts/2450163628715893/ | Phản hồi: {'message': 'URL bị trùng nên không thêm'}
+2025-04-17 10:44:08,911 - INFO - Đã gửi link lên API thành công (31/50): https://www.facebook.com/groups/tansinhvienneu/posts/2419402745125315/ | Phản hồi: {'message': 'URL bị trùng nên không thêm'}
+2025-04-17 10:44:09,751 - INFO - Đã gửi link lên API thành công (32/50): https://www.facebook.com/groups/tansinhvienneu/posts/2405388056526784/ | Phản hồi: {'message': 'URL bị trùng nên không thêm'}
+2025-04-17 10:44:11,772 - INFO - Tìm thấy 13 post containers trên màn hình.
+2025-04-17 10:44:11,911 - INFO - Đã gửi link lên API thành công (33/50): https://www.facebook.com/groups/tansinhvienneu/posts/2449938155405107/ | Phản hồi: {'message': 'URL bị trùng nên không thêm'}
+2025-04-17 10:44:13,157 - INFO - Đã gửi link lên API thành công (34/50): https://www.facebook.com/groups/tansinhvienneu/posts/2449977032067886/ | Phản hồi: {'message': 'URL bị trùng nên không thêm'}
+2025-04-17 10:44:14,059 - INFO - Đã gửi link lên API thành công (35/50): https://www.facebook.com/groups/tansinhvienneu/posts/2449960845402838/ | Phản hồi: {'message': 'URL bị trùng nên không thêm'}
+2025-04-17 10:44:14,710 - INFO - Đã gửi link lên API thành công (36/50): https://www.facebook.com/groups/tansinhvienneu/posts/2446936392371950/ | Phản hồi: {'message': 'URL bị trùng nên không thêm'}
+2025-04-17 10:44:15,605 - INFO - Đã gửi link lên API thành công (37/50): https://www.facebook.com/groups/tansinhvienneu/posts/2447900502275539/ | Phản hồi: {'message': 'URL bị trùng nên không thêm'}
+2025-04-17 10:44:18,263 - INFO - Tìm thấy 12 post containers trên màn hình.
+2025-04-17 10:44:18,389 - INFO - Đã gửi link lên API thành công (38/50): https://www.facebook.com/groups/tansinhvienneu/posts/2392710211127902/ | Phản hồi: {'message': 'URL bị trùng nên không thêm'}
+2025-04-17 10:44:19,856 - INFO - Đã gửi link lên API thành công (39/50): https://www.facebook.com/groups/tansinhvienneu/posts/2447704355628487/ | Phản hồi: {'message': 'URL bị trùng nên không thêm'}
+2025-04-17 10:44:20,944 - INFO - Đã gửi link lên API thành công (40/50): https://www.facebook.com/groups/tansinhvienneu/posts/2449162572149332/ | Phản hồi: {'message': 'URL bị trùng nên không thêm'}
+2025-04-17 10:44:22,813 - INFO - Tìm thấy 10 post containers trên màn hình.
+2025-04-17 10:44:22,930 - INFO - Đã gửi link lên API thành công (41/50): https://www.facebook.com/groups/tansinhvienneu/posts/2400903556975234/ | Phản hồi: {'message': 'URL bị trùng nên không thêm'}
+2025-04-17 10:44:23,687 - INFO - Đã gửi link lên API thành công (42/50): https://www.facebook.com/groups/tansinhvienneu/posts/2449939468738309/ | Phản hồi: {'message': 'URL bị trùng nên không thêm'}
+2025-04-17 10:44:25,398 - INFO - Tìm thấy 13 post containers trên màn hình.
+2025-04-17 10:44:25,514 - INFO - Đã gửi link lên API thành công (43/50): https://www.facebook.com/groups/tansinhvienneu/posts/2076164136115846/ | Phản hồi: {'message': 'URL bị trùng nên không thêm'}
+2025-04-17 10:44:26,915 - INFO - Đã gửi link lên API thành công (44/50): https://www.facebook.com/groups/tansinhvienneu/posts/2448810742184515/ | Phản hồi: {'message': 'URL bị trùng nên không thêm'}
+2025-04-17 10:44:27,640 - INFO - Đã gửi link lên API thành công (45/50): https://www.facebook.com/groups/tansinhvienneu/posts/2449233302142259/ | Phản hồi: {'message': 'URL bị trùng nên không thêm'}
+2025-04-17 10:44:28,768 - INFO - Đã gửi link lên API thành công (46/50): https://www.facebook.com/groups/tansinhvienneu/posts/2449953798736876/ | Phản hồi: {'message': 'URL bị trùng nên không thêm'}
+2025-04-17 10:44:30,425 - INFO - Tìm thấy 18 post containers trên màn hình.
+2025-04-17 10:44:30,554 - INFO - Đã gửi link lên API thành công (47/50): https://www.facebook.com/groups/tansinhvienneu/posts/2449201685478754/ | Phản hồi: {'message': 'URL bị trùng nên không thêm'}
+2025-04-17 10:44:31,581 - INFO - Đã gửi link lên API thành công (48/50): https://www.facebook.com/groups/tansinhvienneu/posts/2449058188826437/ | Phản hồi: {'message': 'URL bị trùng nên không thêm'}
+2025-04-17 10:44:33,193 - INFO - Đã gửi link lên API thành công (49/50): https://www.facebook.com/groups/tansinhvienneu/posts/2449482312117358/ | Phản hồi: {'message': 'URL bị trùng nên không thêm'}
+2025-04-17 10:44:34,336 - INFO - Đã gửi link lên API thành công (50/50): https://www.facebook.com/groups/tansinhvienneu/posts/2397157487349841/ | Phản hồi: {'message': 'URL bị trùng nên không thêm'}
+2025-04-17 10:44:35,197 - INFO - Đã thu thập đủ 50 bài viết.
+2025-04-17 10:44:35,198 - INFO - Đã hoàn thành thu thập và gửi 50 bài viết lên API!
+2025-04-17 10:44:35,370 - INFO - Đã đóng trình duyệt.
