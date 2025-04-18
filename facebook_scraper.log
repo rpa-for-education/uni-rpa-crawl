@@ -375,3 +375,76 @@ Stacktrace:
 
 2025-04-18 08:00:02,488 - ERROR - Đăng nhập thủ công thất bại
 2025-04-18 08:00:02,575 - INFO - Đã đóng trình duyệt.
+2025-04-18 08:12:34,296 - INFO - ===== CÔNG CỤ LẤY LINK BÀI VIẾT FACEBOOK VÀ GỬI LÊN API =====
+2025-04-18 08:13:11,980 - ERROR - Lỗi khi đăng nhập thủ công: Message: 
+Stacktrace:
+0   chromedriver                        0x00000001029cedec cxxbridge1$str$ptr + 2817040
+1   chromedriver                        0x00000001029c7088 cxxbridge1$str$ptr + 2784940
+2   chromedriver                        0x000000010250e8d8 cxxbridge1$string$len + 93028
+3   chromedriver                        0x00000001025556a0 cxxbridge1$string$len + 383276
+4   chromedriver                        0x00000001025967b8 cxxbridge1$string$len + 649796
+5   chromedriver                        0x0000000102549a80 cxxbridge1$string$len + 335116
+6   chromedriver                        0x0000000102993c74 cxxbridge1$str$ptr + 2575000
+7   chromedriver                        0x0000000102996f40 cxxbridge1$str$ptr + 2588004
+8   chromedriver                        0x00000001029739fc cxxbridge1$str$ptr + 2443296
+9   chromedriver                        0x00000001029977bc cxxbridge1$str$ptr + 2590176
+10  chromedriver                        0x0000000102964af0 cxxbridge1$str$ptr + 2382100
+11  chromedriver                        0x00000001029b79a0 cxxbridge1$str$ptr + 2721732
+12  chromedriver                        0x00000001029b7b2c cxxbridge1$str$ptr + 2722128
+13  chromedriver                        0x00000001029c6cd4 cxxbridge1$str$ptr + 2783992
+14  libsystem_pthread.dylib             0x00000001851cbfa8 _pthread_start + 148
+15  libsystem_pthread.dylib             0x00000001851c6da0 thread_start + 8
+
+2025-04-18 08:13:11,984 - ERROR - Đăng nhập thủ công thất bại
+2025-04-18 08:13:12,080 - INFO - Đã đóng trình duyệt.
+2025-04-18 08:13:39,242 - INFO - ===== CÔNG CỤ LẤY LINK BÀI VIẾT FACEBOOK VÀ GỬI LÊN API =====
+2025-04-18 08:13:48,797 - INFO - Đã thêm 4/4 cookie vào trình duyệt
+2025-04-18 08:13:59,622 - WARNING - Cookies không hợp lệ, thử đăng nhập thủ công...
+2025-04-18 08:14:17,138 - ERROR - Lỗi khi đăng nhập thủ công: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=135.0.7049.96)
+Stacktrace:
+0   chromedriver                        0x000000010337adec cxxbridge1$str$ptr + 2817040
+1   chromedriver                        0x0000000103373088 cxxbridge1$str$ptr + 2784940
+2   chromedriver                        0x0000000102eba8d8 cxxbridge1$string$len + 93028
+3   chromedriver                        0x0000000102e94758 chromedriver + 132952
+4   chromedriver                        0x0000000102f29734 cxxbridge1$string$len + 547264
+5   chromedriver                        0x0000000102f422c4 cxxbridge1$string$len + 648528
+6   chromedriver                        0x0000000102ef5a80 cxxbridge1$string$len + 335116
+7   chromedriver                        0x000000010333fc74 cxxbridge1$str$ptr + 2575000
+8   chromedriver                        0x0000000103342f40 cxxbridge1$str$ptr + 2588004
+9   chromedriver                        0x000000010331f9fc cxxbridge1$str$ptr + 2443296
+10  chromedriver                        0x00000001033437bc cxxbridge1$str$ptr + 2590176
+11  chromedriver                        0x0000000103310af0 cxxbridge1$str$ptr + 2382100
+12  chromedriver                        0x00000001033639a0 cxxbridge1$str$ptr + 2721732
+13  chromedriver                        0x0000000103363b2c cxxbridge1$str$ptr + 2722128
+14  chromedriver                        0x0000000103372cd4 cxxbridge1$str$ptr + 2783992
+15  libsystem_pthread.dylib             0x00000001851cbfa8 _pthread_start + 148
+16  libsystem_pthread.dylib             0x00000001851c6da0 thread_start + 8
+
+2025-04-18 08:14:17,140 - ERROR - Đăng nhập thủ công thất bại
+2025-04-18 08:14:17,226 - INFO - Đã đóng trình duyệt.
+2025-04-18 08:14:48,520 - INFO - ===== CÔNG CỤ LẤY LINK BÀI VIẾT FACEBOOK VÀ GỬI LÊN API =====
+2025-04-18 08:15:08,915 - INFO - Đã thêm 4/4 cookie vào trình duyệt
+2025-04-18 08:15:19,757 - WARNING - Cookies không hợp lệ, thử đăng nhập thủ công...
+2025-04-18 08:15:37,955 - ERROR - Lỗi khi đăng nhập thủ công: Message: 
+Stacktrace:
+0   chromedriver                        0x0000000100cdedec cxxbridge1$str$ptr + 2817040
+1   chromedriver                        0x0000000100cd7088 cxxbridge1$str$ptr + 2784940
+2   chromedriver                        0x000000010081e8d8 cxxbridge1$string$len + 93028
+3   chromedriver                        0x00000001008656a0 cxxbridge1$string$len + 383276
+4   chromedriver                        0x00000001008a67b8 cxxbridge1$string$len + 649796
+5   chromedriver                        0x0000000100859a80 cxxbridge1$string$len + 335116
+6   chromedriver                        0x0000000100ca3c74 cxxbridge1$str$ptr + 2575000
+7   chromedriver                        0x0000000100ca6f40 cxxbridge1$str$ptr + 2588004
+8   chromedriver                        0x0000000100c839fc cxxbridge1$str$ptr + 2443296
+9   chromedriver                        0x0000000100ca77bc cxxbridge1$str$ptr + 2590176
+10  chromedriver                        0x0000000100c74af0 cxxbridge1$str$ptr + 2382100
+11  chromedriver                        0x0000000100cc79a0 cxxbridge1$str$ptr + 2721732
+12  chromedriver                        0x0000000100cc7b2c cxxbridge1$str$ptr + 2722128
+13  chromedriver                        0x0000000100cd6cd4 cxxbridge1$str$ptr + 2783992
+14  libsystem_pthread.dylib             0x00000001851cbfa8 _pthread_start + 148
+15  libsystem_pthread.dylib             0x00000001851c6da0 thread_start + 8
+
+2025-04-18 08:15:37,958 - ERROR - Đăng nhập thủ công thất bại
+2025-04-18 08:15:38,042 - INFO - Đã đóng trình duyệt.

@@ -1,9 +1,0 @@
-.facebook.com	TRUE	/	True	1752637383	fr	0agQxTRAGvG9SBBhU.AWcBWgFTdZO8NXxde8oRiR-NpKUnr9-YiSqeCXHpPGzXjzXZoB4.BoAHi0..AAA.0.0.BoAHjH.AWeENrFRq_wMXlGvguuHurAjjEw
-.facebook.com	TRUE	/	True	1776397383	c_user	61574030660500
-.facebook.com	TRUE	/	True	1779421371	ps_l	1
-.facebook.com	TRUE	/	True	1776397383	xs	29%3AkrYyLMx5m-FiLg%3A2%3A1744861381%3A-1%3A10601
-.facebook.com	TRUE	/	True	1779421371	ps_n	1
-.facebook.com	TRUE	/	True	0	presence	C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1744861385682%2C%22v%22%3A1%7D
-.facebook.com	TRUE	/	True	1745466185	wd	1512x740
-.facebook.com	TRUE	/	True	1779421383	sb	tHgAaNoyR_bQe5OgE24ZZw36
-.facebook.com	TRUE	/	True	1779421364	datr	tHgAaFarhS8QVIQJFoIWD_uN
