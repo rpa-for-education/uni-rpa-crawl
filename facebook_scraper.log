@@ -287,3 +287,91 @@ Stacktrace:
 2025-04-17 10:44:35,197 - INFO - Đã thu thập đủ 50 bài viết.
 2025-04-17 10:44:35,198 - INFO - Đã hoàn thành thu thập và gửi 50 bài viết lên API!
 2025-04-17 10:44:35,370 - INFO - Đã đóng trình duyệt.
+2025-04-18 07:42:43,910 - INFO - ===== CÔNG CỤ LẤY LINK BÀI VIẾT FACEBOOK VÀ GỬI LÊN API =====
+2025-04-18 07:43:17,390 - WARNING - Không thể thêm cookie presence: Message: invalid argument: invalid 'expiry'
+  (Session info: chrome=135.0.7049.85)
+Stacktrace:
+0   chromedriver                        0x000000010337adec cxxbridge1$str$ptr + 2817040
+1   chromedriver                        0x0000000103373088 cxxbridge1$str$ptr + 2784940
+2   chromedriver                        0x0000000102eba8d8 cxxbridge1$string$len + 93028
+3   chromedriver                        0x0000000102f51d38 cxxbridge1$string$len + 712644
+4   chromedriver                        0x0000000102f427b8 cxxbridge1$string$len + 649796
+5   chromedriver                        0x0000000102ef5a80 cxxbridge1$string$len + 335116
+6   chromedriver                        0x000000010333fc74 cxxbridge1$str$ptr + 2575000
+7   chromedriver                        0x0000000103342f40 cxxbridge1$str$ptr + 2588004
+8   chromedriver                        0x000000010331f9fc cxxbridge1$str$ptr + 2443296
+9   chromedriver                        0x00000001033437bc cxxbridge1$str$ptr + 2590176
+10  chromedriver                        0x0000000103310af0 cxxbridge1$str$ptr + 2382100
+11  chromedriver                        0x00000001033639a0 cxxbridge1$str$ptr + 2721732
+12  chromedriver                        0x0000000103363b2c cxxbridge1$str$ptr + 2722128
+13  chromedriver                        0x0000000103372cd4 cxxbridge1$str$ptr + 2783992
+14  libsystem_pthread.dylib             0x00000001851cbfa8 _pthread_start + 148
+15  libsystem_pthread.dylib             0x00000001851c6da0 thread_start + 8
+
+2025-04-18 07:43:17,397 - INFO - Đã thêm 8/9 cookie vào trình duyệt
+2025-04-18 07:43:27,867 - WARNING - Cookies không hợp lệ, thử đăng nhập thủ công...
+2025-04-18 07:43:46,007 - ERROR - Lỗi khi đăng nhập thủ công: Message: 
+Stacktrace:
+0   chromedriver                        0x000000010337adec cxxbridge1$str$ptr + 2817040
+1   chromedriver                        0x0000000103373088 cxxbridge1$str$ptr + 2784940
+2   chromedriver                        0x0000000102eba8d8 cxxbridge1$string$len + 93028
+3   chromedriver                        0x0000000102f016a0 cxxbridge1$string$len + 383276
+4   chromedriver                        0x0000000102f427b8 cxxbridge1$string$len + 649796
+5   chromedriver                        0x0000000102ef5a80 cxxbridge1$string$len + 335116
+6   chromedriver                        0x000000010333fc74 cxxbridge1$str$ptr + 2575000
+7   chromedriver                        0x0000000103342f40 cxxbridge1$str$ptr + 2588004
+8   chromedriver                        0x000000010331f9fc cxxbridge1$str$ptr + 2443296
+9   chromedriver                        0x00000001033437bc cxxbridge1$str$ptr + 2590176
+10  chromedriver                        0x0000000103310af0 cxxbridge1$str$ptr + 2382100
+11  chromedriver                        0x00000001033639a0 cxxbridge1$str$ptr + 2721732
+12  chromedriver                        0x0000000103363b2c cxxbridge1$str$ptr + 2722128
+13  chromedriver                        0x0000000103372cd4 cxxbridge1$str$ptr + 2783992
+14  libsystem_pthread.dylib             0x00000001851cbfa8 _pthread_start + 148
+15  libsystem_pthread.dylib             0x00000001851c6da0 thread_start + 8
+
+2025-04-18 07:43:46,009 - ERROR - Đăng nhập thủ công thất bại
+2025-04-18 07:43:46,098 - INFO - Đã đóng trình duyệt.
+2025-04-18 07:59:06,912 - INFO - ===== CÔNG CỤ LẤY LINK BÀI VIẾT FACEBOOK VÀ GỬI LÊN API =====
+2025-04-18 07:59:33,626 - WARNING - Không thể thêm cookie presence: Message: invalid argument: invalid 'expiry'
+  (Session info: chrome=135.0.7049.96)
+Stacktrace:
+0   chromedriver                        0x0000000102f6adec cxxbridge1$str$ptr + 2817040
+1   chromedriver                        0x0000000102f63088 cxxbridge1$str$ptr + 2784940
+2   chromedriver                        0x0000000102aaa8d8 cxxbridge1$string$len + 93028
+3   chromedriver                        0x0000000102b41d38 cxxbridge1$string$len + 712644
+4   chromedriver                        0x0000000102b327b8 cxxbridge1$string$len + 649796
+5   chromedriver                        0x0000000102ae5a80 cxxbridge1$string$len + 335116
+6   chromedriver                        0x0000000102f2fc74 cxxbridge1$str$ptr + 2575000
+7   chromedriver                        0x0000000102f32f40 cxxbridge1$str$ptr + 2588004
+8   chromedriver                        0x0000000102f0f9fc cxxbridge1$str$ptr + 2443296
+9   chromedriver                        0x0000000102f337bc cxxbridge1$str$ptr + 2590176
+10  chromedriver                        0x0000000102f00af0 cxxbridge1$str$ptr + 2382100
+11  chromedriver                        0x0000000102f539a0 cxxbridge1$str$ptr + 2721732
+12  chromedriver                        0x0000000102f53b2c cxxbridge1$str$ptr + 2722128
+13  chromedriver                        0x0000000102f62cd4 cxxbridge1$str$ptr + 2783992
+14  libsystem_pthread.dylib             0x00000001851cbfa8 _pthread_start + 148
+15  libsystem_pthread.dylib             0x00000001851c6da0 thread_start + 8
+
+2025-04-18 07:59:33,634 - INFO - Đã thêm 8/9 cookie vào trình duyệt
+2025-04-18 07:59:44,464 - WARNING - Cookies không hợp lệ, thử đăng nhập thủ công...
+2025-04-18 08:00:02,485 - ERROR - Lỗi khi đăng nhập thủ công: Message: 
+Stacktrace:
+0   chromedriver                        0x0000000102f6adec cxxbridge1$str$ptr + 2817040
+1   chromedriver                        0x0000000102f63088 cxxbridge1$str$ptr + 2784940
+2   chromedriver                        0x0000000102aaa8d8 cxxbridge1$string$len + 93028
+3   chromedriver                        0x0000000102af16a0 cxxbridge1$string$len + 383276
+4   chromedriver                        0x0000000102b327b8 cxxbridge1$string$len + 649796
+5   chromedriver                        0x0000000102ae5a80 cxxbridge1$string$len + 335116
+6   chromedriver                        0x0000000102f2fc74 cxxbridge1$str$ptr + 2575000
+7   chromedriver                        0x0000000102f32f40 cxxbridge1$str$ptr + 2588004
+8   chromedriver                        0x0000000102f0f9fc cxxbridge1$str$ptr + 2443296
+9   chromedriver                        0x0000000102f337bc cxxbridge1$str$ptr + 2590176
+10  chromedriver                        0x0000000102f00af0 cxxbridge1$str$ptr + 2382100
+11  chromedriver                        0x0000000102f539a0 cxxbridge1$str$ptr + 2721732
+12  chromedriver                        0x0000000102f53b2c cxxbridge1$str$ptr + 2722128
+13  chromedriver                        0x0000000102f62cd4 cxxbridge1$str$ptr + 2783992
+14  libsystem_pthread.dylib             0x00000001851cbfa8 _pthread_start + 148
+15  libsystem_pthread.dylib             0x00000001851c6da0 thread_start + 8
+
+2025-04-18 08:00:02,488 - ERROR - Đăng nhập thủ công thất bại
+2025-04-18 08:00:02,575 - INFO - Đã đóng trình duyệt.
