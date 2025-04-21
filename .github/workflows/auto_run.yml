@@ -36,5 +36,5 @@ jobs:
       - name: Run script
         env:
           CI: true
-          MAX_POSTS: 100
+          MAX_POSTS: 500
         run: python rpa_crawl_update.py
