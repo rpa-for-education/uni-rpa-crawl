@@ -772,3 +772,6 @@ Stacktrace:
 
 2025-04-22 06:28:09,143 - INFO - ✅ Đã gửi đủ 50 bài viết lên API!
 2025-04-22 06:28:09,277 - INFO - Đã đóng trình duyệt.
+2025-05-23 00:51:43,554 - INFO - ===== TOOL LẤY LINK BÀI VIẾT FACEBOOK =====
+2025-05-23 00:51:44,312 - ERROR - Không có cookie hợp lệ trong file.
+2025-05-23 00:51:44,382 - INFO - Đã đóng trình duyệt.

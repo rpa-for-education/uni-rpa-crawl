@@ -1,0 +1,7 @@
+.facebook.com	TRUE	/	True	0	presence	C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1747936343674%2C%22v%22%3A1%7D
+.facebook.com	TRUE	/	True	1782496342	oo	v1%7C3%3A1747936341
+.facebook.com	TRUE	/	True	1779472341	xs	22%3Ay38hf4ZoC2Jr5Q%3A2%3A1747936336%3A-1%3A-1
+.facebook.com	TRUE	/	True	1779472341	c_user	61576745485867
+.facebook.com	TRUE	/	True	1748541143	wd	1512x735
+.facebook.com	TRUE	/	True	1782496341	sb	PGQvaDBpKRZxJF_JVX6_ktSi
+.facebook.com	TRUE	/	True	1782496316	datr	PGQvaKtk6msWKsl5EtX3wkqP
