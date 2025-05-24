@@ -1,8 +1,8 @@
-name: Run RPA CRAWL Script Every 2 Hours
+name: Run RPA CRAWL Script Every 12 Hours
 
 on:
   schedule:
-    - cron: '0 */4 * * *'  # Chạy mỗi 4 tiếng (UTC)
+    - cron: '0 */12 * * *'  # Chạy mỗi 12 tiếng (UTC)
   workflow_dispatch:
     inputs:
       action:
@@ -36,5 +36,5 @@ jobs:
       - name: Run script
         env:
           CI: true
-          MAX_POSTS: 250
+          MAX_POSTS: 2000
         run: python rpa_crawl_update.py
