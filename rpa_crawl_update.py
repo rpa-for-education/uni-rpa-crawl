@@ -173,8 +173,7 @@ def get_post_links_from_group(driver, group_url, max_posts=50):
                 if collected >= max_posts:
                     break
                 try:
-                    link = post.find_element(By.XPATH,
-                                             ".//a[contains(@href, '/groups/') and contains(@href, '/posts/')]").get_attribute(
+                    link = post.find_element(By.XPATH, ".//a[contains(@href, '/groups/') and contains(@href, '/posts/')]").get_attribute(
                         "href")
                     cleaned = clean_post_url(link)
                     if cleaned and cleaned not in processed_links:
