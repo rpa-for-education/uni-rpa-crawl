@@ -775,3 +775,1481 @@ Stacktrace:
 2025-05-23 00:51:43,554 - INFO - ===== TOOL LẤY LINK BÀI VIẾT FACEBOOK =====
 2025-05-23 00:51:44,312 - ERROR - Không có cookie hợp lệ trong file.
 2025-05-23 00:51:44,382 - INFO - Đã đóng trình duyệt.
+2025-05-29 02:54:01,064 - INFO - ===== TOOL LẤY LINK BÀI VIẾT FACEBOOK =====
+2025-05-29 02:54:05,909 - WARNING - Không thể thêm cookie presence: Message: invalid argument: invalid 'expiry'
+  (Session info: chrome=136.0.7103.114)
+Stacktrace:
+0   chromedriver                        0x00000001054203e0 cxxbridge1$str$ptr + 2829900
+1   chromedriver                        0x00000001054186a8 cxxbridge1$str$ptr + 2797844
+2   chromedriver                        0x0000000104f55fbc cxxbridge1$string$len + 90140
+3   chromedriver                        0x0000000104fed608 cxxbridge1$string$len + 710248
+4   chromedriver                        0x0000000104fde044 cxxbridge1$string$len + 647332
+5   chromedriver                        0x0000000104f913f8 cxxbridge1$string$len + 332888
+6   chromedriver                        0x00000001053e4804 cxxbridge1$str$ptr + 2585200
+7   chromedriver                        0x00000001053e7ad4 cxxbridge1$str$ptr + 2598208
+8   chromedriver                        0x00000001053c5dd8 cxxbridge1$str$ptr + 2459716
+9   chromedriver                        0x00000001053e834c cxxbridge1$str$ptr + 2600376
+10  chromedriver                        0x00000001053b7664 cxxbridge1$str$ptr + 2400464
+11  chromedriver                        0x00000001054082b0 cxxbridge1$str$ptr + 2731292
+12  chromedriver                        0x000000010540843c cxxbridge1$str$ptr + 2731688
+13  chromedriver                        0x00000001054182f4 cxxbridge1$str$ptr + 2796896
+14  libsystem_pthread.dylib             0x000000019021ffa8 _pthread_start + 148
+15  libsystem_pthread.dylib             0x000000019021ada0 thread_start + 8
+
+2025-05-29 02:54:05,923 - INFO - Đã thêm 8/9 cookie vào trình duyệt
+2025-05-29 02:54:09,415 - INFO - Đăng nhập thành công!
+2025-05-29 02:54:11,875 - INFO - Đã gửi (1/50): https://www.facebook.com/groups/tansinhvienneu/posts/2486215118444077/
+2025-05-29 02:54:13,377 - WARNING - Lỗi khi xử lý bài viết: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[contains(@href, '/groups/') and contains(@href, '/posts/')]"}
+  (Session info: chrome=136.0.7103.114); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x00000001054203e0 cxxbridge1$str$ptr + 2829900
+1   chromedriver                        0x00000001054186a8 cxxbridge1$str$ptr + 2797844
+2   chromedriver                        0x0000000104f55fbc cxxbridge1$string$len + 90140
+3   chromedriver                        0x0000000104f9d1bc cxxbridge1$string$len + 381468
+4   chromedriver                        0x0000000104f929a0 cxxbridge1$string$len + 338432
+5   chromedriver                        0x0000000104fde044 cxxbridge1$string$len + 647332
+6   chromedriver                        0x0000000104f913f8 cxxbridge1$string$len + 332888
+7   chromedriver                        0x00000001053e4804 cxxbridge1$str$ptr + 2585200
+8   chromedriver                        0x00000001053e7ad4 cxxbridge1$str$ptr + 2598208
+9   chromedriver                        0x00000001053c5dd8 cxxbridge1$str$ptr + 2459716
+10  chromedriver                        0x00000001053e834c cxxbridge1$str$ptr + 2600376
+11  chromedriver                        0x00000001053b7664 cxxbridge1$str$ptr + 2400464
+12  chromedriver                        0x00000001054082b0 cxxbridge1$str$ptr + 2731292
+13  chromedriver                        0x000000010540843c cxxbridge1$str$ptr + 2731688
+14  chromedriver                        0x00000001054182f4 cxxbridge1$str$ptr + 2796896
+15  libsystem_pthread.dylib             0x000000019021ffa8 _pthread_start + 148
+16  libsystem_pthread.dylib             0x000000019021ada0 thread_start + 8
+
+2025-05-29 02:54:13,381 - WARNING - Lỗi khi xử lý bài viết: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[contains(@href, '/groups/') and contains(@href, '/posts/')]"}
+  (Session info: chrome=136.0.7103.114); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x00000001054203e0 cxxbridge1$str$ptr + 2829900
+1   chromedriver                        0x00000001054186a8 cxxbridge1$str$ptr + 2797844
+2   chromedriver                        0x0000000104f55fbc cxxbridge1$string$len + 90140
+3   chromedriver                        0x0000000104f9d1bc cxxbridge1$string$len + 381468
+4   chromedriver                        0x0000000104f929a0 cxxbridge1$string$len + 338432
+5   chromedriver                        0x0000000104fde044 cxxbridge1$string$len + 647332
+6   chromedriver                        0x0000000104f913f8 cxxbridge1$string$len + 332888
+7   chromedriver                        0x00000001053e4804 cxxbridge1$str$ptr + 2585200
+8   chromedriver                        0x00000001053e7ad4 cxxbridge1$str$ptr + 2598208
+9   chromedriver                        0x00000001053c5dd8 cxxbridge1$str$ptr + 2459716
+10  chromedriver                        0x00000001053e834c cxxbridge1$str$ptr + 2600376
+11  chromedriver                        0x00000001053b7664 cxxbridge1$str$ptr + 2400464
+12  chromedriver                        0x00000001054082b0 cxxbridge1$str$ptr + 2731292
+13  chromedriver                        0x000000010540843c cxxbridge1$str$ptr + 2731688
+14  chromedriver                        0x00000001054182f4 cxxbridge1$str$ptr + 2796896
+15  libsystem_pthread.dylib             0x000000019021ffa8 _pthread_start + 148
+16  libsystem_pthread.dylib             0x000000019021ada0 thread_start + 8
+
+2025-05-29 02:54:15,529 - INFO - Đã gửi (2/50): https://www.facebook.com/groups/tansinhvienneu/posts/2486597705072485/
+2025-05-29 02:54:17,066 - INFO - Đã gửi (3/50): https://www.facebook.com/groups/tansinhvienneu/posts/2486981538367435/
+2025-05-29 02:54:18,388 - WARNING - Lỗi khi xử lý bài viết: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[contains(@href, '/groups/') and contains(@href, '/posts/')]"}
+  (Session info: chrome=136.0.7103.114); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x00000001054203e0 cxxbridge1$str$ptr + 2829900
+1   chromedriver                        0x00000001054186a8 cxxbridge1$str$ptr + 2797844
+2   chromedriver                        0x0000000104f55fbc cxxbridge1$string$len + 90140
+3   chromedriver                        0x0000000104f9d1bc cxxbridge1$string$len + 381468
+4   chromedriver                        0x0000000104f929a0 cxxbridge1$string$len + 338432
+5   chromedriver                        0x0000000104fde044 cxxbridge1$string$len + 647332
+6   chromedriver                        0x0000000104f913f8 cxxbridge1$string$len + 332888
+7   chromedriver                        0x00000001053e4804 cxxbridge1$str$ptr + 2585200
+8   chromedriver                        0x00000001053e7ad4 cxxbridge1$str$ptr + 2598208
+9   chromedriver                        0x00000001053c5dd8 cxxbridge1$str$ptr + 2459716
+10  chromedriver                        0x00000001053e834c cxxbridge1$str$ptr + 2600376
+11  chromedriver                        0x00000001053b7664 cxxbridge1$str$ptr + 2400464
+12  chromedriver                        0x00000001054082b0 cxxbridge1$str$ptr + 2731292
+13  chromedriver                        0x000000010540843c cxxbridge1$str$ptr + 2731688
+14  chromedriver                        0x00000001054182f4 cxxbridge1$str$ptr + 2796896
+15  libsystem_pthread.dylib             0x000000019021ffa8 _pthread_start + 148
+16  libsystem_pthread.dylib             0x000000019021ada0 thread_start + 8
+
+2025-05-29 02:54:18,394 - WARNING - Lỗi khi xử lý bài viết: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[contains(@href, '/groups/') and contains(@href, '/posts/')]"}
+  (Session info: chrome=136.0.7103.114); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x00000001054203e0 cxxbridge1$str$ptr + 2829900
+1   chromedriver                        0x00000001054186a8 cxxbridge1$str$ptr + 2797844
+2   chromedriver                        0x0000000104f55fbc cxxbridge1$string$len + 90140
+3   chromedriver                        0x0000000104f9d1bc cxxbridge1$string$len + 381468
+4   chromedriver                        0x0000000104f929a0 cxxbridge1$string$len + 338432
+5   chromedriver                        0x0000000104fde044 cxxbridge1$string$len + 647332
+6   chromedriver                        0x0000000104f913f8 cxxbridge1$string$len + 332888
+7   chromedriver                        0x00000001053e4804 cxxbridge1$str$ptr + 2585200
+8   chromedriver                        0x00000001053e7ad4 cxxbridge1$str$ptr + 2598208
+9   chromedriver                        0x00000001053c5dd8 cxxbridge1$str$ptr + 2459716
+10  chromedriver                        0x00000001053e834c cxxbridge1$str$ptr + 2600376
+11  chromedriver                        0x00000001053b7664 cxxbridge1$str$ptr + 2400464
+12  chromedriver                        0x00000001054082b0 cxxbridge1$str$ptr + 2731292
+13  chromedriver                        0x000000010540843c cxxbridge1$str$ptr + 2731688
+14  chromedriver                        0x00000001054182f4 cxxbridge1$str$ptr + 2796896
+15  libsystem_pthread.dylib             0x000000019021ffa8 _pthread_start + 148
+16  libsystem_pthread.dylib             0x000000019021ada0 thread_start + 8
+
+2025-05-29 02:54:20,532 - INFO - Đã gửi (4/50): https://www.facebook.com/groups/tansinhvienneu/posts/2486910545041201/
+2025-05-29 02:54:21,383 - INFO - Đã gửi (5/50): https://www.facebook.com/groups/tansinhvienneu/posts/2486483285083927/
+2025-05-29 02:54:22,443 - INFO - Đã gửi (6/50): https://www.facebook.com/groups/tansinhvienneu/posts/2486507518414837/
+2025-05-29 02:54:23,775 - WARNING - Lỗi khi xử lý bài viết: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[contains(@href, '/groups/') and contains(@href, '/posts/')]"}
+  (Session info: chrome=136.0.7103.114); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x00000001054203e0 cxxbridge1$str$ptr + 2829900
+1   chromedriver                        0x00000001054186a8 cxxbridge1$str$ptr + 2797844
+2   chromedriver                        0x0000000104f55fbc cxxbridge1$string$len + 90140
+3   chromedriver                        0x0000000104f9d1bc cxxbridge1$string$len + 381468
+4   chromedriver                        0x0000000104f929a0 cxxbridge1$string$len + 338432
+5   chromedriver                        0x0000000104fde044 cxxbridge1$string$len + 647332
+6   chromedriver                        0x0000000104f913f8 cxxbridge1$string$len + 332888
+7   chromedriver                        0x00000001053e4804 cxxbridge1$str$ptr + 2585200
+8   chromedriver                        0x00000001053e7ad4 cxxbridge1$str$ptr + 2598208
+9   chromedriver                        0x00000001053c5dd8 cxxbridge1$str$ptr + 2459716
+10  chromedriver                        0x00000001053e834c cxxbridge1$str$ptr + 2600376
+11  chromedriver                        0x00000001053b7664 cxxbridge1$str$ptr + 2400464
+12  chromedriver                        0x00000001054082b0 cxxbridge1$str$ptr + 2731292
+13  chromedriver                        0x000000010540843c cxxbridge1$str$ptr + 2731688
+14  chromedriver                        0x00000001054182f4 cxxbridge1$str$ptr + 2796896
+15  libsystem_pthread.dylib             0x000000019021ffa8 _pthread_start + 148
+16  libsystem_pthread.dylib             0x000000019021ada0 thread_start + 8
+
+2025-05-29 02:54:23,785 - WARNING - Lỗi khi xử lý bài viết: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[contains(@href, '/groups/') and contains(@href, '/posts/')]"}
+  (Session info: chrome=136.0.7103.114); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x00000001054203e0 cxxbridge1$str$ptr + 2829900
+1   chromedriver                        0x00000001054186a8 cxxbridge1$str$ptr + 2797844
+2   chromedriver                        0x0000000104f55fbc cxxbridge1$string$len + 90140
+3   chromedriver                        0x0000000104f9d1bc cxxbridge1$string$len + 381468
+4   chromedriver                        0x0000000104f929a0 cxxbridge1$string$len + 338432
+5   chromedriver                        0x0000000104fde044 cxxbridge1$string$len + 647332
+6   chromedriver                        0x0000000104f913f8 cxxbridge1$string$len + 332888
+7   chromedriver                        0x00000001053e4804 cxxbridge1$str$ptr + 2585200
+8   chromedriver                        0x00000001053e7ad4 cxxbridge1$str$ptr + 2598208
+9   chromedriver                        0x00000001053c5dd8 cxxbridge1$str$ptr + 2459716
+10  chromedriver                        0x00000001053e834c cxxbridge1$str$ptr + 2600376
+11  chromedriver                        0x00000001053b7664 cxxbridge1$str$ptr + 2400464
+12  chromedriver                        0x00000001054082b0 cxxbridge1$str$ptr + 2731292
+13  chromedriver                        0x000000010540843c cxxbridge1$str$ptr + 2731688
+14  chromedriver                        0x00000001054182f4 cxxbridge1$str$ptr + 2796896
+15  libsystem_pthread.dylib             0x000000019021ffa8 _pthread_start + 148
+16  libsystem_pthread.dylib             0x000000019021ada0 thread_start + 8
+
+2025-05-29 02:54:25,895 - INFO - Đã gửi (7/50): https://www.facebook.com/groups/tansinhvienneu/posts/2486822091716713/
+2025-05-29 02:54:27,001 - INFO - Đã gửi (8/50): https://www.facebook.com/groups/tansinhvienneu/posts/2486977828367806/
+2025-05-29 02:54:27,830 - INFO - Đã gửi (9/50): https://www.facebook.com/groups/tansinhvienneu/posts/2486468221752100/
+2025-05-29 02:54:28,819 - WARNING - Lỗi khi xử lý bài viết: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[contains(@href, '/groups/') and contains(@href, '/posts/')]"}
+  (Session info: chrome=136.0.7103.114); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x00000001054203e0 cxxbridge1$str$ptr + 2829900
+1   chromedriver                        0x00000001054186a8 cxxbridge1$str$ptr + 2797844
+2   chromedriver                        0x0000000104f55fbc cxxbridge1$string$len + 90140
+3   chromedriver                        0x0000000104f9d1bc cxxbridge1$string$len + 381468
+4   chromedriver                        0x0000000104f929a0 cxxbridge1$string$len + 338432
+5   chromedriver                        0x0000000104fde044 cxxbridge1$string$len + 647332
+6   chromedriver                        0x0000000104f913f8 cxxbridge1$string$len + 332888
+7   chromedriver                        0x00000001053e4804 cxxbridge1$str$ptr + 2585200
+8   chromedriver                        0x00000001053e7ad4 cxxbridge1$str$ptr + 2598208
+9   chromedriver                        0x00000001053c5dd8 cxxbridge1$str$ptr + 2459716
+10  chromedriver                        0x00000001053e834c cxxbridge1$str$ptr + 2600376
+11  chromedriver                        0x00000001053b7664 cxxbridge1$str$ptr + 2400464
+12  chromedriver                        0x00000001054082b0 cxxbridge1$str$ptr + 2731292
+13  chromedriver                        0x000000010540843c cxxbridge1$str$ptr + 2731688
+14  chromedriver                        0x00000001054182f4 cxxbridge1$str$ptr + 2796896
+15  libsystem_pthread.dylib             0x000000019021ffa8 _pthread_start + 148
+16  libsystem_pthread.dylib             0x000000019021ada0 thread_start + 8
+
+2025-05-29 02:54:28,824 - WARNING - Lỗi khi xử lý bài viết: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[contains(@href, '/groups/') and contains(@href, '/posts/')]"}
+  (Session info: chrome=136.0.7103.114); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x00000001054203e0 cxxbridge1$str$ptr + 2829900
+1   chromedriver                        0x00000001054186a8 cxxbridge1$str$ptr + 2797844
+2   chromedriver                        0x0000000104f55fbc cxxbridge1$string$len + 90140
+3   chromedriver                        0x0000000104f9d1bc cxxbridge1$string$len + 381468
+4   chromedriver                        0x0000000104f929a0 cxxbridge1$string$len + 338432
+5   chromedriver                        0x0000000104fde044 cxxbridge1$string$len + 647332
+6   chromedriver                        0x0000000104f913f8 cxxbridge1$string$len + 332888
+7   chromedriver                        0x00000001053e4804 cxxbridge1$str$ptr + 2585200
+8   chromedriver                        0x00000001053e7ad4 cxxbridge1$str$ptr + 2598208
+9   chromedriver                        0x00000001053c5dd8 cxxbridge1$str$ptr + 2459716
+10  chromedriver                        0x00000001053e834c cxxbridge1$str$ptr + 2600376
+11  chromedriver                        0x00000001053b7664 cxxbridge1$str$ptr + 2400464
+12  chromedriver                        0x00000001054082b0 cxxbridge1$str$ptr + 2731292
+13  chromedriver                        0x000000010540843c cxxbridge1$str$ptr + 2731688
+14  chromedriver                        0x00000001054182f4 cxxbridge1$str$ptr + 2796896
+15  libsystem_pthread.dylib             0x000000019021ffa8 _pthread_start + 148
+16  libsystem_pthread.dylib             0x000000019021ada0 thread_start + 8
+
+2025-05-29 02:54:30,966 - INFO - Đã gửi (10/50): https://www.facebook.com/groups/tansinhvienneu/posts/2487048101694112/
+2025-05-29 02:54:32,326 - INFO - Đã gửi (11/50): https://www.facebook.com/groups/tansinhvienneu/posts/2486551288410460/
+2025-05-29 02:54:33,673 - INFO - Đã gửi (12/50): https://www.facebook.com/groups/tansinhvienneu/posts/2487261225006133/
+2025-05-29 02:54:34,468 - INFO - Đã gửi (13/50): https://www.facebook.com/groups/tansinhvienneu/posts/2481368522262070/
+2025-05-29 02:54:35,503 - INFO - Đã gửi (14/50): https://www.facebook.com/groups/tansinhvienneu/posts/2487080535024202/
+2025-05-29 02:54:36,154 - WARNING - Lỗi khi xử lý bài viết: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[contains(@href, '/groups/') and contains(@href, '/posts/')]"}
+  (Session info: chrome=136.0.7103.114); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x00000001054203e0 cxxbridge1$str$ptr + 2829900
+1   chromedriver                        0x00000001054186a8 cxxbridge1$str$ptr + 2797844
+2   chromedriver                        0x0000000104f55fbc cxxbridge1$string$len + 90140
+3   chromedriver                        0x0000000104f9d1bc cxxbridge1$string$len + 381468
+4   chromedriver                        0x0000000104f929a0 cxxbridge1$string$len + 338432
+5   chromedriver                        0x0000000104fde044 cxxbridge1$string$len + 647332
+6   chromedriver                        0x0000000104f913f8 cxxbridge1$string$len + 332888
+7   chromedriver                        0x00000001053e4804 cxxbridge1$str$ptr + 2585200
+8   chromedriver                        0x00000001053e7ad4 cxxbridge1$str$ptr + 2598208
+9   chromedriver                        0x00000001053c5dd8 cxxbridge1$str$ptr + 2459716
+10  chromedriver                        0x00000001053e834c cxxbridge1$str$ptr + 2600376
+11  chromedriver                        0x00000001053b7664 cxxbridge1$str$ptr + 2400464
+12  chromedriver                        0x00000001054082b0 cxxbridge1$str$ptr + 2731292
+13  chromedriver                        0x000000010540843c cxxbridge1$str$ptr + 2731688
+14  chromedriver                        0x00000001054182f4 cxxbridge1$str$ptr + 2796896
+15  libsystem_pthread.dylib             0x000000019021ffa8 _pthread_start + 148
+16  libsystem_pthread.dylib             0x000000019021ada0 thread_start + 8
+
+2025-05-29 02:54:36,160 - WARNING - Lỗi khi xử lý bài viết: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[contains(@href, '/groups/') and contains(@href, '/posts/')]"}
+  (Session info: chrome=136.0.7103.114); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x00000001054203e0 cxxbridge1$str$ptr + 2829900
+1   chromedriver                        0x00000001054186a8 cxxbridge1$str$ptr + 2797844
+2   chromedriver                        0x0000000104f55fbc cxxbridge1$string$len + 90140
+3   chromedriver                        0x0000000104f9d1bc cxxbridge1$string$len + 381468
+4   chromedriver                        0x0000000104f929a0 cxxbridge1$string$len + 338432
+5   chromedriver                        0x0000000104fde044 cxxbridge1$string$len + 647332
+6   chromedriver                        0x0000000104f913f8 cxxbridge1$string$len + 332888
+7   chromedriver                        0x00000001053e4804 cxxbridge1$str$ptr + 2585200
+8   chromedriver                        0x00000001053e7ad4 cxxbridge1$str$ptr + 2598208
+9   chromedriver                        0x00000001053c5dd8 cxxbridge1$str$ptr + 2459716
+10  chromedriver                        0x00000001053e834c cxxbridge1$str$ptr + 2600376
+11  chromedriver                        0x00000001053b7664 cxxbridge1$str$ptr + 2400464
+12  chromedriver                        0x00000001054082b0 cxxbridge1$str$ptr + 2731292
+13  chromedriver                        0x000000010540843c cxxbridge1$str$ptr + 2731688
+14  chromedriver                        0x00000001054182f4 cxxbridge1$str$ptr + 2796896
+15  libsystem_pthread.dylib             0x000000019021ffa8 _pthread_start + 148
+16  libsystem_pthread.dylib             0x000000019021ada0 thread_start + 8
+
+2025-05-29 02:54:40,247 - WARNING - Lỗi khi xử lý bài viết: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[contains(@href, '/groups/') and contains(@href, '/posts/')]"}
+  (Session info: chrome=136.0.7103.114); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x00000001054203e0 cxxbridge1$str$ptr + 2829900
+1   chromedriver                        0x00000001054186a8 cxxbridge1$str$ptr + 2797844
+2   chromedriver                        0x0000000104f55fbc cxxbridge1$string$len + 90140
+3   chromedriver                        0x0000000104f9d1bc cxxbridge1$string$len + 381468
+4   chromedriver                        0x0000000104f929a0 cxxbridge1$string$len + 338432
+5   chromedriver                        0x0000000104fde044 cxxbridge1$string$len + 647332
+6   chromedriver                        0x0000000104f913f8 cxxbridge1$string$len + 332888
+7   chromedriver                        0x00000001053e4804 cxxbridge1$str$ptr + 2585200
+8   chromedriver                        0x00000001053e7ad4 cxxbridge1$str$ptr + 2598208
+9   chromedriver                        0x00000001053c5dd8 cxxbridge1$str$ptr + 2459716
+10  chromedriver                        0x00000001053e834c cxxbridge1$str$ptr + 2600376
+11  chromedriver                        0x00000001053b7664 cxxbridge1$str$ptr + 2400464
+12  chromedriver                        0x00000001054082b0 cxxbridge1$str$ptr + 2731292
+13  chromedriver                        0x000000010540843c cxxbridge1$str$ptr + 2731688
+14  chromedriver                        0x00000001054182f4 cxxbridge1$str$ptr + 2796896
+15  libsystem_pthread.dylib             0x000000019021ffa8 _pthread_start + 148
+16  libsystem_pthread.dylib             0x000000019021ada0 thread_start + 8
+
+2025-05-29 02:54:40,250 - WARNING - Lỗi khi xử lý bài viết: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[contains(@href, '/groups/') and contains(@href, '/posts/')]"}
+  (Session info: chrome=136.0.7103.114); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x00000001054203e0 cxxbridge1$str$ptr + 2829900
+1   chromedriver                        0x00000001054186a8 cxxbridge1$str$ptr + 2797844
+2   chromedriver                        0x0000000104f55fbc cxxbridge1$string$len + 90140
+3   chromedriver                        0x0000000104f9d1bc cxxbridge1$string$len + 381468
+4   chromedriver                        0x0000000104f929a0 cxxbridge1$string$len + 338432
+5   chromedriver                        0x0000000104fde044 cxxbridge1$string$len + 647332
+6   chromedriver                        0x0000000104f913f8 cxxbridge1$string$len + 332888
+7   chromedriver                        0x00000001053e4804 cxxbridge1$str$ptr + 2585200
+8   chromedriver                        0x00000001053e7ad4 cxxbridge1$str$ptr + 2598208
+9   chromedriver                        0x00000001053c5dd8 cxxbridge1$str$ptr + 2459716
+10  chromedriver                        0x00000001053e834c cxxbridge1$str$ptr + 2600376
+11  chromedriver                        0x00000001053b7664 cxxbridge1$str$ptr + 2400464
+12  chromedriver                        0x00000001054082b0 cxxbridge1$str$ptr + 2731292
+13  chromedriver                        0x000000010540843c cxxbridge1$str$ptr + 2731688
+14  chromedriver                        0x00000001054182f4 cxxbridge1$str$ptr + 2796896
+15  libsystem_pthread.dylib             0x000000019021ffa8 _pthread_start + 148
+16  libsystem_pthread.dylib             0x000000019021ada0 thread_start + 8
+
+2025-05-29 02:54:44,341 - WARNING - Lỗi khi xử lý bài viết: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[contains(@href, '/groups/') and contains(@href, '/posts/')]"}
+  (Session info: chrome=136.0.7103.114); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x00000001054203e0 cxxbridge1$str$ptr + 2829900
+1   chromedriver                        0x00000001054186a8 cxxbridge1$str$ptr + 2797844
+2   chromedriver                        0x0000000104f55fbc cxxbridge1$string$len + 90140
+3   chromedriver                        0x0000000104f9d1bc cxxbridge1$string$len + 381468
+4   chromedriver                        0x0000000104f929a0 cxxbridge1$string$len + 338432
+5   chromedriver                        0x0000000104fde044 cxxbridge1$string$len + 647332
+6   chromedriver                        0x0000000104f913f8 cxxbridge1$string$len + 332888
+7   chromedriver                        0x00000001053e4804 cxxbridge1$str$ptr + 2585200
+8   chromedriver                        0x00000001053e7ad4 cxxbridge1$str$ptr + 2598208
+9   chromedriver                        0x00000001053c5dd8 cxxbridge1$str$ptr + 2459716
+10  chromedriver                        0x00000001053e834c cxxbridge1$str$ptr + 2600376
+11  chromedriver                        0x00000001053b7664 cxxbridge1$str$ptr + 2400464
+12  chromedriver                        0x00000001054082b0 cxxbridge1$str$ptr + 2731292
+13  chromedriver                        0x000000010540843c cxxbridge1$str$ptr + 2731688
+14  chromedriver                        0x00000001054182f4 cxxbridge1$str$ptr + 2796896
+15  libsystem_pthread.dylib             0x000000019021ffa8 _pthread_start + 148
+16  libsystem_pthread.dylib             0x000000019021ada0 thread_start + 8
+
+2025-05-29 02:54:44,343 - WARNING - Lỗi khi xử lý bài viết: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[contains(@href, '/groups/') and contains(@href, '/posts/')]"}
+  (Session info: chrome=136.0.7103.114); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x00000001054203e0 cxxbridge1$str$ptr + 2829900
+1   chromedriver                        0x00000001054186a8 cxxbridge1$str$ptr + 2797844
+2   chromedriver                        0x0000000104f55fbc cxxbridge1$string$len + 90140
+3   chromedriver                        0x0000000104f9d1bc cxxbridge1$string$len + 381468
+4   chromedriver                        0x0000000104f929a0 cxxbridge1$string$len + 338432
+5   chromedriver                        0x0000000104fde044 cxxbridge1$string$len + 647332
+6   chromedriver                        0x0000000104f913f8 cxxbridge1$string$len + 332888
+7   chromedriver                        0x00000001053e4804 cxxbridge1$str$ptr + 2585200
+8   chromedriver                        0x00000001053e7ad4 cxxbridge1$str$ptr + 2598208
+9   chromedriver                        0x00000001053c5dd8 cxxbridge1$str$ptr + 2459716
+10  chromedriver                        0x00000001053e834c cxxbridge1$str$ptr + 2600376
+11  chromedriver                        0x00000001053b7664 cxxbridge1$str$ptr + 2400464
+12  chromedriver                        0x00000001054082b0 cxxbridge1$str$ptr + 2731292
+13  chromedriver                        0x000000010540843c cxxbridge1$str$ptr + 2731688
+14  chromedriver                        0x00000001054182f4 cxxbridge1$str$ptr + 2796896
+15  libsystem_pthread.dylib             0x000000019021ffa8 _pthread_start + 148
+16  libsystem_pthread.dylib             0x000000019021ada0 thread_start + 8
+
+2025-05-29 02:54:48,430 - WARNING - Lỗi khi xử lý bài viết: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[contains(@href, '/groups/') and contains(@href, '/posts/')]"}
+  (Session info: chrome=136.0.7103.114); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x00000001054203e0 cxxbridge1$str$ptr + 2829900
+1   chromedriver                        0x00000001054186a8 cxxbridge1$str$ptr + 2797844
+2   chromedriver                        0x0000000104f55fbc cxxbridge1$string$len + 90140
+3   chromedriver                        0x0000000104f9d1bc cxxbridge1$string$len + 381468
+4   chromedriver                        0x0000000104f929a0 cxxbridge1$string$len + 338432
+5   chromedriver                        0x0000000104fde044 cxxbridge1$string$len + 647332
+6   chromedriver                        0x0000000104f913f8 cxxbridge1$string$len + 332888
+7   chromedriver                        0x00000001053e4804 cxxbridge1$str$ptr + 2585200
+8   chromedriver                        0x00000001053e7ad4 cxxbridge1$str$ptr + 2598208
+9   chromedriver                        0x00000001053c5dd8 cxxbridge1$str$ptr + 2459716
+10  chromedriver                        0x00000001053e834c cxxbridge1$str$ptr + 2600376
+11  chromedriver                        0x00000001053b7664 cxxbridge1$str$ptr + 2400464
+12  chromedriver                        0x00000001054082b0 cxxbridge1$str$ptr + 2731292
+13  chromedriver                        0x000000010540843c cxxbridge1$str$ptr + 2731688
+14  chromedriver                        0x00000001054182f4 cxxbridge1$str$ptr + 2796896
+15  libsystem_pthread.dylib             0x000000019021ffa8 _pthread_start + 148
+16  libsystem_pthread.dylib             0x000000019021ada0 thread_start + 8
+
+2025-05-29 02:54:48,432 - WARNING - Lỗi khi xử lý bài viết: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[contains(@href, '/groups/') and contains(@href, '/posts/')]"}
+  (Session info: chrome=136.0.7103.114); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x00000001054203e0 cxxbridge1$str$ptr + 2829900
+1   chromedriver                        0x00000001054186a8 cxxbridge1$str$ptr + 2797844
+2   chromedriver                        0x0000000104f55fbc cxxbridge1$string$len + 90140
+3   chromedriver                        0x0000000104f9d1bc cxxbridge1$string$len + 381468
+4   chromedriver                        0x0000000104f929a0 cxxbridge1$string$len + 338432
+5   chromedriver                        0x0000000104fde044 cxxbridge1$string$len + 647332
+6   chromedriver                        0x0000000104f913f8 cxxbridge1$string$len + 332888
+7   chromedriver                        0x00000001053e4804 cxxbridge1$str$ptr + 2585200
+8   chromedriver                        0x00000001053e7ad4 cxxbridge1$str$ptr + 2598208
+9   chromedriver                        0x00000001053c5dd8 cxxbridge1$str$ptr + 2459716
+10  chromedriver                        0x00000001053e834c cxxbridge1$str$ptr + 2600376
+11  chromedriver                        0x00000001053b7664 cxxbridge1$str$ptr + 2400464
+12  chromedriver                        0x00000001054082b0 cxxbridge1$str$ptr + 2731292
+13  chromedriver                        0x000000010540843c cxxbridge1$str$ptr + 2731688
+14  chromedriver                        0x00000001054182f4 cxxbridge1$str$ptr + 2796896
+15  libsystem_pthread.dylib             0x000000019021ffa8 _pthread_start + 148
+16  libsystem_pthread.dylib             0x000000019021ada0 thread_start + 8
+
+2025-05-29 02:54:52,516 - WARNING - Lỗi khi xử lý bài viết: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[contains(@href, '/groups/') and contains(@href, '/posts/')]"}
+  (Session info: chrome=136.0.7103.114); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x00000001054203e0 cxxbridge1$str$ptr + 2829900
+1   chromedriver                        0x00000001054186a8 cxxbridge1$str$ptr + 2797844
+2   chromedriver                        0x0000000104f55fbc cxxbridge1$string$len + 90140
+3   chromedriver                        0x0000000104f9d1bc cxxbridge1$string$len + 381468
+4   chromedriver                        0x0000000104f929a0 cxxbridge1$string$len + 338432
+5   chromedriver                        0x0000000104fde044 cxxbridge1$string$len + 647332
+6   chromedriver                        0x0000000104f913f8 cxxbridge1$string$len + 332888
+7   chromedriver                        0x00000001053e4804 cxxbridge1$str$ptr + 2585200
+8   chromedriver                        0x00000001053e7ad4 cxxbridge1$str$ptr + 2598208
+9   chromedriver                        0x00000001053c5dd8 cxxbridge1$str$ptr + 2459716
+10  chromedriver                        0x00000001053e834c cxxbridge1$str$ptr + 2600376
+11  chromedriver                        0x00000001053b7664 cxxbridge1$str$ptr + 2400464
+12  chromedriver                        0x00000001054082b0 cxxbridge1$str$ptr + 2731292
+13  chromedriver                        0x000000010540843c cxxbridge1$str$ptr + 2731688
+14  chromedriver                        0x00000001054182f4 cxxbridge1$str$ptr + 2796896
+15  libsystem_pthread.dylib             0x000000019021ffa8 _pthread_start + 148
+16  libsystem_pthread.dylib             0x000000019021ada0 thread_start + 8
+
+2025-05-29 02:54:52,519 - WARNING - Lỗi khi xử lý bài viết: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[contains(@href, '/groups/') and contains(@href, '/posts/')]"}
+  (Session info: chrome=136.0.7103.114); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x00000001054203e0 cxxbridge1$str$ptr + 2829900
+1   chromedriver                        0x00000001054186a8 cxxbridge1$str$ptr + 2797844
+2   chromedriver                        0x0000000104f55fbc cxxbridge1$string$len + 90140
+3   chromedriver                        0x0000000104f9d1bc cxxbridge1$string$len + 381468
+4   chromedriver                        0x0000000104f929a0 cxxbridge1$string$len + 338432
+5   chromedriver                        0x0000000104fde044 cxxbridge1$string$len + 647332
+6   chromedriver                        0x0000000104f913f8 cxxbridge1$string$len + 332888
+7   chromedriver                        0x00000001053e4804 cxxbridge1$str$ptr + 2585200
+8   chromedriver                        0x00000001053e7ad4 cxxbridge1$str$ptr + 2598208
+9   chromedriver                        0x00000001053c5dd8 cxxbridge1$str$ptr + 2459716
+10  chromedriver                        0x00000001053e834c cxxbridge1$str$ptr + 2600376
+11  chromedriver                        0x00000001053b7664 cxxbridge1$str$ptr + 2400464
+12  chromedriver                        0x00000001054082b0 cxxbridge1$str$ptr + 2731292
+13  chromedriver                        0x000000010540843c cxxbridge1$str$ptr + 2731688
+14  chromedriver                        0x00000001054182f4 cxxbridge1$str$ptr + 2796896
+15  libsystem_pthread.dylib             0x000000019021ffa8 _pthread_start + 148
+16  libsystem_pthread.dylib             0x000000019021ada0 thread_start + 8
+
+2025-05-29 02:54:56,537 - INFO - ✅ Đã gửi đủ 50 bài viết lên API!
+2025-05-29 02:54:56,653 - INFO - Đã đóng trình duyệt.
+2025-05-29 02:56:14,459 - INFO - ===== TOOL LẤY LINK BÀI VIẾT FACEBOOK =====
+2025-05-29 02:56:18,543 - WARNING - Không thể thêm cookie presence: Message: invalid argument: invalid 'expiry'
+  (Session info: chrome=136.0.7103.114)
+Stacktrace:
+0   chromedriver                        0x000000010124c3e0 cxxbridge1$str$ptr + 2829900
+1   chromedriver                        0x00000001012446a8 cxxbridge1$str$ptr + 2797844
+2   chromedriver                        0x0000000100d81fbc cxxbridge1$string$len + 90140
+3   chromedriver                        0x0000000100e19608 cxxbridge1$string$len + 710248
+4   chromedriver                        0x0000000100e0a044 cxxbridge1$string$len + 647332
+5   chromedriver                        0x0000000100dbd3f8 cxxbridge1$string$len + 332888
+6   chromedriver                        0x0000000101210804 cxxbridge1$str$ptr + 2585200
+7   chromedriver                        0x0000000101213ad4 cxxbridge1$str$ptr + 2598208
+8   chromedriver                        0x00000001011f1dd8 cxxbridge1$str$ptr + 2459716
+9   chromedriver                        0x000000010121434c cxxbridge1$str$ptr + 2600376
+10  chromedriver                        0x00000001011e3664 cxxbridge1$str$ptr + 2400464
+11  chromedriver                        0x00000001012342b0 cxxbridge1$str$ptr + 2731292
+12  chromedriver                        0x000000010123443c cxxbridge1$str$ptr + 2731688
+13  chromedriver                        0x00000001012442f4 cxxbridge1$str$ptr + 2796896
+14  libsystem_pthread.dylib             0x000000019021ffa8 _pthread_start + 148
+15  libsystem_pthread.dylib             0x000000019021ada0 thread_start + 8
+
+2025-05-29 02:56:18,561 - INFO - Đã thêm 8/9 cookie vào trình duyệt
+2025-05-29 02:56:21,142 - INFO - Đăng nhập thành công!
+2025-05-29 02:56:23,017 - INFO - Đã gửi (1/50): https://www.facebook.com/groups/tansinhvienneu/posts/2486215118444077/
+2025-05-29 02:56:23,829 - WARNING - Lỗi khi xử lý bài viết: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[contains(@href, '/groups/') and contains(@href, '/posts/')]"}
+  (Session info: chrome=136.0.7103.114); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x000000010124c3e0 cxxbridge1$str$ptr + 2829900
+1   chromedriver                        0x00000001012446a8 cxxbridge1$str$ptr + 2797844
+2   chromedriver                        0x0000000100d81fbc cxxbridge1$string$len + 90140
+3   chromedriver                        0x0000000100dc91bc cxxbridge1$string$len + 381468
+4   chromedriver                        0x0000000100dbe9a0 cxxbridge1$string$len + 338432
+5   chromedriver                        0x0000000100e0a044 cxxbridge1$string$len + 647332
+6   chromedriver                        0x0000000100dbd3f8 cxxbridge1$string$len + 332888
+7   chromedriver                        0x0000000101210804 cxxbridge1$str$ptr + 2585200
+8   chromedriver                        0x0000000101213ad4 cxxbridge1$str$ptr + 2598208
+9   chromedriver                        0x00000001011f1dd8 cxxbridge1$str$ptr + 2459716
+10  chromedriver                        0x000000010121434c cxxbridge1$str$ptr + 2600376
+11  chromedriver                        0x00000001011e3664 cxxbridge1$str$ptr + 2400464
+12  chromedriver                        0x00000001012342b0 cxxbridge1$str$ptr + 2731292
+13  chromedriver                        0x000000010123443c cxxbridge1$str$ptr + 2731688
+14  chromedriver                        0x00000001012442f4 cxxbridge1$str$ptr + 2796896
+15  libsystem_pthread.dylib             0x000000019021ffa8 _pthread_start + 148
+16  libsystem_pthread.dylib             0x000000019021ada0 thread_start + 8
+
+2025-05-29 02:56:23,833 - WARNING - Lỗi khi xử lý bài viết: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[contains(@href, '/groups/') and contains(@href, '/posts/')]"}
+  (Session info: chrome=136.0.7103.114); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x000000010124c3e0 cxxbridge1$str$ptr + 2829900
+1   chromedriver                        0x00000001012446a8 cxxbridge1$str$ptr + 2797844
+2   chromedriver                        0x0000000100d81fbc cxxbridge1$string$len + 90140
+3   chromedriver                        0x0000000100dc91bc cxxbridge1$string$len + 381468
+4   chromedriver                        0x0000000100dbe9a0 cxxbridge1$string$len + 338432
+5   chromedriver                        0x0000000100e0a044 cxxbridge1$string$len + 647332
+6   chromedriver                        0x0000000100dbd3f8 cxxbridge1$string$len + 332888
+7   chromedriver                        0x0000000101210804 cxxbridge1$str$ptr + 2585200
+8   chromedriver                        0x0000000101213ad4 cxxbridge1$str$ptr + 2598208
+9   chromedriver                        0x00000001011f1dd8 cxxbridge1$str$ptr + 2459716
+10  chromedriver                        0x000000010121434c cxxbridge1$str$ptr + 2600376
+11  chromedriver                        0x00000001011e3664 cxxbridge1$str$ptr + 2400464
+12  chromedriver                        0x00000001012342b0 cxxbridge1$str$ptr + 2731292
+13  chromedriver                        0x000000010123443c cxxbridge1$str$ptr + 2731688
+14  chromedriver                        0x00000001012442f4 cxxbridge1$str$ptr + 2796896
+15  libsystem_pthread.dylib             0x000000019021ffa8 _pthread_start + 148
+16  libsystem_pthread.dylib             0x000000019021ada0 thread_start + 8
+
+2025-05-29 02:56:25,975 - INFO - Đã gửi (2/50): https://www.facebook.com/groups/tansinhvienneu/posts/2486981538367435/
+2025-05-29 02:56:27,296 - INFO - Đã gửi (3/50): https://www.facebook.com/groups/tansinhvienneu/posts/2457973397934916/
+2025-05-29 02:56:28,439 - WARNING - Lỗi khi xử lý bài viết: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[contains(@href, '/groups/') and contains(@href, '/posts/')]"}
+  (Session info: chrome=136.0.7103.114); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x000000010124c3e0 cxxbridge1$str$ptr + 2829900
+1   chromedriver                        0x00000001012446a8 cxxbridge1$str$ptr + 2797844
+2   chromedriver                        0x0000000100d81fbc cxxbridge1$string$len + 90140
+3   chromedriver                        0x0000000100dc91bc cxxbridge1$string$len + 381468
+4   chromedriver                        0x0000000100dbe9a0 cxxbridge1$string$len + 338432
+5   chromedriver                        0x0000000100e0a044 cxxbridge1$string$len + 647332
+6   chromedriver                        0x0000000100dbd3f8 cxxbridge1$string$len + 332888
+7   chromedriver                        0x0000000101210804 cxxbridge1$str$ptr + 2585200
+8   chromedriver                        0x0000000101213ad4 cxxbridge1$str$ptr + 2598208
+9   chromedriver                        0x00000001011f1dd8 cxxbridge1$str$ptr + 2459716
+10  chromedriver                        0x000000010121434c cxxbridge1$str$ptr + 2600376
+11  chromedriver                        0x00000001011e3664 cxxbridge1$str$ptr + 2400464
+12  chromedriver                        0x00000001012342b0 cxxbridge1$str$ptr + 2731292
+13  chromedriver                        0x000000010123443c cxxbridge1$str$ptr + 2731688
+14  chromedriver                        0x00000001012442f4 cxxbridge1$str$ptr + 2796896
+15  libsystem_pthread.dylib             0x000000019021ffa8 _pthread_start + 148
+16  libsystem_pthread.dylib             0x000000019021ada0 thread_start + 8
+
+2025-05-29 02:56:28,444 - WARNING - Lỗi khi xử lý bài viết: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[contains(@href, '/groups/') and contains(@href, '/posts/')]"}
+  (Session info: chrome=136.0.7103.114); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x000000010124c3e0 cxxbridge1$str$ptr + 2829900
+1   chromedriver                        0x00000001012446a8 cxxbridge1$str$ptr + 2797844
+2   chromedriver                        0x0000000100d81fbc cxxbridge1$string$len + 90140
+3   chromedriver                        0x0000000100dc91bc cxxbridge1$string$len + 381468
+4   chromedriver                        0x0000000100dbe9a0 cxxbridge1$string$len + 338432
+5   chromedriver                        0x0000000100e0a044 cxxbridge1$string$len + 647332
+6   chromedriver                        0x0000000100dbd3f8 cxxbridge1$string$len + 332888
+7   chromedriver                        0x0000000101210804 cxxbridge1$str$ptr + 2585200
+8   chromedriver                        0x0000000101213ad4 cxxbridge1$str$ptr + 2598208
+9   chromedriver                        0x00000001011f1dd8 cxxbridge1$str$ptr + 2459716
+10  chromedriver                        0x000000010121434c cxxbridge1$str$ptr + 2600376
+11  chromedriver                        0x00000001011e3664 cxxbridge1$str$ptr + 2400464
+12  chromedriver                        0x00000001012342b0 cxxbridge1$str$ptr + 2731292
+13  chromedriver                        0x000000010123443c cxxbridge1$str$ptr + 2731688
+14  chromedriver                        0x00000001012442f4 cxxbridge1$str$ptr + 2796896
+15  libsystem_pthread.dylib             0x000000019021ffa8 _pthread_start + 148
+16  libsystem_pthread.dylib             0x000000019021ada0 thread_start + 8
+
+2025-05-29 02:56:30,564 - INFO - Đã gửi (4/50): https://www.facebook.com/groups/tansinhvienneu/posts/2486910545041201/
+2025-05-29 02:56:31,239 - INFO - Đã gửi (5/50): https://www.facebook.com/groups/tansinhvienneu/posts/2486597705072485/
+2025-05-29 02:56:32,300 - INFO - Đã gửi (6/50): https://www.facebook.com/groups/tansinhvienneu/posts/2486507518414837/
+2025-05-29 02:56:33,228 - INFO - Đã gửi (7/50): https://www.facebook.com/groups/tansinhvienneu/posts/2487250108340578/
+2025-05-29 02:56:33,792 - WARNING - Lỗi khi xử lý bài viết: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[contains(@href, '/groups/') and contains(@href, '/posts/')]"}
+  (Session info: chrome=136.0.7103.114); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x000000010124c3e0 cxxbridge1$str$ptr + 2829900
+1   chromedriver                        0x00000001012446a8 cxxbridge1$str$ptr + 2797844
+2   chromedriver                        0x0000000100d81fbc cxxbridge1$string$len + 90140
+3   chromedriver                        0x0000000100dc91bc cxxbridge1$string$len + 381468
+4   chromedriver                        0x0000000100dbe9a0 cxxbridge1$string$len + 338432
+5   chromedriver                        0x0000000100e0a044 cxxbridge1$string$len + 647332
+6   chromedriver                        0x0000000100dbd3f8 cxxbridge1$string$len + 332888
+7   chromedriver                        0x0000000101210804 cxxbridge1$str$ptr + 2585200
+8   chromedriver                        0x0000000101213ad4 cxxbridge1$str$ptr + 2598208
+9   chromedriver                        0x00000001011f1dd8 cxxbridge1$str$ptr + 2459716
+10  chromedriver                        0x000000010121434c cxxbridge1$str$ptr + 2600376
+11  chromedriver                        0x00000001011e3664 cxxbridge1$str$ptr + 2400464
+12  chromedriver                        0x00000001012342b0 cxxbridge1$str$ptr + 2731292
+13  chromedriver                        0x000000010123443c cxxbridge1$str$ptr + 2731688
+14  chromedriver                        0x00000001012442f4 cxxbridge1$str$ptr + 2796896
+15  libsystem_pthread.dylib             0x000000019021ffa8 _pthread_start + 148
+16  libsystem_pthread.dylib             0x000000019021ada0 thread_start + 8
+
+2025-05-29 02:56:33,799 - WARNING - Lỗi khi xử lý bài viết: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[contains(@href, '/groups/') and contains(@href, '/posts/')]"}
+  (Session info: chrome=136.0.7103.114); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x000000010124c3e0 cxxbridge1$str$ptr + 2829900
+1   chromedriver                        0x00000001012446a8 cxxbridge1$str$ptr + 2797844
+2   chromedriver                        0x0000000100d81fbc cxxbridge1$string$len + 90140
+3   chromedriver                        0x0000000100dc91bc cxxbridge1$string$len + 381468
+4   chromedriver                        0x0000000100dbe9a0 cxxbridge1$string$len + 338432
+5   chromedriver                        0x0000000100e0a044 cxxbridge1$string$len + 647332
+6   chromedriver                        0x0000000100dbd3f8 cxxbridge1$string$len + 332888
+7   chromedriver                        0x0000000101210804 cxxbridge1$str$ptr + 2585200
+8   chromedriver                        0x0000000101213ad4 cxxbridge1$str$ptr + 2598208
+9   chromedriver                        0x00000001011f1dd8 cxxbridge1$str$ptr + 2459716
+10  chromedriver                        0x000000010121434c cxxbridge1$str$ptr + 2600376
+11  chromedriver                        0x00000001011e3664 cxxbridge1$str$ptr + 2400464
+12  chromedriver                        0x00000001012342b0 cxxbridge1$str$ptr + 2731292
+13  chromedriver                        0x000000010123443c cxxbridge1$str$ptr + 2731688
+14  chromedriver                        0x00000001012442f4 cxxbridge1$str$ptr + 2796896
+15  libsystem_pthread.dylib             0x000000019021ffa8 _pthread_start + 148
+16  libsystem_pthread.dylib             0x000000019021ada0 thread_start + 8
+
+2025-05-29 02:56:35,934 - INFO - Đã gửi (8/50): https://www.facebook.com/groups/tansinhvienneu/posts/2486822091716713/
+2025-05-29 02:56:36,881 - INFO - Đã gửi (9/50): https://www.facebook.com/groups/tansinhvienneu/posts/2486977828367806/
+2025-05-29 02:56:37,710 - INFO - Đã gửi (10/50): https://www.facebook.com/groups/tansinhvienneu/posts/2487119395020316/
+2025-05-29 02:56:38,702 - INFO - Đã gửi (11/50): https://www.facebook.com/groups/tansinhvienneu/posts/2486916098373979/
+2025-05-29 02:56:39,543 - INFO - Đã gửi (12/50): https://www.facebook.com/groups/tansinhvienneu/posts/2486468221752100/
+2025-05-29 02:56:40,974 - INFO - Đã gửi (13/50): https://www.facebook.com/groups/tansinhvienneu/posts/2487048101694112/
+2025-05-29 02:56:41,927 - INFO - Đã gửi (14/50): https://www.facebook.com/groups/tansinhvienneu/posts/2486551288410460/
+2025-05-29 02:56:42,744 - WARNING - Lỗi khi xử lý bài viết: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[contains(@href, '/groups/') and contains(@href, '/posts/')]"}
+  (Session info: chrome=136.0.7103.114); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x000000010124c3e0 cxxbridge1$str$ptr + 2829900
+1   chromedriver                        0x00000001012446a8 cxxbridge1$str$ptr + 2797844
+2   chromedriver                        0x0000000100d81fbc cxxbridge1$string$len + 90140
+3   chromedriver                        0x0000000100dc91bc cxxbridge1$string$len + 381468
+4   chromedriver                        0x0000000100dbe9a0 cxxbridge1$string$len + 338432
+5   chromedriver                        0x0000000100e0a044 cxxbridge1$string$len + 647332
+6   chromedriver                        0x0000000100dbd3f8 cxxbridge1$string$len + 332888
+7   chromedriver                        0x0000000101210804 cxxbridge1$str$ptr + 2585200
+8   chromedriver                        0x0000000101213ad4 cxxbridge1$str$ptr + 2598208
+9   chromedriver                        0x00000001011f1dd8 cxxbridge1$str$ptr + 2459716
+10  chromedriver                        0x000000010121434c cxxbridge1$str$ptr + 2600376
+11  chromedriver                        0x00000001011e3664 cxxbridge1$str$ptr + 2400464
+12  chromedriver                        0x00000001012342b0 cxxbridge1$str$ptr + 2731292
+13  chromedriver                        0x000000010123443c cxxbridge1$str$ptr + 2731688
+14  chromedriver                        0x00000001012442f4 cxxbridge1$str$ptr + 2796896
+15  libsystem_pthread.dylib             0x000000019021ffa8 _pthread_start + 148
+16  libsystem_pthread.dylib             0x000000019021ada0 thread_start + 8
+
+2025-05-29 02:56:42,750 - WARNING - Lỗi khi xử lý bài viết: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[contains(@href, '/groups/') and contains(@href, '/posts/')]"}
+  (Session info: chrome=136.0.7103.114); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x000000010124c3e0 cxxbridge1$str$ptr + 2829900
+1   chromedriver                        0x00000001012446a8 cxxbridge1$str$ptr + 2797844
+2   chromedriver                        0x0000000100d81fbc cxxbridge1$string$len + 90140
+3   chromedriver                        0x0000000100dc91bc cxxbridge1$string$len + 381468
+4   chromedriver                        0x0000000100dbe9a0 cxxbridge1$string$len + 338432
+5   chromedriver                        0x0000000100e0a044 cxxbridge1$string$len + 647332
+6   chromedriver                        0x0000000100dbd3f8 cxxbridge1$string$len + 332888
+7   chromedriver                        0x0000000101210804 cxxbridge1$str$ptr + 2585200
+8   chromedriver                        0x0000000101213ad4 cxxbridge1$str$ptr + 2598208
+9   chromedriver                        0x00000001011f1dd8 cxxbridge1$str$ptr + 2459716
+10  chromedriver                        0x000000010121434c cxxbridge1$str$ptr + 2600376
+11  chromedriver                        0x00000001011e3664 cxxbridge1$str$ptr + 2400464
+12  chromedriver                        0x00000001012342b0 cxxbridge1$str$ptr + 2731292
+13  chromedriver                        0x000000010123443c cxxbridge1$str$ptr + 2731688
+14  chromedriver                        0x00000001012442f4 cxxbridge1$str$ptr + 2796896
+15  libsystem_pthread.dylib             0x000000019021ffa8 _pthread_start + 148
+16  libsystem_pthread.dylib             0x000000019021ada0 thread_start + 8
+
+2025-05-29 02:56:46,865 - WARNING - Lỗi khi xử lý bài viết: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[contains(@href, '/groups/') and contains(@href, '/posts/')]"}
+  (Session info: chrome=136.0.7103.114); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x000000010124c3e0 cxxbridge1$str$ptr + 2829900
+1   chromedriver                        0x00000001012446a8 cxxbridge1$str$ptr + 2797844
+2   chromedriver                        0x0000000100d81fbc cxxbridge1$string$len + 90140
+3   chromedriver                        0x0000000100dc91bc cxxbridge1$string$len + 381468
+4   chromedriver                        0x0000000100dbe9a0 cxxbridge1$string$len + 338432
+5   chromedriver                        0x0000000100e0a044 cxxbridge1$string$len + 647332
+6   chromedriver                        0x0000000100dbd3f8 cxxbridge1$string$len + 332888
+7   chromedriver                        0x0000000101210804 cxxbridge1$str$ptr + 2585200
+8   chromedriver                        0x0000000101213ad4 cxxbridge1$str$ptr + 2598208
+9   chromedriver                        0x00000001011f1dd8 cxxbridge1$str$ptr + 2459716
+10  chromedriver                        0x000000010121434c cxxbridge1$str$ptr + 2600376
+11  chromedriver                        0x00000001011e3664 cxxbridge1$str$ptr + 2400464
+12  chromedriver                        0x00000001012342b0 cxxbridge1$str$ptr + 2731292
+13  chromedriver                        0x000000010123443c cxxbridge1$str$ptr + 2731688
+14  chromedriver                        0x00000001012442f4 cxxbridge1$str$ptr + 2796896
+15  libsystem_pthread.dylib             0x000000019021ffa8 _pthread_start + 148
+16  libsystem_pthread.dylib             0x000000019021ada0 thread_start + 8
+
+2025-05-29 02:56:46,868 - WARNING - Lỗi khi xử lý bài viết: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[contains(@href, '/groups/') and contains(@href, '/posts/')]"}
+  (Session info: chrome=136.0.7103.114); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x000000010124c3e0 cxxbridge1$str$ptr + 2829900
+1   chromedriver                        0x00000001012446a8 cxxbridge1$str$ptr + 2797844
+2   chromedriver                        0x0000000100d81fbc cxxbridge1$string$len + 90140
+3   chromedriver                        0x0000000100dc91bc cxxbridge1$string$len + 381468
+4   chromedriver                        0x0000000100dbe9a0 cxxbridge1$string$len + 338432
+5   chromedriver                        0x0000000100e0a044 cxxbridge1$string$len + 647332
+6   chromedriver                        0x0000000100dbd3f8 cxxbridge1$string$len + 332888
+7   chromedriver                        0x0000000101210804 cxxbridge1$str$ptr + 2585200
+8   chromedriver                        0x0000000101213ad4 cxxbridge1$str$ptr + 2598208
+9   chromedriver                        0x00000001011f1dd8 cxxbridge1$str$ptr + 2459716
+10  chromedriver                        0x000000010121434c cxxbridge1$str$ptr + 2600376
+11  chromedriver                        0x00000001011e3664 cxxbridge1$str$ptr + 2400464
+12  chromedriver                        0x00000001012342b0 cxxbridge1$str$ptr + 2731292
+13  chromedriver                        0x000000010123443c cxxbridge1$str$ptr + 2731688
+14  chromedriver                        0x00000001012442f4 cxxbridge1$str$ptr + 2796896
+15  libsystem_pthread.dylib             0x000000019021ffa8 _pthread_start + 148
+16  libsystem_pthread.dylib             0x000000019021ada0 thread_start + 8
+
+2025-05-29 02:56:50,974 - WARNING - Lỗi khi xử lý bài viết: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[contains(@href, '/groups/') and contains(@href, '/posts/')]"}
+  (Session info: chrome=136.0.7103.114); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x000000010124c3e0 cxxbridge1$str$ptr + 2829900
+1   chromedriver                        0x00000001012446a8 cxxbridge1$str$ptr + 2797844
+2   chromedriver                        0x0000000100d81fbc cxxbridge1$string$len + 90140
+3   chromedriver                        0x0000000100dc91bc cxxbridge1$string$len + 381468
+4   chromedriver                        0x0000000100dbe9a0 cxxbridge1$string$len + 338432
+5   chromedriver                        0x0000000100e0a044 cxxbridge1$string$len + 647332
+6   chromedriver                        0x0000000100dbd3f8 cxxbridge1$string$len + 332888
+7   chromedriver                        0x0000000101210804 cxxbridge1$str$ptr + 2585200
+8   chromedriver                        0x0000000101213ad4 cxxbridge1$str$ptr + 2598208
+9   chromedriver                        0x00000001011f1dd8 cxxbridge1$str$ptr + 2459716
+10  chromedriver                        0x000000010121434c cxxbridge1$str$ptr + 2600376
+11  chromedriver                        0x00000001011e3664 cxxbridge1$str$ptr + 2400464
+12  chromedriver                        0x00000001012342b0 cxxbridge1$str$ptr + 2731292
+13  chromedriver                        0x000000010123443c cxxbridge1$str$ptr + 2731688
+14  chromedriver                        0x00000001012442f4 cxxbridge1$str$ptr + 2796896
+15  libsystem_pthread.dylib             0x000000019021ffa8 _pthread_start + 148
+16  libsystem_pthread.dylib             0x000000019021ada0 thread_start + 8
+
+2025-05-29 02:56:50,977 - WARNING - Lỗi khi xử lý bài viết: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[contains(@href, '/groups/') and contains(@href, '/posts/')]"}
+  (Session info: chrome=136.0.7103.114); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x000000010124c3e0 cxxbridge1$str$ptr + 2829900
+1   chromedriver                        0x00000001012446a8 cxxbridge1$str$ptr + 2797844
+2   chromedriver                        0x0000000100d81fbc cxxbridge1$string$len + 90140
+3   chromedriver                        0x0000000100dc91bc cxxbridge1$string$len + 381468
+4   chromedriver                        0x0000000100dbe9a0 cxxbridge1$string$len + 338432
+5   chromedriver                        0x0000000100e0a044 cxxbridge1$string$len + 647332
+6   chromedriver                        0x0000000100dbd3f8 cxxbridge1$string$len + 332888
+7   chromedriver                        0x0000000101210804 cxxbridge1$str$ptr + 2585200
+8   chromedriver                        0x0000000101213ad4 cxxbridge1$str$ptr + 2598208
+9   chromedriver                        0x00000001011f1dd8 cxxbridge1$str$ptr + 2459716
+10  chromedriver                        0x000000010121434c cxxbridge1$str$ptr + 2600376
+11  chromedriver                        0x00000001011e3664 cxxbridge1$str$ptr + 2400464
+12  chromedriver                        0x00000001012342b0 cxxbridge1$str$ptr + 2731292
+13  chromedriver                        0x000000010123443c cxxbridge1$str$ptr + 2731688
+14  chromedriver                        0x00000001012442f4 cxxbridge1$str$ptr + 2796896
+15  libsystem_pthread.dylib             0x000000019021ffa8 _pthread_start + 148
+16  libsystem_pthread.dylib             0x000000019021ada0 thread_start + 8
+
+2025-05-29 02:56:55,215 - INFO - Đã gửi (15/50): https://www.facebook.com/groups/tansinhvienneu/posts/2487261225006133/
+2025-05-29 02:56:56,195 - INFO - Đã gửi (16/50): https://www.facebook.com/groups/tansinhvienneu/posts/2481368522262070/
+2025-05-29 02:56:57,084 - WARNING - Lỗi khi xử lý bài viết: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[contains(@href, '/groups/') and contains(@href, '/posts/')]"}
+  (Session info: chrome=136.0.7103.114); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x000000010124c3e0 cxxbridge1$str$ptr + 2829900
+1   chromedriver                        0x00000001012446a8 cxxbridge1$str$ptr + 2797844
+2   chromedriver                        0x0000000100d81fbc cxxbridge1$string$len + 90140
+3   chromedriver                        0x0000000100dc91bc cxxbridge1$string$len + 381468
+4   chromedriver                        0x0000000100dbe9a0 cxxbridge1$string$len + 338432
+5   chromedriver                        0x0000000100e0a044 cxxbridge1$string$len + 647332
+6   chromedriver                        0x0000000100dbd3f8 cxxbridge1$string$len + 332888
+7   chromedriver                        0x0000000101210804 cxxbridge1$str$ptr + 2585200
+8   chromedriver                        0x0000000101213ad4 cxxbridge1$str$ptr + 2598208
+9   chromedriver                        0x00000001011f1dd8 cxxbridge1$str$ptr + 2459716
+10  chromedriver                        0x000000010121434c cxxbridge1$str$ptr + 2600376
+11  chromedriver                        0x00000001011e3664 cxxbridge1$str$ptr + 2400464
+12  chromedriver                        0x00000001012342b0 cxxbridge1$str$ptr + 2731292
+13  chromedriver                        0x000000010123443c cxxbridge1$str$ptr + 2731688
+14  chromedriver                        0x00000001012442f4 cxxbridge1$str$ptr + 2796896
+15  libsystem_pthread.dylib             0x000000019021ffa8 _pthread_start + 148
+16  libsystem_pthread.dylib             0x000000019021ada0 thread_start + 8
+
+2025-05-29 02:56:57,087 - WARNING - Lỗi khi xử lý bài viết: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[contains(@href, '/groups/') and contains(@href, '/posts/')]"}
+  (Session info: chrome=136.0.7103.114); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x000000010124c3e0 cxxbridge1$str$ptr + 2829900
+1   chromedriver                        0x00000001012446a8 cxxbridge1$str$ptr + 2797844
+2   chromedriver                        0x0000000100d81fbc cxxbridge1$string$len + 90140
+3   chromedriver                        0x0000000100dc91bc cxxbridge1$string$len + 381468
+4   chromedriver                        0x0000000100dbe9a0 cxxbridge1$string$len + 338432
+5   chromedriver                        0x0000000100e0a044 cxxbridge1$string$len + 647332
+6   chromedriver                        0x0000000100dbd3f8 cxxbridge1$string$len + 332888
+7   chromedriver                        0x0000000101210804 cxxbridge1$str$ptr + 2585200
+8   chromedriver                        0x0000000101213ad4 cxxbridge1$str$ptr + 2598208
+9   chromedriver                        0x00000001011f1dd8 cxxbridge1$str$ptr + 2459716
+10  chromedriver                        0x000000010121434c cxxbridge1$str$ptr + 2600376
+11  chromedriver                        0x00000001011e3664 cxxbridge1$str$ptr + 2400464
+12  chromedriver                        0x00000001012342b0 cxxbridge1$str$ptr + 2731292
+13  chromedriver                        0x000000010123443c cxxbridge1$str$ptr + 2731688
+14  chromedriver                        0x00000001012442f4 cxxbridge1$str$ptr + 2796896
+15  libsystem_pthread.dylib             0x000000019021ffa8 _pthread_start + 148
+16  libsystem_pthread.dylib             0x000000019021ada0 thread_start + 8
+
+2025-05-29 02:56:59,255 - INFO - Đã gửi (17/50): https://www.facebook.com/groups/tansinhvienneu/posts/2486318155100440/
+2025-05-29 02:56:59,936 - WARNING - Lỗi khi xử lý bài viết: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=136.0.7103.114); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+0   chromedriver                        0x000000010124c3e0 cxxbridge1$str$ptr + 2829900
+1   chromedriver                        0x00000001012446a8 cxxbridge1$str$ptr + 2797844
+2   chromedriver                        0x0000000100d81fbc cxxbridge1$string$len + 90140
+3   chromedriver                        0x0000000100d87c6c cxxbridge1$string$len + 113868
+4   chromedriver                        0x0000000100d89fac cxxbridge1$string$len + 122892
+5   chromedriver                        0x0000000100d8a054 cxxbridge1$string$len + 123060
+6   chromedriver                        0x0000000100dc8d8c cxxbridge1$string$len + 380396
+7   chromedriver                        0x0000000100dbe9a0 cxxbridge1$string$len + 338432
+8   chromedriver                        0x0000000100e0a044 cxxbridge1$string$len + 647332
+9   chromedriver                        0x0000000100dbd3f8 cxxbridge1$string$len + 332888
+10  chromedriver                        0x0000000101210804 cxxbridge1$str$ptr + 2585200
+11  chromedriver                        0x0000000101213ad4 cxxbridge1$str$ptr + 2598208
+12  chromedriver                        0x00000001011f1dd8 cxxbridge1$str$ptr + 2459716
+13  chromedriver                        0x000000010121434c cxxbridge1$str$ptr + 2600376
+14  chromedriver                        0x00000001011e3664 cxxbridge1$str$ptr + 2400464
+15  chromedriver                        0x00000001012342b0 cxxbridge1$str$ptr + 2731292
+16  chromedriver                        0x000000010123443c cxxbridge1$str$ptr + 2731688
+17  chromedriver                        0x00000001012442f4 cxxbridge1$str$ptr + 2796896
+18  libsystem_pthread.dylib             0x000000019021ffa8 _pthread_start + 148
+19  libsystem_pthread.dylib             0x000000019021ada0 thread_start + 8
+
+2025-05-29 02:56:59,940 - WARNING - Lỗi khi xử lý bài viết: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=136.0.7103.114); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+0   chromedriver                        0x000000010124c3e0 cxxbridge1$str$ptr + 2829900
+1   chromedriver                        0x00000001012446a8 cxxbridge1$str$ptr + 2797844
+2   chromedriver                        0x0000000100d81fbc cxxbridge1$string$len + 90140
+3   chromedriver                        0x0000000100d87c6c cxxbridge1$string$len + 113868
+4   chromedriver                        0x0000000100d89fac cxxbridge1$string$len + 122892
+5   chromedriver                        0x0000000100d8a054 cxxbridge1$string$len + 123060
+6   chromedriver                        0x0000000100dc8d8c cxxbridge1$string$len + 380396
+7   chromedriver                        0x0000000100dbe9a0 cxxbridge1$string$len + 338432
+8   chromedriver                        0x0000000100e0a044 cxxbridge1$string$len + 647332
+9   chromedriver                        0x0000000100dbd3f8 cxxbridge1$string$len + 332888
+10  chromedriver                        0x0000000101210804 cxxbridge1$str$ptr + 2585200
+11  chromedriver                        0x0000000101213ad4 cxxbridge1$str$ptr + 2598208
+12  chromedriver                        0x00000001011f1dd8 cxxbridge1$str$ptr + 2459716
+13  chromedriver                        0x000000010121434c cxxbridge1$str$ptr + 2600376
+14  chromedriver                        0x00000001011e3664 cxxbridge1$str$ptr + 2400464
+15  chromedriver                        0x00000001012342b0 cxxbridge1$str$ptr + 2731292
+16  chromedriver                        0x000000010123443c cxxbridge1$str$ptr + 2731688
+17  chromedriver                        0x00000001012442f4 cxxbridge1$str$ptr + 2796896
+18  libsystem_pthread.dylib             0x000000019021ffa8 _pthread_start + 148
+19  libsystem_pthread.dylib             0x000000019021ada0 thread_start + 8
+
+2025-05-29 02:56:59,942 - WARNING - Lỗi khi xử lý bài viết: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=136.0.7103.114); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+0   chromedriver                        0x000000010124c3e0 cxxbridge1$str$ptr + 2829900
+1   chromedriver                        0x00000001012446a8 cxxbridge1$str$ptr + 2797844
+2   chromedriver                        0x0000000100d81fbc cxxbridge1$string$len + 90140
+3   chromedriver                        0x0000000100d87c6c cxxbridge1$string$len + 113868
+4   chromedriver                        0x0000000100d89fac cxxbridge1$string$len + 122892
+5   chromedriver                        0x0000000100d8a054 cxxbridge1$string$len + 123060
+6   chromedriver                        0x0000000100dc8d8c cxxbridge1$string$len + 380396
+7   chromedriver                        0x0000000100dbe9a0 cxxbridge1$string$len + 338432
+8   chromedriver                        0x0000000100e0a044 cxxbridge1$string$len + 647332
+9   chromedriver                        0x0000000100dbd3f8 cxxbridge1$string$len + 332888
+10  chromedriver                        0x0000000101210804 cxxbridge1$str$ptr + 2585200
+11  chromedriver                        0x0000000101213ad4 cxxbridge1$str$ptr + 2598208
+12  chromedriver                        0x00000001011f1dd8 cxxbridge1$str$ptr + 2459716
+13  chromedriver                        0x000000010121434c cxxbridge1$str$ptr + 2600376
+14  chromedriver                        0x00000001011e3664 cxxbridge1$str$ptr + 2400464
+15  chromedriver                        0x00000001012342b0 cxxbridge1$str$ptr + 2731292
+16  chromedriver                        0x000000010123443c cxxbridge1$str$ptr + 2731688
+17  chromedriver                        0x00000001012442f4 cxxbridge1$str$ptr + 2796896
+18  libsystem_pthread.dylib             0x000000019021ffa8 _pthread_start + 148
+19  libsystem_pthread.dylib             0x000000019021ada0 thread_start + 8
+
+2025-05-29 02:56:59,944 - WARNING - Lỗi khi xử lý bài viết: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=136.0.7103.114); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+0   chromedriver                        0x000000010124c3e0 cxxbridge1$str$ptr + 2829900
+1   chromedriver                        0x00000001012446a8 cxxbridge1$str$ptr + 2797844
+2   chromedriver                        0x0000000100d81fbc cxxbridge1$string$len + 90140
+3   chromedriver                        0x0000000100d87c6c cxxbridge1$string$len + 113868
+4   chromedriver                        0x0000000100d89fac cxxbridge1$string$len + 122892
+5   chromedriver                        0x0000000100d8a054 cxxbridge1$string$len + 123060
+6   chromedriver                        0x0000000100dc8d8c cxxbridge1$string$len + 380396
+7   chromedriver                        0x0000000100dbe9a0 cxxbridge1$string$len + 338432
+8   chromedriver                        0x0000000100e0a044 cxxbridge1$string$len + 647332
+9   chromedriver                        0x0000000100dbd3f8 cxxbridge1$string$len + 332888
+10  chromedriver                        0x0000000101210804 cxxbridge1$str$ptr + 2585200
+11  chromedriver                        0x0000000101213ad4 cxxbridge1$str$ptr + 2598208
+12  chromedriver                        0x00000001011f1dd8 cxxbridge1$str$ptr + 2459716
+13  chromedriver                        0x000000010121434c cxxbridge1$str$ptr + 2600376
+14  chromedriver                        0x00000001011e3664 cxxbridge1$str$ptr + 2400464
+15  chromedriver                        0x00000001012342b0 cxxbridge1$str$ptr + 2731292
+16  chromedriver                        0x000000010123443c cxxbridge1$str$ptr + 2731688
+17  chromedriver                        0x00000001012442f4 cxxbridge1$str$ptr + 2796896
+18  libsystem_pthread.dylib             0x000000019021ffa8 _pthread_start + 148
+19  libsystem_pthread.dylib             0x000000019021ada0 thread_start + 8
+
+2025-05-29 02:57:00,040 - INFO - Đã gửi (18/50): https://www.facebook.com/groups/tansinhvienneu/posts/2487237531675169/
+2025-05-29 02:57:01,288 - WARNING - Lỗi khi xử lý bài viết: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[contains(@href, '/groups/') and contains(@href, '/posts/')]"}
+  (Session info: chrome=136.0.7103.114); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x000000010124c3e0 cxxbridge1$str$ptr + 2829900
+1   chromedriver                        0x00000001012446a8 cxxbridge1$str$ptr + 2797844
+2   chromedriver                        0x0000000100d81fbc cxxbridge1$string$len + 90140
+3   chromedriver                        0x0000000100dc91bc cxxbridge1$string$len + 381468
+4   chromedriver                        0x0000000100dbe9a0 cxxbridge1$string$len + 338432
+5   chromedriver                        0x0000000100e0a044 cxxbridge1$string$len + 647332
+6   chromedriver                        0x0000000100dbd3f8 cxxbridge1$string$len + 332888
+7   chromedriver                        0x0000000101210804 cxxbridge1$str$ptr + 2585200
+8   chromedriver                        0x0000000101213ad4 cxxbridge1$str$ptr + 2598208
+9   chromedriver                        0x00000001011f1dd8 cxxbridge1$str$ptr + 2459716
+10  chromedriver                        0x000000010121434c cxxbridge1$str$ptr + 2600376
+11  chromedriver                        0x00000001011e3664 cxxbridge1$str$ptr + 2400464
+12  chromedriver                        0x00000001012342b0 cxxbridge1$str$ptr + 2731292
+13  chromedriver                        0x000000010123443c cxxbridge1$str$ptr + 2731688
+14  chromedriver                        0x00000001012442f4 cxxbridge1$str$ptr + 2796896
+15  libsystem_pthread.dylib             0x000000019021ffa8 _pthread_start + 148
+16  libsystem_pthread.dylib             0x000000019021ada0 thread_start + 8
+
+2025-05-29 02:57:01,296 - WARNING - Lỗi khi xử lý bài viết: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[contains(@href, '/groups/') and contains(@href, '/posts/')]"}
+  (Session info: chrome=136.0.7103.114); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x000000010124c3e0 cxxbridge1$str$ptr + 2829900
+1   chromedriver                        0x00000001012446a8 cxxbridge1$str$ptr + 2797844
+2   chromedriver                        0x0000000100d81fbc cxxbridge1$string$len + 90140
+3   chromedriver                        0x0000000100dc91bc cxxbridge1$string$len + 381468
+4   chromedriver                        0x0000000100dbe9a0 cxxbridge1$string$len + 338432
+5   chromedriver                        0x0000000100e0a044 cxxbridge1$string$len + 647332
+6   chromedriver                        0x0000000100dbd3f8 cxxbridge1$string$len + 332888
+7   chromedriver                        0x0000000101210804 cxxbridge1$str$ptr + 2585200
+8   chromedriver                        0x0000000101213ad4 cxxbridge1$str$ptr + 2598208
+9   chromedriver                        0x00000001011f1dd8 cxxbridge1$str$ptr + 2459716
+10  chromedriver                        0x000000010121434c cxxbridge1$str$ptr + 2600376
+11  chromedriver                        0x00000001011e3664 cxxbridge1$str$ptr + 2400464
+12  chromedriver                        0x00000001012342b0 cxxbridge1$str$ptr + 2731292
+13  chromedriver                        0x000000010123443c cxxbridge1$str$ptr + 2731688
+14  chromedriver                        0x00000001012442f4 cxxbridge1$str$ptr + 2796896
+15  libsystem_pthread.dylib             0x000000019021ffa8 _pthread_start + 148
+16  libsystem_pthread.dylib             0x000000019021ada0 thread_start + 8
+
+2025-05-29 02:57:03,411 - INFO - Đã gửi (19/50): https://www.facebook.com/groups/tansinhvienneu/posts/2486965455035710/
+2025-05-29 02:57:04,233 - INFO - Đã gửi (20/50): https://www.facebook.com/groups/tansinhvienneu/posts/2486504161748506/
+2025-05-29 02:57:05,273 - INFO - Đã gửi (21/50): https://www.facebook.com/groups/tansinhvienneu/posts/2486165445115711/
+2025-05-29 02:57:06,544 - INFO - Đã gửi (22/50): https://www.facebook.com/groups/tansinhvienneu/posts/2485904645141791/
+2025-05-29 02:57:08,079 - WARNING - Lỗi khi xử lý bài viết: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=136.0.7103.114); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+0   chromedriver                        0x000000010124c3e0 cxxbridge1$str$ptr + 2829900
+1   chromedriver                        0x00000001012446a8 cxxbridge1$str$ptr + 2797844
+2   chromedriver                        0x0000000100d81fbc cxxbridge1$string$len + 90140
+3   chromedriver                        0x0000000100d87c6c cxxbridge1$string$len + 113868
+4   chromedriver                        0x0000000100d8a234 cxxbridge1$string$len + 123540
+5   chromedriver                        0x0000000100e0ad3c cxxbridge1$string$len + 650652
+6   chromedriver                        0x0000000100e0a044 cxxbridge1$string$len + 647332
+7   chromedriver                        0x0000000100dbd3f8 cxxbridge1$string$len + 332888
+8   chromedriver                        0x0000000101210804 cxxbridge1$str$ptr + 2585200
+9   chromedriver                        0x0000000101213ad4 cxxbridge1$str$ptr + 2598208
+10  chromedriver                        0x00000001011f1dd8 cxxbridge1$str$ptr + 2459716
+11  chromedriver                        0x000000010121434c cxxbridge1$str$ptr + 2600376
+12  chromedriver                        0x00000001011e3664 cxxbridge1$str$ptr + 2400464
+13  chromedriver                        0x00000001012342b0 cxxbridge1$str$ptr + 2731292
+14  chromedriver                        0x000000010123443c cxxbridge1$str$ptr + 2731688
+15  chromedriver                        0x00000001012442f4 cxxbridge1$str$ptr + 2796896
+16  libsystem_pthread.dylib             0x000000019021ffa8 _pthread_start + 148
+17  libsystem_pthread.dylib             0x000000019021ada0 thread_start + 8
+
+2025-05-29 02:57:08,088 - WARNING - Lỗi khi xử lý bài viết: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=136.0.7103.114); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+0   chromedriver                        0x000000010124c3e0 cxxbridge1$str$ptr + 2829900
+1   chromedriver                        0x00000001012446a8 cxxbridge1$str$ptr + 2797844
+2   chromedriver                        0x0000000100d81fbc cxxbridge1$string$len + 90140
+3   chromedriver                        0x0000000100d87c6c cxxbridge1$string$len + 113868
+4   chromedriver                        0x0000000100d89fac cxxbridge1$string$len + 122892
+5   chromedriver                        0x0000000100d8a054 cxxbridge1$string$len + 123060
+6   chromedriver                        0x0000000100dc8d8c cxxbridge1$string$len + 380396
+7   chromedriver                        0x0000000100dbe9a0 cxxbridge1$string$len + 338432
+8   chromedriver                        0x0000000100e0a044 cxxbridge1$string$len + 647332
+9   chromedriver                        0x0000000100dbd3f8 cxxbridge1$string$len + 332888
+10  chromedriver                        0x0000000101210804 cxxbridge1$str$ptr + 2585200
+11  chromedriver                        0x0000000101213ad4 cxxbridge1$str$ptr + 2598208
+12  chromedriver                        0x00000001011f1dd8 cxxbridge1$str$ptr + 2459716
+13  chromedriver                        0x000000010121434c cxxbridge1$str$ptr + 2600376
+14  chromedriver                        0x00000001011e3664 cxxbridge1$str$ptr + 2400464
+15  chromedriver                        0x00000001012342b0 cxxbridge1$str$ptr + 2731292
+16  chromedriver                        0x000000010123443c cxxbridge1$str$ptr + 2731688
+17  chromedriver                        0x00000001012442f4 cxxbridge1$str$ptr + 2796896
+18  libsystem_pthread.dylib             0x000000019021ffa8 _pthread_start + 148
+19  libsystem_pthread.dylib             0x000000019021ada0 thread_start + 8
+
+2025-05-29 02:57:08,090 - WARNING - Lỗi khi xử lý bài viết: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=136.0.7103.114); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+0   chromedriver                        0x000000010124c3e0 cxxbridge1$str$ptr + 2829900
+1   chromedriver                        0x00000001012446a8 cxxbridge1$str$ptr + 2797844
+2   chromedriver                        0x0000000100d81fbc cxxbridge1$string$len + 90140
+3   chromedriver                        0x0000000100d87c6c cxxbridge1$string$len + 113868
+4   chromedriver                        0x0000000100d89fac cxxbridge1$string$len + 122892
+5   chromedriver                        0x0000000100d8a054 cxxbridge1$string$len + 123060
+6   chromedriver                        0x0000000100dc8d8c cxxbridge1$string$len + 380396
+7   chromedriver                        0x0000000100dbe9a0 cxxbridge1$string$len + 338432
+8   chromedriver                        0x0000000100e0a044 cxxbridge1$string$len + 647332
+9   chromedriver                        0x0000000100dbd3f8 cxxbridge1$string$len + 332888
+10  chromedriver                        0x0000000101210804 cxxbridge1$str$ptr + 2585200
+11  chromedriver                        0x0000000101213ad4 cxxbridge1$str$ptr + 2598208
+12  chromedriver                        0x00000001011f1dd8 cxxbridge1$str$ptr + 2459716
+13  chromedriver                        0x000000010121434c cxxbridge1$str$ptr + 2600376
+14  chromedriver                        0x00000001011e3664 cxxbridge1$str$ptr + 2400464
+15  chromedriver                        0x00000001012342b0 cxxbridge1$str$ptr + 2731292
+16  chromedriver                        0x000000010123443c cxxbridge1$str$ptr + 2731688
+17  chromedriver                        0x00000001012442f4 cxxbridge1$str$ptr + 2796896
+18  libsystem_pthread.dylib             0x000000019021ffa8 _pthread_start + 148
+19  libsystem_pthread.dylib             0x000000019021ada0 thread_start + 8
+
+2025-05-29 02:57:08,093 - WARNING - Lỗi khi xử lý bài viết: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[contains(@href, '/groups/') and contains(@href, '/posts/')]"}
+  (Session info: chrome=136.0.7103.114); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x000000010124c3e0 cxxbridge1$str$ptr + 2829900
+1   chromedriver                        0x00000001012446a8 cxxbridge1$str$ptr + 2797844
+2   chromedriver                        0x0000000100d81fbc cxxbridge1$string$len + 90140
+3   chromedriver                        0x0000000100dc91bc cxxbridge1$string$len + 381468
+4   chromedriver                        0x0000000100dbe9a0 cxxbridge1$string$len + 338432
+5   chromedriver                        0x0000000100e0a044 cxxbridge1$string$len + 647332
+6   chromedriver                        0x0000000100dbd3f8 cxxbridge1$string$len + 332888
+7   chromedriver                        0x0000000101210804 cxxbridge1$str$ptr + 2585200
+8   chromedriver                        0x0000000101213ad4 cxxbridge1$str$ptr + 2598208
+9   chromedriver                        0x00000001011f1dd8 cxxbridge1$str$ptr + 2459716
+10  chromedriver                        0x000000010121434c cxxbridge1$str$ptr + 2600376
+11  chromedriver                        0x00000001011e3664 cxxbridge1$str$ptr + 2400464
+12  chromedriver                        0x00000001012342b0 cxxbridge1$str$ptr + 2731292
+13  chromedriver                        0x000000010123443c cxxbridge1$str$ptr + 2731688
+14  chromedriver                        0x00000001012442f4 cxxbridge1$str$ptr + 2796896
+15  libsystem_pthread.dylib             0x000000019021ffa8 _pthread_start + 148
+16  libsystem_pthread.dylib             0x000000019021ada0 thread_start + 8
+
+2025-05-29 02:57:08,096 - WARNING - Lỗi khi xử lý bài viết: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[contains(@href, '/groups/') and contains(@href, '/posts/')]"}
+  (Session info: chrome=136.0.7103.114); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x000000010124c3e0 cxxbridge1$str$ptr + 2829900
+1   chromedriver                        0x00000001012446a8 cxxbridge1$str$ptr + 2797844
+2   chromedriver                        0x0000000100d81fbc cxxbridge1$string$len + 90140
+3   chromedriver                        0x0000000100dc91bc cxxbridge1$string$len + 381468
+4   chromedriver                        0x0000000100dbe9a0 cxxbridge1$string$len + 338432
+5   chromedriver                        0x0000000100e0a044 cxxbridge1$string$len + 647332
+6   chromedriver                        0x0000000100dbd3f8 cxxbridge1$string$len + 332888
+7   chromedriver                        0x0000000101210804 cxxbridge1$str$ptr + 2585200
+8   chromedriver                        0x0000000101213ad4 cxxbridge1$str$ptr + 2598208
+9   chromedriver                        0x00000001011f1dd8 cxxbridge1$str$ptr + 2459716
+10  chromedriver                        0x000000010121434c cxxbridge1$str$ptr + 2600376
+11  chromedriver                        0x00000001011e3664 cxxbridge1$str$ptr + 2400464
+12  chromedriver                        0x00000001012342b0 cxxbridge1$str$ptr + 2731292
+13  chromedriver                        0x000000010123443c cxxbridge1$str$ptr + 2731688
+14  chromedriver                        0x00000001012442f4 cxxbridge1$str$ptr + 2796896
+15  libsystem_pthread.dylib             0x000000019021ffa8 _pthread_start + 148
+16  libsystem_pthread.dylib             0x000000019021ada0 thread_start + 8
+
+2025-05-29 02:57:10,232 - INFO - Đã gửi (23/50): https://www.facebook.com/groups/tansinhvienneu/posts/2483756042023318/
+2025-05-29 02:57:11,668 - WARNING - Lỗi khi xử lý bài viết: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=136.0.7103.114); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+0   chromedriver                        0x000000010124c3e0 cxxbridge1$str$ptr + 2829900
+1   chromedriver                        0x00000001012446a8 cxxbridge1$str$ptr + 2797844
+2   chromedriver                        0x0000000100d81fbc cxxbridge1$string$len + 90140
+3   chromedriver                        0x0000000100d87c6c cxxbridge1$string$len + 113868
+4   chromedriver                        0x0000000100d89fac cxxbridge1$string$len + 122892
+5   chromedriver                        0x0000000100d8a054 cxxbridge1$string$len + 123060
+6   chromedriver                        0x0000000100dc8d8c cxxbridge1$string$len + 380396
+7   chromedriver                        0x0000000100dbe9a0 cxxbridge1$string$len + 338432
+8   chromedriver                        0x0000000100e0a044 cxxbridge1$string$len + 647332
+9   chromedriver                        0x0000000100dbd3f8 cxxbridge1$string$len + 332888
+10  chromedriver                        0x0000000101210804 cxxbridge1$str$ptr + 2585200
+11  chromedriver                        0x0000000101213ad4 cxxbridge1$str$ptr + 2598208
+12  chromedriver                        0x00000001011f1dd8 cxxbridge1$str$ptr + 2459716
+13  chromedriver                        0x000000010121434c cxxbridge1$str$ptr + 2600376
+14  chromedriver                        0x00000001011e3664 cxxbridge1$str$ptr + 2400464
+15  chromedriver                        0x00000001012342b0 cxxbridge1$str$ptr + 2731292
+16  chromedriver                        0x000000010123443c cxxbridge1$str$ptr + 2731688
+17  chromedriver                        0x00000001012442f4 cxxbridge1$str$ptr + 2796896
+18  libsystem_pthread.dylib             0x000000019021ffa8 _pthread_start + 148
+19  libsystem_pthread.dylib             0x000000019021ada0 thread_start + 8
+
+2025-05-29 02:57:11,773 - INFO - Đã gửi (24/50): https://www.facebook.com/groups/tansinhvienneu/posts/2482781475454108/
+2025-05-29 02:57:13,046 - INFO - Đã gửi (25/50): https://www.facebook.com/groups/tansinhvienneu/posts/2485221268543462/
+2025-05-29 02:57:14,472 - WARNING - Lỗi khi xử lý bài viết: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=136.0.7103.114); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+0   chromedriver                        0x000000010124c3e0 cxxbridge1$str$ptr + 2829900
+1   chromedriver                        0x00000001012446a8 cxxbridge1$str$ptr + 2797844
+2   chromedriver                        0x0000000100d81fbc cxxbridge1$string$len + 90140
+3   chromedriver                        0x0000000100d87c6c cxxbridge1$string$len + 113868
+4   chromedriver                        0x0000000100d89fac cxxbridge1$string$len + 122892
+5   chromedriver                        0x0000000100d8a054 cxxbridge1$string$len + 123060
+6   chromedriver                        0x0000000100dc8d8c cxxbridge1$string$len + 380396
+7   chromedriver                        0x0000000100dbe9a0 cxxbridge1$string$len + 338432
+8   chromedriver                        0x0000000100e0a044 cxxbridge1$string$len + 647332
+9   chromedriver                        0x0000000100dbd3f8 cxxbridge1$string$len + 332888
+10  chromedriver                        0x0000000101210804 cxxbridge1$str$ptr + 2585200
+11  chromedriver                        0x0000000101213ad4 cxxbridge1$str$ptr + 2598208
+12  chromedriver                        0x00000001011f1dd8 cxxbridge1$str$ptr + 2459716
+13  chromedriver                        0x000000010121434c cxxbridge1$str$ptr + 2600376
+14  chromedriver                        0x00000001011e3664 cxxbridge1$str$ptr + 2400464
+15  chromedriver                        0x00000001012342b0 cxxbridge1$str$ptr + 2731292
+16  chromedriver                        0x000000010123443c cxxbridge1$str$ptr + 2731688
+17  chromedriver                        0x00000001012442f4 cxxbridge1$str$ptr + 2796896
+18  libsystem_pthread.dylib             0x000000019021ffa8 _pthread_start + 148
+19  libsystem_pthread.dylib             0x000000019021ada0 thread_start + 8
+
+2025-05-29 02:57:14,479 - WARNING - Lỗi khi xử lý bài viết: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[contains(@href, '/groups/') and contains(@href, '/posts/')]"}
+  (Session info: chrome=136.0.7103.114); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x000000010124c3e0 cxxbridge1$str$ptr + 2829900
+1   chromedriver                        0x00000001012446a8 cxxbridge1$str$ptr + 2797844
+2   chromedriver                        0x0000000100d81fbc cxxbridge1$string$len + 90140
+3   chromedriver                        0x0000000100dc91bc cxxbridge1$string$len + 381468
+4   chromedriver                        0x0000000100dbe9a0 cxxbridge1$string$len + 338432
+5   chromedriver                        0x0000000100e0a044 cxxbridge1$string$len + 647332
+6   chromedriver                        0x0000000100dbd3f8 cxxbridge1$string$len + 332888
+7   chromedriver                        0x0000000101210804 cxxbridge1$str$ptr + 2585200
+8   chromedriver                        0x0000000101213ad4 cxxbridge1$str$ptr + 2598208
+9   chromedriver                        0x00000001011f1dd8 cxxbridge1$str$ptr + 2459716
+10  chromedriver                        0x000000010121434c cxxbridge1$str$ptr + 2600376
+11  chromedriver                        0x00000001011e3664 cxxbridge1$str$ptr + 2400464
+12  chromedriver                        0x00000001012342b0 cxxbridge1$str$ptr + 2731292
+13  chromedriver                        0x000000010123443c cxxbridge1$str$ptr + 2731688
+14  chromedriver                        0x00000001012442f4 cxxbridge1$str$ptr + 2796896
+15  libsystem_pthread.dylib             0x000000019021ffa8 _pthread_start + 148
+16  libsystem_pthread.dylib             0x000000019021ada0 thread_start + 8
+
+2025-05-29 02:57:14,483 - WARNING - Lỗi khi xử lý bài viết: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[contains(@href, '/groups/') and contains(@href, '/posts/')]"}
+  (Session info: chrome=136.0.7103.114); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x000000010124c3e0 cxxbridge1$str$ptr + 2829900
+1   chromedriver                        0x00000001012446a8 cxxbridge1$str$ptr + 2797844
+2   chromedriver                        0x0000000100d81fbc cxxbridge1$string$len + 90140
+3   chromedriver                        0x0000000100dc91bc cxxbridge1$string$len + 381468
+4   chromedriver                        0x0000000100dbe9a0 cxxbridge1$string$len + 338432
+5   chromedriver                        0x0000000100e0a044 cxxbridge1$string$len + 647332
+6   chromedriver                        0x0000000100dbd3f8 cxxbridge1$string$len + 332888
+7   chromedriver                        0x0000000101210804 cxxbridge1$str$ptr + 2585200
+8   chromedriver                        0x0000000101213ad4 cxxbridge1$str$ptr + 2598208
+9   chromedriver                        0x00000001011f1dd8 cxxbridge1$str$ptr + 2459716
+10  chromedriver                        0x000000010121434c cxxbridge1$str$ptr + 2600376
+11  chromedriver                        0x00000001011e3664 cxxbridge1$str$ptr + 2400464
+12  chromedriver                        0x00000001012342b0 cxxbridge1$str$ptr + 2731292
+13  chromedriver                        0x000000010123443c cxxbridge1$str$ptr + 2731688
+14  chromedriver                        0x00000001012442f4 cxxbridge1$str$ptr + 2796896
+15  libsystem_pthread.dylib             0x000000019021ffa8 _pthread_start + 148
+16  libsystem_pthread.dylib             0x000000019021ada0 thread_start + 8
+
+2025-05-29 02:57:16,636 - INFO - Đã gửi (26/50): https://www.facebook.com/groups/tansinhvienneu/posts/2487008991698023/
+2025-05-29 02:57:17,469 - INFO - Đã gửi (27/50): https://www.facebook.com/groups/tansinhvienneu/posts/2486946888370900/
+2025-05-29 02:57:18,590 - WARNING - Lỗi khi xử lý bài viết: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[contains(@href, '/groups/') and contains(@href, '/posts/')]"}
+  (Session info: chrome=136.0.7103.114); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x000000010124c3e0 cxxbridge1$str$ptr + 2829900
+1   chromedriver                        0x00000001012446a8 cxxbridge1$str$ptr + 2797844
+2   chromedriver                        0x0000000100d81fbc cxxbridge1$string$len + 90140
+3   chromedriver                        0x0000000100dc91bc cxxbridge1$string$len + 381468
+4   chromedriver                        0x0000000100dbe9a0 cxxbridge1$string$len + 338432
+5   chromedriver                        0x0000000100e0a044 cxxbridge1$string$len + 647332
+6   chromedriver                        0x0000000100dbd3f8 cxxbridge1$string$len + 332888
+7   chromedriver                        0x0000000101210804 cxxbridge1$str$ptr + 2585200
+8   chromedriver                        0x0000000101213ad4 cxxbridge1$str$ptr + 2598208
+9   chromedriver                        0x00000001011f1dd8 cxxbridge1$str$ptr + 2459716
+10  chromedriver                        0x000000010121434c cxxbridge1$str$ptr + 2600376
+11  chromedriver                        0x00000001011e3664 cxxbridge1$str$ptr + 2400464
+12  chromedriver                        0x00000001012342b0 cxxbridge1$str$ptr + 2731292
+13  chromedriver                        0x000000010123443c cxxbridge1$str$ptr + 2731688
+14  chromedriver                        0x00000001012442f4 cxxbridge1$str$ptr + 2796896
+15  libsystem_pthread.dylib             0x000000019021ffa8 _pthread_start + 148
+16  libsystem_pthread.dylib             0x000000019021ada0 thread_start + 8
+
+2025-05-29 02:57:18,596 - WARNING - Lỗi khi xử lý bài viết: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[contains(@href, '/groups/') and contains(@href, '/posts/')]"}
+  (Session info: chrome=136.0.7103.114); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x000000010124c3e0 cxxbridge1$str$ptr + 2829900
+1   chromedriver                        0x00000001012446a8 cxxbridge1$str$ptr + 2797844
+2   chromedriver                        0x0000000100d81fbc cxxbridge1$string$len + 90140
+3   chromedriver                        0x0000000100dc91bc cxxbridge1$string$len + 381468
+4   chromedriver                        0x0000000100dbe9a0 cxxbridge1$string$len + 338432
+5   chromedriver                        0x0000000100e0a044 cxxbridge1$string$len + 647332
+6   chromedriver                        0x0000000100dbd3f8 cxxbridge1$string$len + 332888
+7   chromedriver                        0x0000000101210804 cxxbridge1$str$ptr + 2585200
+8   chromedriver                        0x0000000101213ad4 cxxbridge1$str$ptr + 2598208
+9   chromedriver                        0x00000001011f1dd8 cxxbridge1$str$ptr + 2459716
+10  chromedriver                        0x000000010121434c cxxbridge1$str$ptr + 2600376
+11  chromedriver                        0x00000001011e3664 cxxbridge1$str$ptr + 2400464
+12  chromedriver                        0x00000001012342b0 cxxbridge1$str$ptr + 2731292
+13  chromedriver                        0x000000010123443c cxxbridge1$str$ptr + 2731688
+14  chromedriver                        0x00000001012442f4 cxxbridge1$str$ptr + 2796896
+15  libsystem_pthread.dylib             0x000000019021ffa8 _pthread_start + 148
+16  libsystem_pthread.dylib             0x000000019021ada0 thread_start + 8
+
+2025-05-29 02:57:20,717 - INFO - Đã gửi (28/50): https://www.facebook.com/groups/tansinhvienneu/posts/2487108131688109/
+2025-05-29 02:57:21,737 - WARNING - Lỗi khi xử lý bài viết: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[contains(@href, '/groups/') and contains(@href, '/posts/')]"}
+  (Session info: chrome=136.0.7103.114); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x000000010124c3e0 cxxbridge1$str$ptr + 2829900
+1   chromedriver                        0x00000001012446a8 cxxbridge1$str$ptr + 2797844
+2   chromedriver                        0x0000000100d81fbc cxxbridge1$string$len + 90140
+3   chromedriver                        0x0000000100dc91bc cxxbridge1$string$len + 381468
+4   chromedriver                        0x0000000100dbe9a0 cxxbridge1$string$len + 338432
+5   chromedriver                        0x0000000100e0a044 cxxbridge1$string$len + 647332
+6   chromedriver                        0x0000000100dbd3f8 cxxbridge1$string$len + 332888
+7   chromedriver                        0x0000000101210804 cxxbridge1$str$ptr + 2585200
+8   chromedriver                        0x0000000101213ad4 cxxbridge1$str$ptr + 2598208
+9   chromedriver                        0x00000001011f1dd8 cxxbridge1$str$ptr + 2459716
+10  chromedriver                        0x000000010121434c cxxbridge1$str$ptr + 2600376
+11  chromedriver                        0x00000001011e3664 cxxbridge1$str$ptr + 2400464
+12  chromedriver                        0x00000001012342b0 cxxbridge1$str$ptr + 2731292
+13  chromedriver                        0x000000010123443c cxxbridge1$str$ptr + 2731688
+14  chromedriver                        0x00000001012442f4 cxxbridge1$str$ptr + 2796896
+15  libsystem_pthread.dylib             0x000000019021ffa8 _pthread_start + 148
+16  libsystem_pthread.dylib             0x000000019021ada0 thread_start + 8
+
+2025-05-29 02:57:21,749 - WARNING - Lỗi khi xử lý bài viết: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[contains(@href, '/groups/') and contains(@href, '/posts/')]"}
+  (Session info: chrome=136.0.7103.114); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x000000010124c3e0 cxxbridge1$str$ptr + 2829900
+1   chromedriver                        0x00000001012446a8 cxxbridge1$str$ptr + 2797844
+2   chromedriver                        0x0000000100d81fbc cxxbridge1$string$len + 90140
+3   chromedriver                        0x0000000100dc91bc cxxbridge1$string$len + 381468
+4   chromedriver                        0x0000000100dbe9a0 cxxbridge1$string$len + 338432
+5   chromedriver                        0x0000000100e0a044 cxxbridge1$string$len + 647332
+6   chromedriver                        0x0000000100dbd3f8 cxxbridge1$string$len + 332888
+7   chromedriver                        0x0000000101210804 cxxbridge1$str$ptr + 2585200
+8   chromedriver                        0x0000000101213ad4 cxxbridge1$str$ptr + 2598208
+9   chromedriver                        0x00000001011f1dd8 cxxbridge1$str$ptr + 2459716
+10  chromedriver                        0x000000010121434c cxxbridge1$str$ptr + 2600376
+11  chromedriver                        0x00000001011e3664 cxxbridge1$str$ptr + 2400464
+12  chromedriver                        0x00000001012342b0 cxxbridge1$str$ptr + 2731292
+13  chromedriver                        0x000000010123443c cxxbridge1$str$ptr + 2731688
+14  chromedriver                        0x00000001012442f4 cxxbridge1$str$ptr + 2796896
+15  libsystem_pthread.dylib             0x000000019021ffa8 _pthread_start + 148
+16  libsystem_pthread.dylib             0x000000019021ada0 thread_start + 8
+
+2025-05-29 02:57:25,809 - WARNING - Lỗi khi xử lý bài viết: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[contains(@href, '/groups/') and contains(@href, '/posts/')]"}
+  (Session info: chrome=136.0.7103.114); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x000000010124c3e0 cxxbridge1$str$ptr + 2829900
+1   chromedriver                        0x00000001012446a8 cxxbridge1$str$ptr + 2797844
+2   chromedriver                        0x0000000100d81fbc cxxbridge1$string$len + 90140
+3   chromedriver                        0x0000000100dc91bc cxxbridge1$string$len + 381468
+4   chromedriver                        0x0000000100dbe9a0 cxxbridge1$string$len + 338432
+5   chromedriver                        0x0000000100e0a044 cxxbridge1$string$len + 647332
+6   chromedriver                        0x0000000100dbd3f8 cxxbridge1$string$len + 332888
+7   chromedriver                        0x0000000101210804 cxxbridge1$str$ptr + 2585200
+8   chromedriver                        0x0000000101213ad4 cxxbridge1$str$ptr + 2598208
+9   chromedriver                        0x00000001011f1dd8 cxxbridge1$str$ptr + 2459716
+10  chromedriver                        0x000000010121434c cxxbridge1$str$ptr + 2600376
+11  chromedriver                        0x00000001011e3664 cxxbridge1$str$ptr + 2400464
+12  chromedriver                        0x00000001012342b0 cxxbridge1$str$ptr + 2731292
+13  chromedriver                        0x000000010123443c cxxbridge1$str$ptr + 2731688
+14  chromedriver                        0x00000001012442f4 cxxbridge1$str$ptr + 2796896
+15  libsystem_pthread.dylib             0x000000019021ffa8 _pthread_start + 148
+16  libsystem_pthread.dylib             0x000000019021ada0 thread_start + 8
+
+2025-05-29 02:57:25,813 - WARNING - Lỗi khi xử lý bài viết: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[contains(@href, '/groups/') and contains(@href, '/posts/')]"}
+  (Session info: chrome=136.0.7103.114); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x000000010124c3e0 cxxbridge1$str$ptr + 2829900
+1   chromedriver                        0x00000001012446a8 cxxbridge1$str$ptr + 2797844
+2   chromedriver                        0x0000000100d81fbc cxxbridge1$string$len + 90140
+3   chromedriver                        0x0000000100dc91bc cxxbridge1$string$len + 381468
+4   chromedriver                        0x0000000100dbe9a0 cxxbridge1$string$len + 338432
+5   chromedriver                        0x0000000100e0a044 cxxbridge1$string$len + 647332
+6   chromedriver                        0x0000000100dbd3f8 cxxbridge1$string$len + 332888
+7   chromedriver                        0x0000000101210804 cxxbridge1$str$ptr + 2585200
+8   chromedriver                        0x0000000101213ad4 cxxbridge1$str$ptr + 2598208
+9   chromedriver                        0x00000001011f1dd8 cxxbridge1$str$ptr + 2459716
+10  chromedriver                        0x000000010121434c cxxbridge1$str$ptr + 2600376
+11  chromedriver                        0x00000001011e3664 cxxbridge1$str$ptr + 2400464
+12  chromedriver                        0x00000001012342b0 cxxbridge1$str$ptr + 2731292
+13  chromedriver                        0x000000010123443c cxxbridge1$str$ptr + 2731688
+14  chromedriver                        0x00000001012442f4 cxxbridge1$str$ptr + 2796896
+15  libsystem_pthread.dylib             0x000000019021ffa8 _pthread_start + 148
+16  libsystem_pthread.dylib             0x000000019021ada0 thread_start + 8
+
+2025-05-29 02:57:29,875 - WARNING - Lỗi khi xử lý bài viết: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[contains(@href, '/groups/') and contains(@href, '/posts/')]"}
+  (Session info: chrome=136.0.7103.114); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x000000010124c3e0 cxxbridge1$str$ptr + 2829900
+1   chromedriver                        0x00000001012446a8 cxxbridge1$str$ptr + 2797844
+2   chromedriver                        0x0000000100d81fbc cxxbridge1$string$len + 90140
+3   chromedriver                        0x0000000100dc91bc cxxbridge1$string$len + 381468
+4   chromedriver                        0x0000000100dbe9a0 cxxbridge1$string$len + 338432
+5   chromedriver                        0x0000000100e0a044 cxxbridge1$string$len + 647332
+6   chromedriver                        0x0000000100dbd3f8 cxxbridge1$string$len + 332888
+7   chromedriver                        0x0000000101210804 cxxbridge1$str$ptr + 2585200
+8   chromedriver                        0x0000000101213ad4 cxxbridge1$str$ptr + 2598208
+9   chromedriver                        0x00000001011f1dd8 cxxbridge1$str$ptr + 2459716
+10  chromedriver                        0x000000010121434c cxxbridge1$str$ptr + 2600376
+11  chromedriver                        0x00000001011e3664 cxxbridge1$str$ptr + 2400464
+12  chromedriver                        0x00000001012342b0 cxxbridge1$str$ptr + 2731292
+13  chromedriver                        0x000000010123443c cxxbridge1$str$ptr + 2731688
+14  chromedriver                        0x00000001012442f4 cxxbridge1$str$ptr + 2796896
+15  libsystem_pthread.dylib             0x000000019021ffa8 _pthread_start + 148
+16  libsystem_pthread.dylib             0x000000019021ada0 thread_start + 8
+
+2025-05-29 02:57:29,878 - WARNING - Lỗi khi xử lý bài viết: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[contains(@href, '/groups/') and contains(@href, '/posts/')]"}
+  (Session info: chrome=136.0.7103.114); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x000000010124c3e0 cxxbridge1$str$ptr + 2829900
+1   chromedriver                        0x00000001012446a8 cxxbridge1$str$ptr + 2797844
+2   chromedriver                        0x0000000100d81fbc cxxbridge1$string$len + 90140
+3   chromedriver                        0x0000000100dc91bc cxxbridge1$string$len + 381468
+4   chromedriver                        0x0000000100dbe9a0 cxxbridge1$string$len + 338432
+5   chromedriver                        0x0000000100e0a044 cxxbridge1$string$len + 647332
+6   chromedriver                        0x0000000100dbd3f8 cxxbridge1$string$len + 332888
+7   chromedriver                        0x0000000101210804 cxxbridge1$str$ptr + 2585200
+8   chromedriver                        0x0000000101213ad4 cxxbridge1$str$ptr + 2598208
+9   chromedriver                        0x00000001011f1dd8 cxxbridge1$str$ptr + 2459716
+10  chromedriver                        0x000000010121434c cxxbridge1$str$ptr + 2600376
+11  chromedriver                        0x00000001011e3664 cxxbridge1$str$ptr + 2400464
+12  chromedriver                        0x00000001012342b0 cxxbridge1$str$ptr + 2731292
+13  chromedriver                        0x000000010123443c cxxbridge1$str$ptr + 2731688
+14  chromedriver                        0x00000001012442f4 cxxbridge1$str$ptr + 2796896
+15  libsystem_pthread.dylib             0x000000019021ffa8 _pthread_start + 148
+16  libsystem_pthread.dylib             0x000000019021ada0 thread_start + 8
+
+2025-05-29 02:57:33,932 - WARNING - Lỗi khi xử lý bài viết: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[contains(@href, '/groups/') and contains(@href, '/posts/')]"}
+  (Session info: chrome=136.0.7103.114); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x000000010124c3e0 cxxbridge1$str$ptr + 2829900
+1   chromedriver                        0x00000001012446a8 cxxbridge1$str$ptr + 2797844
+2   chromedriver                        0x0000000100d81fbc cxxbridge1$string$len + 90140
+3   chromedriver                        0x0000000100dc91bc cxxbridge1$string$len + 381468
+4   chromedriver                        0x0000000100dbe9a0 cxxbridge1$string$len + 338432
+5   chromedriver                        0x0000000100e0a044 cxxbridge1$string$len + 647332
+6   chromedriver                        0x0000000100dbd3f8 cxxbridge1$string$len + 332888
+7   chromedriver                        0x0000000101210804 cxxbridge1$str$ptr + 2585200
+8   chromedriver                        0x0000000101213ad4 cxxbridge1$str$ptr + 2598208
+9   chromedriver                        0x00000001011f1dd8 cxxbridge1$str$ptr + 2459716
+10  chromedriver                        0x000000010121434c cxxbridge1$str$ptr + 2600376
+11  chromedriver                        0x00000001011e3664 cxxbridge1$str$ptr + 2400464
+12  chromedriver                        0x00000001012342b0 cxxbridge1$str$ptr + 2731292
+13  chromedriver                        0x000000010123443c cxxbridge1$str$ptr + 2731688
+14  chromedriver                        0x00000001012442f4 cxxbridge1$str$ptr + 2796896
+15  libsystem_pthread.dylib             0x000000019021ffa8 _pthread_start + 148
+16  libsystem_pthread.dylib             0x000000019021ada0 thread_start + 8
+
+2025-05-29 02:57:33,935 - WARNING - Lỗi khi xử lý bài viết: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[contains(@href, '/groups/') and contains(@href, '/posts/')]"}
+  (Session info: chrome=136.0.7103.114); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x000000010124c3e0 cxxbridge1$str$ptr + 2829900
+1   chromedriver                        0x00000001012446a8 cxxbridge1$str$ptr + 2797844
+2   chromedriver                        0x0000000100d81fbc cxxbridge1$string$len + 90140
+3   chromedriver                        0x0000000100dc91bc cxxbridge1$string$len + 381468
+4   chromedriver                        0x0000000100dbe9a0 cxxbridge1$string$len + 338432
+5   chromedriver                        0x0000000100e0a044 cxxbridge1$string$len + 647332
+6   chromedriver                        0x0000000100dbd3f8 cxxbridge1$string$len + 332888
+7   chromedriver                        0x0000000101210804 cxxbridge1$str$ptr + 2585200
+8   chromedriver                        0x0000000101213ad4 cxxbridge1$str$ptr + 2598208
+9   chromedriver                        0x00000001011f1dd8 cxxbridge1$str$ptr + 2459716
+10  chromedriver                        0x000000010121434c cxxbridge1$str$ptr + 2600376
+11  chromedriver                        0x00000001011e3664 cxxbridge1$str$ptr + 2400464
+12  chromedriver                        0x00000001012342b0 cxxbridge1$str$ptr + 2731292
+13  chromedriver                        0x000000010123443c cxxbridge1$str$ptr + 2731688
+14  chromedriver                        0x00000001012442f4 cxxbridge1$str$ptr + 2796896
+15  libsystem_pthread.dylib             0x000000019021ffa8 _pthread_start + 148
+16  libsystem_pthread.dylib             0x000000019021ada0 thread_start + 8
+
+2025-05-29 02:57:38,003 - WARNING - Lỗi khi xử lý bài viết: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[contains(@href, '/groups/') and contains(@href, '/posts/')]"}
+  (Session info: chrome=136.0.7103.114); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x000000010124c3e0 cxxbridge1$str$ptr + 2829900
+1   chromedriver                        0x00000001012446a8 cxxbridge1$str$ptr + 2797844
+2   chromedriver                        0x0000000100d81fbc cxxbridge1$string$len + 90140
+3   chromedriver                        0x0000000100dc91bc cxxbridge1$string$len + 381468
+4   chromedriver                        0x0000000100dbe9a0 cxxbridge1$string$len + 338432
+5   chromedriver                        0x0000000100e0a044 cxxbridge1$string$len + 647332
+6   chromedriver                        0x0000000100dbd3f8 cxxbridge1$string$len + 332888
+7   chromedriver                        0x0000000101210804 cxxbridge1$str$ptr + 2585200
+8   chromedriver                        0x0000000101213ad4 cxxbridge1$str$ptr + 2598208
+9   chromedriver                        0x00000001011f1dd8 cxxbridge1$str$ptr + 2459716
+10  chromedriver                        0x000000010121434c cxxbridge1$str$ptr + 2600376
+11  chromedriver                        0x00000001011e3664 cxxbridge1$str$ptr + 2400464
+12  chromedriver                        0x00000001012342b0 cxxbridge1$str$ptr + 2731292
+13  chromedriver                        0x000000010123443c cxxbridge1$str$ptr + 2731688
+14  chromedriver                        0x00000001012442f4 cxxbridge1$str$ptr + 2796896
+15  libsystem_pthread.dylib             0x000000019021ffa8 _pthread_start + 148
+16  libsystem_pthread.dylib             0x000000019021ada0 thread_start + 8
+
+2025-05-29 02:57:38,007 - WARNING - Lỗi khi xử lý bài viết: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[contains(@href, '/groups/') and contains(@href, '/posts/')]"}
+  (Session info: chrome=136.0.7103.114); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x000000010124c3e0 cxxbridge1$str$ptr + 2829900
+1   chromedriver                        0x00000001012446a8 cxxbridge1$str$ptr + 2797844
+2   chromedriver                        0x0000000100d81fbc cxxbridge1$string$len + 90140
+3   chromedriver                        0x0000000100dc91bc cxxbridge1$string$len + 381468
+4   chromedriver                        0x0000000100dbe9a0 cxxbridge1$string$len + 338432
+5   chromedriver                        0x0000000100e0a044 cxxbridge1$string$len + 647332
+6   chromedriver                        0x0000000100dbd3f8 cxxbridge1$string$len + 332888
+7   chromedriver                        0x0000000101210804 cxxbridge1$str$ptr + 2585200
+8   chromedriver                        0x0000000101213ad4 cxxbridge1$str$ptr + 2598208
+9   chromedriver                        0x00000001011f1dd8 cxxbridge1$str$ptr + 2459716
+10  chromedriver                        0x000000010121434c cxxbridge1$str$ptr + 2600376
+11  chromedriver                        0x00000001011e3664 cxxbridge1$str$ptr + 2400464
+12  chromedriver                        0x00000001012342b0 cxxbridge1$str$ptr + 2731292
+13  chromedriver                        0x000000010123443c cxxbridge1$str$ptr + 2731688
+14  chromedriver                        0x00000001012442f4 cxxbridge1$str$ptr + 2796896
+15  libsystem_pthread.dylib             0x000000019021ffa8 _pthread_start + 148
+16  libsystem_pthread.dylib             0x000000019021ada0 thread_start + 8
+
+2025-05-29 02:57:42,017 - INFO - ✅ Đã gửi đủ 50 bài viết lên API!
+2025-05-29 02:57:42,155 - INFO - Đã đóng trình duyệt.
+2025-05-29 03:02:39,105 - INFO - ===== TOOL LẤY LINK BÀI VIẾT FACEBOOK =====
+2025-05-29 03:02:43,444 - WARNING - Không thể thêm cookie presence: Message: invalid argument: invalid 'expiry'
+  (Session info: chrome=136.0.7103.114)
+Stacktrace:
+0   chromedriver                        0x00000001034ac3e0 cxxbridge1$str$ptr + 2829900
+1   chromedriver                        0x00000001034a46a8 cxxbridge1$str$ptr + 2797844
+2   chromedriver                        0x0000000102fe1fbc cxxbridge1$string$len + 90140
+3   chromedriver                        0x0000000103079608 cxxbridge1$string$len + 710248
+4   chromedriver                        0x000000010306a044 cxxbridge1$string$len + 647332
+5   chromedriver                        0x000000010301d3f8 cxxbridge1$string$len + 332888
+6   chromedriver                        0x0000000103470804 cxxbridge1$str$ptr + 2585200
+7   chromedriver                        0x0000000103473ad4 cxxbridge1$str$ptr + 2598208
+8   chromedriver                        0x0000000103451dd8 cxxbridge1$str$ptr + 2459716
+9   chromedriver                        0x000000010347434c cxxbridge1$str$ptr + 2600376
+10  chromedriver                        0x0000000103443664 cxxbridge1$str$ptr + 2400464
+11  chromedriver                        0x00000001034942b0 cxxbridge1$str$ptr + 2731292
+12  chromedriver                        0x000000010349443c cxxbridge1$str$ptr + 2731688
+13  chromedriver                        0x00000001034a42f4 cxxbridge1$str$ptr + 2796896
+14  libsystem_pthread.dylib             0x000000019021ffa8 _pthread_start + 148
+15  libsystem_pthread.dylib             0x000000019021ada0 thread_start + 8
+
+2025-05-29 03:02:43,460 - INFO - Đã thêm 8/9 cookie vào trình duyệt
+2025-05-29 03:02:46,924 - INFO - Đăng nhập thành công!
+2025-05-29 03:02:49,984 - INFO - Đã gửi (1/50): https://www.facebook.com/groups/tansinhvienneu/posts/2486215118444077/
+2025-05-29 03:02:53,463 - INFO - Đã gửi (2/50): https://www.facebook.com/groups/tansinhvienneu/posts/2457973397934916/
+2025-05-29 03:02:54,940 - INFO - Đã gửi (3/50): https://www.facebook.com/groups/tansinhvienneu/posts/2486483285083927/
+2025-05-29 03:02:58,014 - INFO - Đã gửi (4/50): https://www.facebook.com/groups/tansinhvienneu/posts/2486910545041201/
+2025-05-29 03:02:59,609 - INFO - Đã gửi (5/50): https://www.facebook.com/groups/tansinhvienneu/posts/2486597705072485/
+2025-05-29 03:03:00,868 - INFO - Đã gửi (6/50): https://www.facebook.com/groups/tansinhvienneu/posts/2486981538367435/
+2025-05-29 03:03:24,327 - INFO - ✅ Đã gửi đủ 50 bài viết lên API!
+2025-05-29 03:03:24,454 - INFO - Đã đóng trình duyệt.
+2025-05-29 03:06:12,776 - INFO - ===== TOOL LẤY LINK BÀI VIẾT FACEBOOK =====
+2025-05-29 03:06:16,982 - WARNING - Không thể thêm cookie presence: Message: invalid argument: invalid 'expiry'
+  (Session info: chrome=136.0.7103.114)
+Stacktrace:
+0   chromedriver                        0x00000001047083e0 cxxbridge1$str$ptr + 2829900
+1   chromedriver                        0x00000001047006a8 cxxbridge1$str$ptr + 2797844
+2   chromedriver                        0x000000010423dfbc cxxbridge1$string$len + 90140
+3   chromedriver                        0x00000001042d5608 cxxbridge1$string$len + 710248
+4   chromedriver                        0x00000001042c6044 cxxbridge1$string$len + 647332
+5   chromedriver                        0x00000001042793f8 cxxbridge1$string$len + 332888
+6   chromedriver                        0x00000001046cc804 cxxbridge1$str$ptr + 2585200
+7   chromedriver                        0x00000001046cfad4 cxxbridge1$str$ptr + 2598208
+8   chromedriver                        0x00000001046addd8 cxxbridge1$str$ptr + 2459716
+9   chromedriver                        0x00000001046d034c cxxbridge1$str$ptr + 2600376
+10  chromedriver                        0x000000010469f664 cxxbridge1$str$ptr + 2400464
+11  chromedriver                        0x00000001046f02b0 cxxbridge1$str$ptr + 2731292
+12  chromedriver                        0x00000001046f043c cxxbridge1$str$ptr + 2731688
+13  chromedriver                        0x00000001047002f4 cxxbridge1$str$ptr + 2796896
+14  libsystem_pthread.dylib             0x000000019021ffa8 _pthread_start + 148
+15  libsystem_pthread.dylib             0x000000019021ada0 thread_start + 8
+
+2025-05-29 03:06:16,996 - INFO - Đã thêm 8/9 cookie vào trình duyệt
+2025-05-29 03:06:19,866 - INFO - Đăng nhập thành công!
+2025-05-29 03:06:24,532 - INFO - Đã gửi (1/50): https://www.facebook.com/groups/tansinhvienneu/posts/2486215118444077/
+2025-05-29 03:06:27,768 - INFO - Đã gửi (2/50): https://www.facebook.com/groups/tansinhvienneu/posts/2486483285083927/
+2025-05-29 03:06:29,102 - INFO - Đã gửi (3/50): https://www.facebook.com/groups/tansinhvienneu/posts/2487241228341466/
+2025-05-29 03:06:32,217 - INFO - Đã gửi (4/50): https://www.facebook.com/groups/tansinhvienneu/posts/2486597705072485/
+2025-05-29 03:06:33,810 - INFO - Đã gửi (5/50): https://www.facebook.com/groups/tansinhvienneu/posts/2486981538367435/
+2025-05-29 03:06:34,738 - INFO - Đã gửi (6/50): https://www.facebook.com/groups/tansinhvienneu/posts/2457973397934916/
+2025-05-29 03:06:38,147 - INFO - Đã gửi (7/50): https://www.facebook.com/groups/tansinhvienneu/posts/2485380201860902/
+2025-05-29 03:06:39,634 - INFO - Đã gửi (8/50): https://www.facebook.com/groups/tansinhvienneu/posts/2486507518414837/
+2025-05-29 03:06:40,627 - INFO - Đã gửi (9/50): https://www.facebook.com/groups/tansinhvienneu/posts/2486977828367806/
+2025-05-29 03:06:42,250 - INFO - Đã gửi (10/50): https://www.facebook.com/groups/tansinhvienneu/posts/2486916098373979/
+2025-05-29 03:06:43,684 - INFO - Đã gửi (11/50): https://www.facebook.com/groups/tansinhvienneu/posts/2487119395020316/
+2025-05-29 03:06:46,716 - INFO - Đã gửi (12/50): https://www.facebook.com/groups/tansinhvienneu/posts/2487048101694112/
+2025-05-29 03:06:47,446 - INFO - Đã gửi (13/50): https://www.facebook.com/groups/tansinhvienneu/posts/2486551288410460/
+2025-05-29 03:06:52,522 - INFO - Không thấy bài mới. Lần không có mới: 1/30
+2025-05-29 03:06:54,647 - INFO - Không thấy bài mới. Lần không có mới: 2/30
+2025-05-29 03:06:56,771 - INFO - Không thấy bài mới. Lần không có mới: 3/30
+2025-05-29 03:06:58,900 - INFO - Không thấy bài mới. Lần không có mới: 4/30
+2025-05-29 03:07:01,024 - INFO - Không thấy bài mới. Lần không có mới: 5/30
+2025-05-29 03:07:03,148 - INFO - Không thấy bài mới. Lần không có mới: 6/30
+2025-05-29 03:07:05,274 - INFO - Không thấy bài mới. Lần không có mới: 7/30
+2025-05-29 03:07:07,398 - INFO - Không thấy bài mới. Lần không có mới: 8/30
+2025-05-29 03:07:09,522 - INFO - Không thấy bài mới. Lần không có mới: 9/30
+2025-05-29 03:07:11,644 - INFO - Không thấy bài mới. Lần không có mới: 10/30
+2025-05-29 03:07:13,766 - INFO - Không thấy bài mới. Lần không có mới: 11/30
+2025-05-29 03:07:15,882 - INFO - Không thấy bài mới. Lần không có mới: 12/30
+2025-05-29 03:07:18,007 - INFO - Không thấy bài mới. Lần không có mới: 13/30
+2025-05-29 03:07:20,132 - INFO - Không thấy bài mới. Lần không có mới: 14/30
+2025-05-29 03:07:22,256 - INFO - Không thấy bài mới. Lần không có mới: 15/30
+2025-05-29 03:07:24,380 - INFO - Không thấy bài mới. Lần không có mới: 16/30
+2025-05-29 03:07:26,704 - INFO - Không thấy bài mới. Lần không có mới: 17/30
+2025-05-29 03:07:26,851 - INFO - Đã gửi (14/50): https://www.facebook.com/groups/tansinhvienneu/posts/2487261225006133/
+2025-05-29 03:07:28,254 - INFO - Đã gửi (15/50): https://www.facebook.com/groups/tansinhvienneu/posts/2481368522262070/
+2025-05-29 03:07:29,669 - INFO - Đã gửi (16/50): https://www.facebook.com/groups/tansinhvienneu/posts/2487080535024202/
+2025-05-29 03:07:32,471 - INFO - Đã gửi (17/50): https://www.facebook.com/groups/tansinhvienneu/posts/2142089912856601/
+2025-05-29 03:07:33,999 - INFO - Đã gửi (18/50): https://www.facebook.com/groups/tansinhvienneu/posts/2486318155100440/
+2025-05-29 03:07:34,736 - INFO - Đã gửi (19/50): https://www.facebook.com/groups/tansinhvienneu/posts/2486197848445804/
+2025-05-29 03:07:40,308 - INFO - Không thấy bài mới. Lần không có mới: 1/30
+2025-05-29 03:07:42,376 - INFO - Không thấy bài mới. Lần không có mới: 2/30
+2025-05-29 03:07:44,443 - INFO - Không thấy bài mới. Lần không có mới: 3/30
+2025-05-29 03:07:46,511 - INFO - Không thấy bài mới. Lần không có mới: 4/30
+2025-05-29 03:07:48,579 - INFO - Không thấy bài mới. Lần không có mới: 5/30
+2025-05-29 03:07:50,649 - INFO - Không thấy bài mới. Lần không có mới: 6/30
+2025-05-29 03:07:52,717 - INFO - Không thấy bài mới. Lần không có mới: 7/30
+2025-05-29 03:07:54,787 - INFO - Không thấy bài mới. Lần không có mới: 8/30
+2025-05-29 03:07:56,854 - INFO - Không thấy bài mới. Lần không có mới: 9/30
+2025-05-29 03:07:58,949 - INFO - Không thấy bài mới. Lần không có mới: 10/30
+2025-05-29 03:08:01,020 - INFO - Không thấy bài mới. Lần không có mới: 11/30
+2025-05-29 03:08:03,088 - INFO - Không thấy bài mới. Lần không có mới: 12/30
+2025-05-29 03:08:05,158 - INFO - Không thấy bài mới. Lần không có mới: 13/30
+2025-05-29 03:08:07,227 - INFO - Không thấy bài mới. Lần không có mới: 14/30
+2025-05-29 03:08:09,295 - INFO - Không thấy bài mới. Lần không có mới: 15/30
+2025-05-29 03:08:11,364 - INFO - Không thấy bài mới. Lần không có mới: 16/30
+2025-05-29 03:08:13,431 - INFO - Không thấy bài mới. Lần không có mới: 17/30
+2025-05-29 03:08:15,501 - INFO - Không thấy bài mới. Lần không có mới: 18/30
+2025-05-29 03:08:17,570 - INFO - Không thấy bài mới. Lần không có mới: 19/30
+2025-05-29 03:08:19,635 - INFO - Không thấy bài mới. Lần không có mới: 20/30
+2025-05-29 03:08:21,702 - INFO - Không thấy bài mới. Lần không có mới: 21/30
+2025-05-29 03:08:23,770 - INFO - Không thấy bài mới. Lần không có mới: 22/30
+2025-05-29 03:08:25,834 - INFO - Không thấy bài mới. Lần không có mới: 23/30
+2025-05-29 03:08:27,904 - INFO - Không thấy bài mới. Lần không có mới: 24/30
+2025-05-29 03:08:29,973 - INFO - Không thấy bài mới. Lần không có mới: 25/30
+2025-05-29 03:08:32,040 - INFO - Không thấy bài mới. Lần không có mới: 26/30
+2025-05-29 03:08:34,108 - INFO - Không thấy bài mới. Lần không có mới: 27/30
+2025-05-29 03:08:36,178 - INFO - Không thấy bài mới. Lần không có mới: 28/30
+2025-05-29 03:08:38,246 - INFO - Không thấy bài mới. Lần không có mới: 29/30
+2025-05-29 03:08:40,313 - INFO - Không thấy bài mới. Lần không có mới: 30/30
+2025-05-29 03:08:40,316 - INFO - ✅ Đã gửi đủ 50 bài viết lên API!
+2025-05-29 03:08:40,457 - INFO - Đã đóng trình duyệt.

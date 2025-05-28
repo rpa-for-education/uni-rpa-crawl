@@ -41,18 +41,22 @@ def retry_on_failure(max_attempts=3, delay=2):
                     time.sleep(delay)
 
         return wrapper
+
     return decorator
 
 
 def setup_driver():
+    """Thiết lập và cấu hình trình duyệt Chrome."""
     try:
         chrome_options = Options()
         chrome_options.add_argument("--disable-notifications")
         chrome_options.add_argument("--start-maximized")
 
+        # Dùng profile tạm để tránh lỗi "user-data-dir"
         temp_profile = tempfile.mkdtemp()
         chrome_options.add_argument(f"--user-data-dir={temp_profile}")
 
+        # Thêm tùy chọn headless nếu chạy trong CI/CD
         if os.getenv("CI") == "true":
             chrome_options.add_argument("--headless=new")
             chrome_options.add_argument("--disable-gpu")
@@ -99,6 +103,15 @@ def parse_cookie_file(cookie_file_path):
     except Exception as e:
         logging.error(f"Lỗi đọc file cookie: {e}")
     return cookies_list
+
+
+def extract_essential_cookies(cookies_list):
+    essential = {}
+    names = ['c_user', 'xs', 'datr', 'fr', 'sb', 'dpr', 'wd', 'presence']
+    for cookie in cookies_list:
+        if cookie['name'] in names:
+            essential[cookie['name']] = cookie['value']
+    return essential
 
 
 @retry_on_failure(max_attempts=3, delay=5)
@@ -149,11 +162,10 @@ def get_post_links_from_group(driver, group_url, max_posts=50):
         WebDriverWait(driver, 30).until(EC.presence_of_element_located((By.XPATH, "//div[@role='main']")))
 
         collected, processed_links = 0, set()
-        previous_count = 0
-        no_new_post_count = 0
-        max_scroll_tries = 50
+        last_height = driver.execute_script("return document.body.scrollHeight")
+        scroll_attempts = 0
 
-        while collected < max_posts and no_new_post_count < max_scroll_tries:
+        while collected < max_posts and scroll_attempts < 5:
             posts = driver.find_elements(By.XPATH, "//div[@role='article']") or \
                     driver.find_elements(By.XPATH, "//div[contains(@data-pagelet, 'FeedUnit')]")
 
@@ -161,40 +173,37 @@ def get_post_links_from_group(driver, group_url, max_posts=50):
                 if collected >= max_posts:
                     break
                 try:
-                    a_tags = post.find_elements(By.TAG_NAME, "a")
-                    for a in a_tags:
-                        href = a.get_attribute("href")
-                        if href and '/groups/' in href and '/posts/' in href:
-                            cleaned = clean_post_url(href)
-                            if cleaned and cleaned not in processed_links:
-                                processed_links.add(cleaned)
-                                collected += 1
+                    link = post.find_element(By.XPATH, ".//a[contains(@href, '/groups/') and contains(@href, '/posts/')]").get_attribute(
+                        "href")
+                    cleaned = clean_post_url(link)
+                    if cleaned and cleaned not in processed_links:
+                        processed_links.add(cleaned)
+                        collected += 1
 
-                                payload = {"url": cleaned}
-                                try:
-                                    resp = requests.post("https://api.rpa4edu.shop/api_bai_viet.php", json=payload)
-                                    if resp.status_code == 200:
-                                        logging.info(f"Đã gửi ({collected}/{max_posts}): {cleaned}")
-                                    else:
-                                        logging.warning(f"API lỗi với {cleaned}: {resp.status_code} - {resp.text}")
-                                except Exception as e:
-                                    logging.error(f"Lỗi khi gửi API: {e}")
+                        payload = {"url": cleaned}
+                        try:
+                            resp = requests.post("https://api.rpa4edu.shop/api_bai_viet.php", json=payload)
+                            if resp.status_code == 200:
+                                logging.info(f"Đã gửi ({collected}/{max_posts}): {cleaned}")
+                            else:
+                                logging.warning(f"API lỗi với {cleaned}: {resp.status_code} - {resp.text}")
+                        except Exception as e:
+                            logging.error(f"Lỗi khi gửi API: {e}")
 
-                                time.sleep(random.uniform(0.5, 1.5))
-                            break  # chỉ lấy 1 link bài viết
+                        time.sleep(random.uniform(0.5, 1.5))
                 except (NoSuchElementException, StaleElementReferenceException) as e:
                     logging.warning(f"Lỗi khi xử lý bài viết: {e}")
                     continue
 
             driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
             time.sleep(2)
-
-            if collected == previous_count:
-                no_new_post_count += 1
-                logging.info(f"Không thấy bài mới. Đang thử load bài: {no_new_post_count}/{max_scroll_tries}")
+            new_height = driver.execute_script("return document.body.scrollHeight")
+            if new_height == last_height:
+                scroll_attempts += 1
+                time.sleep(2)
             else:
-                no_new_post_count = 0
-            previous_count = collected
+                scroll_attempts = 0
+                last_height = new_height
 
         return collected > 0
     except Exception as e:
