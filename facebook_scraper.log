@@ -2253,3 +2253,627 @@ Stacktrace:
 2025-05-29 03:08:40,313 - INFO - Không thấy bài mới. Lần không có mới: 30/30
 2025-05-29 03:08:40,316 - INFO - ✅ Đã gửi đủ 50 bài viết lên API!
 2025-05-29 03:08:40,457 - INFO - Đã đóng trình duyệt.
+2025-05-29 03:17:27,469 - INFO - ===== TOOL LẤY LINK BÀI VIẾT FACEBOOK =====
+2025-05-29 03:17:31,836 - WARNING - Không thể thêm cookie presence: Message: invalid argument: invalid 'expiry'
+  (Session info: chrome=136.0.7103.114)
+Stacktrace:
+0   chromedriver                        0x0000000100cd83e0 cxxbridge1$str$ptr + 2829900
+1   chromedriver                        0x0000000100cd06a8 cxxbridge1$str$ptr + 2797844
+2   chromedriver                        0x000000010080dfbc cxxbridge1$string$len + 90140
+3   chromedriver                        0x00000001008a5608 cxxbridge1$string$len + 710248
+4   chromedriver                        0x0000000100896044 cxxbridge1$string$len + 647332
+5   chromedriver                        0x00000001008493f8 cxxbridge1$string$len + 332888
+6   chromedriver                        0x0000000100c9c804 cxxbridge1$str$ptr + 2585200
+7   chromedriver                        0x0000000100c9fad4 cxxbridge1$str$ptr + 2598208
+8   chromedriver                        0x0000000100c7ddd8 cxxbridge1$str$ptr + 2459716
+9   chromedriver                        0x0000000100ca034c cxxbridge1$str$ptr + 2600376
+10  chromedriver                        0x0000000100c6f664 cxxbridge1$str$ptr + 2400464
+11  chromedriver                        0x0000000100cc02b0 cxxbridge1$str$ptr + 2731292
+12  chromedriver                        0x0000000100cc043c cxxbridge1$str$ptr + 2731688
+13  chromedriver                        0x0000000100cd02f4 cxxbridge1$str$ptr + 2796896
+14  libsystem_pthread.dylib             0x000000019021ffa8 _pthread_start + 148
+15  libsystem_pthread.dylib             0x000000019021ada0 thread_start + 8
+
+2025-05-29 03:17:31,859 - INFO - Đã thêm 8/9 cookie vào trình duyệt
+2025-05-29 03:17:34,187 - INFO - Đăng nhập thành công!
+2025-05-29 03:17:37,045 - INFO - Đã gửi (1/50): https://www.facebook.com/groups/tansinhvienneu/posts/2486215118444077/
+2025-05-29 03:17:42,436 - INFO - Không thấy bài mới. Đang thử load bài: 1/50
+2025-05-29 03:17:44,490 - INFO - Không thấy bài mới. Đang thử load bài: 2/50
+2025-05-29 03:17:46,541 - INFO - Không thấy bài mới. Đang thử load bài: 3/50
+2025-05-29 03:17:48,592 - INFO - Không thấy bài mới. Đang thử load bài: 4/50
+2025-05-29 03:17:50,642 - INFO - Không thấy bài mới. Đang thử load bài: 5/50
+2025-05-29 03:17:52,691 - INFO - Không thấy bài mới. Đang thử load bài: 6/50
+2025-05-29 03:17:54,748 - INFO - Không thấy bài mới. Đang thử load bài: 7/50
+2025-05-29 03:17:56,797 - INFO - Không thấy bài mới. Đang thử load bài: 8/50
+2025-05-29 03:17:58,842 - INFO - Không thấy bài mới. Đang thử load bài: 9/50
+2025-05-29 03:18:00,894 - INFO - Không thấy bài mới. Đang thử load bài: 10/50
+2025-05-29 03:18:02,941 - INFO - Không thấy bài mới. Đang thử load bài: 11/50
+2025-05-29 03:18:04,991 - INFO - Không thấy bài mới. Đang thử load bài: 12/50
+2025-05-29 03:18:07,048 - INFO - Không thấy bài mới. Đang thử load bài: 13/50
+2025-05-29 03:18:07,204 - INFO - Đã gửi (2/50): https://www.facebook.com/groups/tansinhvienneu/posts/2486483285083927/
+2025-05-29 03:18:08,454 - INFO - Đã gửi (3/50): https://www.facebook.com/groups/tansinhvienneu/posts/2487241228341466/
+2025-05-29 03:18:11,776 - INFO - Đã gửi (4/50): https://www.facebook.com/groups/tansinhvienneu/posts/2486597705072485/
+2025-05-29 03:18:12,550 - INFO - Đã gửi (5/50): https://www.facebook.com/groups/tansinhvienneu/posts/2486981538367435/
+2025-05-29 03:18:14,075 - INFO - Đã gửi (6/50): https://www.facebook.com/groups/tansinhvienneu/posts/2457973397934916/
+2025-05-29 03:18:17,267 - INFO - Đã gửi (7/50): https://www.facebook.com/groups/tansinhvienneu/posts/2485380201860902/
+2025-05-29 03:18:18,832 - INFO - Đã gửi (8/50): https://www.facebook.com/groups/tansinhvienneu/posts/2486507518414837/
+2025-05-29 03:18:19,718 - INFO - Đã gửi (9/50): https://www.facebook.com/groups/tansinhvienneu/posts/2486977828367806/
+2025-05-29 03:18:21,296 - INFO - Đã gửi (10/50): https://www.facebook.com/groups/tansinhvienneu/posts/2486916098373979/
+2025-05-29 03:18:26,822 - INFO - Không thấy bài mới. Đang thử load bài: 1/50
+2025-05-29 03:18:28,899 - INFO - Không thấy bài mới. Đang thử load bài: 2/50
+2025-05-29 03:18:30,982 - INFO - Không thấy bài mới. Đang thử load bài: 3/50
+2025-05-29 03:18:33,060 - INFO - Không thấy bài mới. Đang thử load bài: 4/50
+2025-05-29 03:18:35,148 - INFO - Không thấy bài mới. Đang thử load bài: 5/50
+2025-05-29 03:18:37,211 - INFO - Không thấy bài mới. Đang thử load bài: 6/50
+2025-05-29 03:18:39,294 - INFO - Không thấy bài mới. Đang thử load bài: 7/50
+2025-05-29 03:18:41,385 - INFO - Không thấy bài mới. Đang thử load bài: 8/50
+2025-05-29 03:18:43,472 - INFO - Không thấy bài mới. Đang thử load bài: 9/50
+2025-05-29 03:18:45,556 - INFO - Không thấy bài mới. Đang thử load bài: 10/50
+2025-05-29 03:18:47,646 - INFO - Không thấy bài mới. Đang thử load bài: 11/50
+2025-05-29 03:18:49,711 - INFO - Không thấy bài mới. Đang thử load bài: 12/50
+2025-05-29 03:18:51,796 - INFO - Không thấy bài mới. Đang thử load bài: 13/50
+2025-05-29 03:18:53,861 - INFO - Không thấy bài mới. Đang thử load bài: 14/50
+2025-05-29 03:18:55,943 - INFO - Không thấy bài mới. Đang thử load bài: 15/50
+2025-05-29 03:18:58,012 - INFO - Không thấy bài mới. Đang thử load bài: 16/50
+2025-05-29 03:19:00,102 - INFO - Không thấy bài mới. Đang thử load bài: 17/50
+2025-05-29 03:19:02,168 - INFO - Không thấy bài mới. Đang thử load bài: 18/50
+2025-05-29 03:19:04,255 - INFO - Không thấy bài mới. Đang thử load bài: 19/50
+2025-05-29 03:19:06,332 - INFO - Không thấy bài mới. Đang thử load bài: 20/50
+2025-05-29 03:19:08,419 - INFO - Không thấy bài mới. Đang thử load bài: 21/50
+2025-05-29 03:19:10,505 - INFO - Không thấy bài mới. Đang thử load bài: 22/50
+2025-05-29 03:19:12,592 - INFO - Không thấy bài mới. Đang thử load bài: 23/50
+2025-05-29 03:19:14,677 - INFO - Không thấy bài mới. Đang thử load bài: 24/50
+2025-05-29 03:19:14,819 - INFO - Đã gửi (11/50): https://www.facebook.com/groups/tansinhvienneu/posts/2487048101694112/
+2025-05-29 03:19:15,702 - INFO - Đã gửi (12/50): https://www.facebook.com/groups/tansinhvienneu/posts/2486551288410460/
+2025-05-29 03:19:19,128 - INFO - Đã gửi (13/50): https://www.facebook.com/groups/tansinhvienneu/posts/2487073891691533/
+2025-05-29 03:19:20,301 - INFO - Đã gửi (14/50): https://www.facebook.com/groups/tansinhvienneu/posts/2142089912856601/
+2025-05-29 03:19:23,457 - INFO - Đã gửi (15/50): https://www.facebook.com/groups/tansinhvienneu/posts/2486892038376385/
+2025-05-29 03:19:24,207 - INFO - Đã gửi (16/50): https://www.facebook.com/groups/tansinhvienneu/posts/2487237531675169/
+2025-05-29 03:19:27,060 - INFO - Đã gửi (17/50): https://www.facebook.com/groups/tansinhvienneu/posts/2486965455035710/
+2025-05-29 03:19:28,455 - INFO - Đã gửi (18/50): https://www.facebook.com/groups/tansinhvienneu/posts/2486504161748506/
+2025-05-29 03:19:29,253 - INFO - Đã gửi (19/50): https://www.facebook.com/groups/tansinhvienneu/posts/2486165445115711/
+2025-05-29 03:19:32,477 - INFO - Đã gửi (20/50): https://www.facebook.com/groups/tansinhvienneu/posts/2483756042023318/
+2025-05-29 03:19:33,437 - INFO - Đã gửi (21/50): https://www.facebook.com/groups/tansinhvienneu/posts/2482781475454108/
+2025-05-29 03:19:34,428 - INFO - Đã gửi (22/50): https://www.facebook.com/groups/tansinhvienneu/posts/2485221268543462/
+2025-05-29 03:19:37,410 - INFO - Đã gửi (23/50): https://www.facebook.com/groups/tansinhvienneu/posts/2487077171691205/
+2025-05-29 03:19:38,737 - INFO - Đã gửi (24/50): https://www.facebook.com/groups/tansinhvienneu/posts/2487134938352095/
+2025-05-29 03:19:39,755 - INFO - Đã gửi (25/50): https://www.facebook.com/groups/tansinhvienneu/posts/2487178018347787/
+2025-05-29 03:19:42,874 - INFO - Đã gửi (26/50): https://www.facebook.com/groups/tansinhvienneu/posts/2487008991698023/
+2025-05-29 03:19:44,093 - INFO - Đã gửi (27/50): https://www.facebook.com/groups/tansinhvienneu/posts/2486946888370900/
+2025-05-29 03:19:47,058 - INFO - Đã gửi (28/50): https://www.facebook.com/groups/tansinhvienneu/posts/2487108131688109/
+2025-05-29 03:19:50,312 - INFO - Đã gửi (29/50): https://www.facebook.com/groups/tansinhvienneu/posts/2339153086483615/
+2025-05-29 03:19:51,496 - INFO - Đã gửi (30/50): https://www.facebook.com/groups/tansinhvienneu/posts/2486955308370058/
+2025-05-29 03:19:55,062 - INFO - Đã gửi (31/50): https://www.facebook.com/groups/tansinhvienneu/posts/2486515681747354/
+2025-05-29 03:19:55,904 - INFO - Đã gửi (32/50): https://www.facebook.com/groups/tansinhvienneu/posts/2486787028386886/
+2025-05-29 03:19:56,739 - INFO - Đã gửi (33/50): https://www.facebook.com/groups/tansinhvienneu/posts/2484673415264914/
+2025-05-29 03:19:57,487 - INFO - Đã gửi (34/50): https://www.facebook.com/groups/tansinhvienneu/posts/2484406428624946/
+2025-05-29 03:20:00,636 - INFO - Đã gửi (35/50): https://www.facebook.com/groups/tansinhvienneu/posts/2485981881800734/
+2025-05-29 03:20:02,212 - INFO - Đã gửi (36/50): https://www.facebook.com/groups/tansinhvienneu/posts/2481097848955804/
+2025-05-29 03:20:05,697 - INFO - Đã gửi (37/50): https://www.facebook.com/groups/tansinhvienneu/posts/2363965284002395/
+2025-05-29 03:20:06,832 - INFO - Đã gửi (38/50): https://www.facebook.com/groups/tansinhvienneu/posts/2486814115050844/
+2025-05-29 03:20:07,753 - INFO - Đã gửi (39/50): https://www.facebook.com/groups/tansinhvienneu/posts/2230624207336504/
+2025-05-29 03:20:10,895 - INFO - Đã gửi (40/50): https://www.facebook.com/groups/tansinhvienneu/posts/2400306437034946/
+2025-05-29 03:20:11,936 - INFO - Đã gửi (41/50): https://www.facebook.com/groups/tansinhvienneu/posts/2486915495040706/
+2025-05-29 03:20:13,187 - INFO - Đã gửi (42/50): https://www.facebook.com/groups/tansinhvienneu/posts/2486832788382310/
+2025-05-29 03:20:15,999 - INFO - Đã gửi (43/50): https://www.facebook.com/groups/tansinhvienneu/posts/2483709542027968/
+2025-05-29 03:20:17,027 - INFO - Đã gửi (44/50): https://www.facebook.com/groups/tansinhvienneu/posts/2486177285114527/
+2025-05-29 03:20:18,595 - INFO - Đã gửi (45/50): https://www.facebook.com/groups/tansinhvienneu/posts/2485162085216047/
+2025-05-29 03:20:21,857 - INFO - Đã gửi (46/50): https://www.facebook.com/groups/tansinhvienneu/posts/2482300218835567/
+2025-05-29 03:20:22,822 - INFO - Đã gửi (47/50): https://www.facebook.com/groups/tansinhvienneu/posts/2400954073636849/
+2025-05-29 03:20:23,801 - INFO - Đã gửi (48/50): https://www.facebook.com/groups/tansinhvienneu/posts/2486053275126928/
+2025-05-29 03:20:26,605 - INFO - Đã gửi (49/50): https://www.facebook.com/groups/tansinhvienneu/posts/2486220021776920/
+2025-05-29 03:20:27,401 - INFO - Đã gửi (50/50): https://www.facebook.com/groups/tansinhvienneu/posts/2468148246917431/
+2025-05-29 03:20:30,019 - INFO - ✅ Đã gửi đủ 50 bài viết lên API!
+2025-05-29 03:20:30,238 - INFO - Đã đóng trình duyệt.
+2025-05-29 03:22:30,858 - INFO - ===== TOOL LẤY LINK BÀI VIẾT FACEBOOK =====
+2025-05-29 03:22:35,251 - WARNING - Không thể thêm cookie presence: Message: invalid argument: invalid 'expiry'
+  (Session info: chrome=136.0.7103.114)
+Stacktrace:
+0   chromedriver                        0x000000010345c3e0 cxxbridge1$str$ptr + 2829900
+1   chromedriver                        0x00000001034546a8 cxxbridge1$str$ptr + 2797844
+2   chromedriver                        0x0000000102f91fbc cxxbridge1$string$len + 90140
+3   chromedriver                        0x0000000103029608 cxxbridge1$string$len + 710248
+4   chromedriver                        0x000000010301a044 cxxbridge1$string$len + 647332
+5   chromedriver                        0x0000000102fcd3f8 cxxbridge1$string$len + 332888
+6   chromedriver                        0x0000000103420804 cxxbridge1$str$ptr + 2585200
+7   chromedriver                        0x0000000103423ad4 cxxbridge1$str$ptr + 2598208
+8   chromedriver                        0x0000000103401dd8 cxxbridge1$str$ptr + 2459716
+9   chromedriver                        0x000000010342434c cxxbridge1$str$ptr + 2600376
+10  chromedriver                        0x00000001033f3664 cxxbridge1$str$ptr + 2400464
+11  chromedriver                        0x00000001034442b0 cxxbridge1$str$ptr + 2731292
+12  chromedriver                        0x000000010344443c cxxbridge1$str$ptr + 2731688
+13  chromedriver                        0x00000001034542f4 cxxbridge1$str$ptr + 2796896
+14  libsystem_pthread.dylib             0x000000019021ffa8 _pthread_start + 148
+15  libsystem_pthread.dylib             0x000000019021ada0 thread_start + 8
+
+2025-05-29 03:22:35,274 - INFO - Đã thêm 8/9 cookie vào trình duyệt
+2025-05-29 03:22:37,774 - INFO - Đăng nhập thành công!
+2025-05-29 03:22:40,234 - INFO - Đã gửi (1/50): https://www.facebook.com/groups/tansinhvienneu/posts/2486215118444077/
+2025-05-29 03:23:18,257 - INFO - ✅ Đã gửi đủ 50 bài viết lên API!
+2025-05-29 03:23:18,371 - INFO - Đã đóng trình duyệt.
+2025-05-29 03:26:06,617 - INFO - ===== TOOL LẤY LINK BÀI VIẾT FACEBOOK =====
+2025-05-29 03:26:10,723 - WARNING - Không thể thêm cookie presence: Message: invalid argument: invalid 'expiry'
+  (Session info: chrome=136.0.7103.114)
+Stacktrace:
+0   chromedriver                        0x00000001050303e0 cxxbridge1$str$ptr + 2829900
+1   chromedriver                        0x00000001050286a8 cxxbridge1$str$ptr + 2797844
+2   chromedriver                        0x0000000104b65fbc cxxbridge1$string$len + 90140
+3   chromedriver                        0x0000000104bfd608 cxxbridge1$string$len + 710248
+4   chromedriver                        0x0000000104bee044 cxxbridge1$string$len + 647332
+5   chromedriver                        0x0000000104ba13f8 cxxbridge1$string$len + 332888
+6   chromedriver                        0x0000000104ff4804 cxxbridge1$str$ptr + 2585200
+7   chromedriver                        0x0000000104ff7ad4 cxxbridge1$str$ptr + 2598208
+8   chromedriver                        0x0000000104fd5dd8 cxxbridge1$str$ptr + 2459716
+9   chromedriver                        0x0000000104ff834c cxxbridge1$str$ptr + 2600376
+10  chromedriver                        0x0000000104fc7664 cxxbridge1$str$ptr + 2400464
+11  chromedriver                        0x00000001050182b0 cxxbridge1$str$ptr + 2731292
+12  chromedriver                        0x000000010501843c cxxbridge1$str$ptr + 2731688
+13  chromedriver                        0x00000001050282f4 cxxbridge1$str$ptr + 2796896
+14  libsystem_pthread.dylib             0x000000019021ffa8 _pthread_start + 148
+15  libsystem_pthread.dylib             0x000000019021ada0 thread_start + 8
+
+2025-05-29 03:26:10,738 - INFO - Đã thêm 8/9 cookie vào trình duyệt
+2025-05-29 03:26:13,430 - INFO - Đăng nhập thành công!
+2025-05-29 03:26:15,921 - INFO - Đã gửi (1/50): https://www.facebook.com/groups/tansinhvienneu/posts/2486215118444077/
+2025-05-29 03:26:19,244 - INFO - Hiện tại đã thu thập 1 link. Scroll attempt: 0
+2025-05-29 03:26:19,576 - INFO - Đã gửi (2/50): https://www.facebook.com/groups/tansinhvienneu/posts/2486483285083927/
+2025-05-29 03:26:20,298 - INFO - Đã gửi (3/50): https://www.facebook.com/groups/tansinhvienneu/posts/2487241228341466/
+2025-05-29 03:26:23,694 - INFO - Hiện tại đã thu thập 3 link. Scroll attempt: 0
+2025-05-29 03:26:23,944 - INFO - Đã gửi (4/50): https://www.facebook.com/groups/tansinhvienneu/posts/2486597705072485/
+2025-05-29 03:26:26,636 - INFO - Hiện tại đã thu thập 4 link. Scroll attempt: 0
+2025-05-29 03:26:28,834 - WARNING - Không thấy bài viết mới, thử scroll tiếp... (1/10)
+2025-05-29 03:26:30,845 - INFO - Hiện tại đã thu thập 4 link. Scroll attempt: 1
+2025-05-29 03:26:33,053 - WARNING - Không thấy bài viết mới, thử scroll tiếp... (2/10)
+2025-05-29 03:26:35,059 - INFO - Hiện tại đã thu thập 4 link. Scroll attempt: 2
+2025-05-29 03:26:37,265 - WARNING - Không thấy bài viết mới, thử scroll tiếp... (3/10)
+2025-05-29 03:26:39,270 - INFO - Hiện tại đã thu thập 4 link. Scroll attempt: 3
+2025-05-29 03:26:41,505 - WARNING - Không thấy bài viết mới, thử scroll tiếp... (4/10)
+2025-05-29 03:26:43,507 - INFO - Hiện tại đã thu thập 4 link. Scroll attempt: 4
+2025-05-29 03:26:45,701 - WARNING - Không thấy bài viết mới, thử scroll tiếp... (5/10)
+2025-05-29 03:26:47,702 - INFO - Hiện tại đã thu thập 4 link. Scroll attempt: 5
+2025-05-29 03:26:50,034 - WARNING - Không thấy bài viết mới, thử scroll tiếp... (6/10)
+2025-05-29 03:26:52,037 - INFO - Hiện tại đã thu thập 4 link. Scroll attempt: 6
+2025-05-29 03:26:54,241 - WARNING - Không thấy bài viết mới, thử scroll tiếp... (7/10)
+2025-05-29 03:26:56,247 - INFO - Hiện tại đã thu thập 4 link. Scroll attempt: 7
+2025-05-29 03:26:58,464 - WARNING - Không thấy bài viết mới, thử scroll tiếp... (8/10)
+2025-05-29 03:27:00,470 - INFO - Hiện tại đã thu thập 4 link. Scroll attempt: 8
+2025-05-29 03:27:02,662 - WARNING - Không thấy bài viết mới, thử scroll tiếp... (9/10)
+2025-05-29 03:27:04,667 - INFO - Hiện tại đã thu thập 4 link. Scroll attempt: 9
+2025-05-29 03:27:06,872 - WARNING - Không thấy bài viết mới, thử scroll tiếp... (10/10)
+2025-05-29 03:27:08,878 - INFO - Hiện tại đã thu thập 4 link. Scroll attempt: 10
+2025-05-29 03:27:08,883 - INFO - ✅ Đã gửi đủ 50 bài viết lên API!
+2025-05-29 03:27:09,020 - INFO - Đã đóng trình duyệt.
+2025-05-29 03:29:42,395 - INFO - ===== TOOL LẤY LINK BÀI VIẾT FACEBOOK =====
+2025-05-29 03:29:46,920 - WARNING - Không thể thêm cookie presence: Message: invalid argument: invalid 'expiry'
+  (Session info: chrome=136.0.7103.114)
+Stacktrace:
+0   chromedriver                        0x00000001030283e0 cxxbridge1$str$ptr + 2829900
+1   chromedriver                        0x00000001030206a8 cxxbridge1$str$ptr + 2797844
+2   chromedriver                        0x0000000102b5dfbc cxxbridge1$string$len + 90140
+3   chromedriver                        0x0000000102bf5608 cxxbridge1$string$len + 710248
+4   chromedriver                        0x0000000102be6044 cxxbridge1$string$len + 647332
+5   chromedriver                        0x0000000102b993f8 cxxbridge1$string$len + 332888
+6   chromedriver                        0x0000000102fec804 cxxbridge1$str$ptr + 2585200
+7   chromedriver                        0x0000000102fefad4 cxxbridge1$str$ptr + 2598208
+8   chromedriver                        0x0000000102fcddd8 cxxbridge1$str$ptr + 2459716
+9   chromedriver                        0x0000000102ff034c cxxbridge1$str$ptr + 2600376
+10  chromedriver                        0x0000000102fbf664 cxxbridge1$str$ptr + 2400464
+11  chromedriver                        0x00000001030102b0 cxxbridge1$str$ptr + 2731292
+12  chromedriver                        0x000000010301043c cxxbridge1$str$ptr + 2731688
+13  chromedriver                        0x00000001030202f4 cxxbridge1$str$ptr + 2796896
+14  libsystem_pthread.dylib             0x000000019021ffa8 _pthread_start + 148
+15  libsystem_pthread.dylib             0x000000019021ada0 thread_start + 8
+
+2025-05-29 03:29:46,934 - INFO - Đã thêm 8/9 cookie vào trình duyệt
+2025-05-29 03:29:51,153 - INFO - Đăng nhập thành công!
+2025-05-29 03:29:53,619 - INFO - Đã gửi (1/50): https://www.facebook.com/groups/tansinhvienneu/posts/2486215118444077/
+2025-05-29 03:29:57,058 - INFO - Hiện tại đã thu thập 1 link. Scroll attempt: 0
+2025-05-29 03:29:59,189 - WARNING - Không thấy bài viết mới, thử scroll tiếp... (1/10)
+2025-05-29 03:30:01,193 - INFO - Hiện tại đã thu thập 1 link. Scroll attempt: 1
+2025-05-29 03:30:03,334 - WARNING - Không thấy bài viết mới, thử scroll tiếp... (2/10)
+2025-05-29 03:30:05,337 - INFO - Hiện tại đã thu thập 1 link. Scroll attempt: 2
+2025-05-29 03:30:07,448 - WARNING - Không thấy bài viết mới, thử scroll tiếp... (3/10)
+2025-05-29 03:30:09,450 - INFO - Hiện tại đã thu thập 1 link. Scroll attempt: 3
+2025-05-29 03:30:11,585 - WARNING - Không thấy bài viết mới, thử scroll tiếp... (4/10)
+2025-05-29 03:30:13,590 - INFO - Hiện tại đã thu thập 1 link. Scroll attempt: 4
+2025-05-29 03:30:15,699 - WARNING - Không thấy bài viết mới, thử scroll tiếp... (5/10)
+2025-05-29 03:30:17,704 - INFO - Hiện tại đã thu thập 1 link. Scroll attempt: 5
+2025-05-29 03:30:19,832 - WARNING - Không thấy bài viết mới, thử scroll tiếp... (6/10)
+2025-05-29 03:30:21,837 - INFO - Hiện tại đã thu thập 1 link. Scroll attempt: 6
+2025-05-29 03:30:23,963 - WARNING - Không thấy bài viết mới, thử scroll tiếp... (7/10)
+2025-05-29 03:30:25,967 - INFO - Hiện tại đã thu thập 1 link. Scroll attempt: 7
+2025-05-29 03:30:28,096 - WARNING - Không thấy bài viết mới, thử scroll tiếp... (8/10)
+2025-05-29 03:30:30,101 - INFO - Hiện tại đã thu thập 1 link. Scroll attempt: 8
+2025-05-29 03:30:32,228 - WARNING - Không thấy bài viết mới, thử scroll tiếp... (9/10)
+2025-05-29 03:30:34,234 - INFO - Hiện tại đã thu thập 1 link. Scroll attempt: 9
+2025-05-29 03:30:36,332 - WARNING - Không thấy bài viết mới, thử scroll tiếp... (10/10)
+2025-05-29 03:30:38,338 - INFO - Hiện tại đã thu thập 1 link. Scroll attempt: 10
+2025-05-29 03:30:40,466 - WARNING - Không thấy bài viết mới, thử scroll tiếp... (11/10)
+2025-05-29 03:30:42,468 - INFO - Hiện tại đã thu thập 1 link. Scroll attempt: 11
+2025-05-29 03:30:44,583 - WARNING - Không thấy bài viết mới, thử scroll tiếp... (12/10)
+2025-05-29 03:30:46,588 - INFO - Hiện tại đã thu thập 1 link. Scroll attempt: 12
+2025-05-29 03:30:48,714 - WARNING - Không thấy bài viết mới, thử scroll tiếp... (13/10)
+2025-05-29 03:30:50,717 - INFO - Hiện tại đã thu thập 1 link. Scroll attempt: 13
+2025-05-29 03:30:52,848 - WARNING - Không thấy bài viết mới, thử scroll tiếp... (14/10)
+2025-05-29 03:30:54,853 - INFO - Hiện tại đã thu thập 1 link. Scroll attempt: 14
+2025-05-29 03:30:56,977 - WARNING - Không thấy bài viết mới, thử scroll tiếp... (15/10)
+2025-05-29 03:30:58,979 - INFO - Hiện tại đã thu thập 1 link. Scroll attempt: 15
+2025-05-29 03:31:01,091 - WARNING - Không thấy bài viết mới, thử scroll tiếp... (16/10)
+2025-05-29 03:31:03,096 - INFO - Hiện tại đã thu thập 1 link. Scroll attempt: 16
+2025-05-29 03:31:05,226 - WARNING - Không thấy bài viết mới, thử scroll tiếp... (17/10)
+2025-05-29 03:31:07,232 - INFO - Hiện tại đã thu thập 1 link. Scroll attempt: 17
+2025-05-29 03:31:09,361 - WARNING - Không thấy bài viết mới, thử scroll tiếp... (18/10)
+2025-05-29 03:31:11,362 - INFO - Hiện tại đã thu thập 1 link. Scroll attempt: 18
+2025-05-29 03:31:13,489 - WARNING - Không thấy bài viết mới, thử scroll tiếp... (19/10)
+2025-05-29 03:31:15,494 - INFO - Hiện tại đã thu thập 1 link. Scroll attempt: 19
+2025-05-29 03:31:17,612 - WARNING - Không thấy bài viết mới, thử scroll tiếp... (20/10)
+2025-05-29 03:31:19,617 - INFO - Hiện tại đã thu thập 1 link. Scroll attempt: 20
+2025-05-29 03:31:21,749 - WARNING - Không thấy bài viết mới, thử scroll tiếp... (21/10)
+2025-05-29 03:31:23,754 - INFO - Hiện tại đã thu thập 1 link. Scroll attempt: 21
+2025-05-29 03:31:25,884 - WARNING - Không thấy bài viết mới, thử scroll tiếp... (22/10)
+2025-05-29 03:31:27,886 - INFO - Hiện tại đã thu thập 1 link. Scroll attempt: 22
+2025-05-29 03:31:29,998 - WARNING - Không thấy bài viết mới, thử scroll tiếp... (23/10)
+2025-05-29 03:31:32,001 - INFO - Hiện tại đã thu thập 1 link. Scroll attempt: 23
+2025-05-29 03:31:34,121 - WARNING - Không thấy bài viết mới, thử scroll tiếp... (24/10)
+2025-05-29 03:31:36,125 - INFO - Hiện tại đã thu thập 1 link. Scroll attempt: 24
+2025-05-29 03:31:38,235 - WARNING - Không thấy bài viết mới, thử scroll tiếp... (25/10)
+2025-05-29 03:31:40,240 - INFO - Hiện tại đã thu thập 1 link. Scroll attempt: 25
+2025-05-29 03:31:42,367 - WARNING - Không thấy bài viết mới, thử scroll tiếp... (26/10)
+2025-05-29 03:31:44,370 - INFO - Hiện tại đã thu thập 1 link. Scroll attempt: 26
+2025-05-29 03:31:46,502 - WARNING - Không thấy bài viết mới, thử scroll tiếp... (27/10)
+2025-05-29 03:31:48,506 - INFO - Hiện tại đã thu thập 1 link. Scroll attempt: 27
+2025-05-29 03:31:50,643 - WARNING - Không thấy bài viết mới, thử scroll tiếp... (28/10)
+2025-05-29 03:31:52,644 - INFO - Hiện tại đã thu thập 1 link. Scroll attempt: 28
+2025-05-29 03:31:54,777 - WARNING - Không thấy bài viết mới, thử scroll tiếp... (29/10)
+2025-05-29 03:31:56,779 - INFO - Hiện tại đã thu thập 1 link. Scroll attempt: 29
+2025-05-29 03:31:58,940 - WARNING - Không thấy bài viết mới, thử scroll tiếp... (30/10)
+2025-05-29 03:32:00,945 - INFO - Hiện tại đã thu thập 1 link. Scroll attempt: 30
+2025-05-29 03:32:00,962 - INFO - ✅ Đã gửi đủ 50 bài viết lên API!
+2025-05-29 03:32:01,134 - INFO - Đã đóng trình duyệt.
+2025-05-29 03:34:07,311 - INFO - ===== TOOL LẤY LINK BÀI VIẾT FACEBOOK =====
+2025-05-29 03:34:11,434 - WARNING - Không thể thêm cookie presence: Message: invalid argument: invalid 'expiry'
+  (Session info: chrome=136.0.7103.114)
+Stacktrace:
+0   chromedriver                        0x00000001032dc3e0 cxxbridge1$str$ptr + 2829900
+1   chromedriver                        0x00000001032d46a8 cxxbridge1$str$ptr + 2797844
+2   chromedriver                        0x0000000102e11fbc cxxbridge1$string$len + 90140
+3   chromedriver                        0x0000000102ea9608 cxxbridge1$string$len + 710248
+4   chromedriver                        0x0000000102e9a044 cxxbridge1$string$len + 647332
+5   chromedriver                        0x0000000102e4d3f8 cxxbridge1$string$len + 332888
+6   chromedriver                        0x00000001032a0804 cxxbridge1$str$ptr + 2585200
+7   chromedriver                        0x00000001032a3ad4 cxxbridge1$str$ptr + 2598208
+8   chromedriver                        0x0000000103281dd8 cxxbridge1$str$ptr + 2459716
+9   chromedriver                        0x00000001032a434c cxxbridge1$str$ptr + 2600376
+10  chromedriver                        0x0000000103273664 cxxbridge1$str$ptr + 2400464
+11  chromedriver                        0x00000001032c42b0 cxxbridge1$str$ptr + 2731292
+12  chromedriver                        0x00000001032c443c cxxbridge1$str$ptr + 2731688
+13  chromedriver                        0x00000001032d42f4 cxxbridge1$str$ptr + 2796896
+14  libsystem_pthread.dylib             0x000000019021ffa8 _pthread_start + 148
+15  libsystem_pthread.dylib             0x000000019021ada0 thread_start + 8
+
+2025-05-29 03:34:11,450 - INFO - Đã thêm 8/9 cookie vào trình duyệt
+2025-05-29 03:34:13,435 - INFO - Đăng nhập thành công!
+2025-05-29 03:34:23,344 - INFO - Đã gửi (1/50): https://www.facebook.com/groups/tansinhvienneu/posts/2486483285083927/
+2025-05-29 03:34:24,553 - INFO - Đã gửi (2/50): https://www.facebook.com/groups/tansinhvienneu/posts/2487241228341466/
+2025-05-29 03:34:25,529 - INFO - Đã gửi (3/50): https://www.facebook.com/groups/tansinhvienneu/posts/2486910545041201/
+2025-05-29 03:34:26,694 - INFO - Hiện tại đã thu thập 3 link. Scroll attempt: 0
+2025-05-29 03:34:44,487 - WARNING - Không thấy bài viết mới, thử scroll tiếp... (1/10)
+2025-05-29 03:34:47,492 - INFO - Hiện tại đã thu thập 3 link. Scroll attempt: 1
+2025-05-29 03:35:04,293 - WARNING - Không thấy bài viết mới, thử scroll tiếp... (2/10)
+2025-05-29 03:35:07,298 - INFO - Hiện tại đã thu thập 3 link. Scroll attempt: 2
+2025-05-29 03:35:23,906 - WARNING - Không thấy bài viết mới, thử scroll tiếp... (3/10)
+2025-05-29 03:35:26,911 - INFO - Hiện tại đã thu thập 3 link. Scroll attempt: 3
+2025-05-29 03:35:44,885 - INFO - Đã gửi (4/50): https://www.facebook.com/groups/tansinhvienneu/posts/2486981538367435/
+2025-05-29 03:35:46,453 - INFO - Đã gửi (5/50): https://www.facebook.com/groups/tansinhvienneu/posts/2457973397934916/
+2025-05-29 03:35:47,743 - INFO - Đã gửi (6/50): https://www.facebook.com/groups/tansinhvienneu/posts/2487250108340578/
+2025-05-29 03:35:48,613 - INFO - Đã gửi (7/50): https://www.facebook.com/groups/tansinhvienneu/posts/2486822091716713/
+2025-05-29 03:35:50,032 - INFO - Hiện tại đã thu thập 7 link. Scroll attempt: 0
+2025-05-29 03:36:12,454 - INFO - Đã gửi (8/50): https://www.facebook.com/groups/tansinhvienneu/posts/2485380201860902/
+2025-05-29 03:36:14,026 - INFO - Đã gửi (9/50): https://www.facebook.com/groups/tansinhvienneu/posts/2486468221752100/
+2025-05-29 03:36:14,967 - INFO - Đã gửi (10/50): https://www.facebook.com/groups/tansinhvienneu/posts/2487119395020316/
+2025-05-29 03:36:16,111 - INFO - Đã gửi (11/50): https://www.facebook.com/groups/tansinhvienneu/posts/2487048101694112/
+2025-05-29 03:36:17,352 - INFO - Hiện tại đã thu thập 11 link. Scroll attempt: 0
+2025-05-29 03:36:50,718 - INFO - Đã gửi (12/50): https://www.facebook.com/groups/tansinhvienneu/posts/2486318155100440/
+2025-05-29 03:36:51,588 - INFO - Đã gửi (13/50): https://www.facebook.com/groups/tansinhvienneu/posts/2486197848445804/
+2025-05-29 03:36:52,627 - INFO - Đã gửi (14/50): https://www.facebook.com/groups/tansinhvienneu/posts/2486892038376385/
+2025-05-29 03:36:54,147 - INFO - Hiện tại đã thu thập 14 link. Scroll attempt: 0
+2025-05-29 03:37:35,916 - INFO - Hiện tại đã thu thập 14 link. Scroll attempt: 0
+2025-05-29 03:37:41,680 - WARNING - Không thấy bài viết mới, thử scroll tiếp... (1/10)
+2025-05-29 03:37:44,682 - INFO - Hiện tại đã thu thập 14 link. Scroll attempt: 1
+2025-05-29 03:37:50,381 - WARNING - Không thấy bài viết mới, thử scroll tiếp... (2/10)
+2025-05-29 03:37:53,388 - INFO - Hiện tại đã thu thập 14 link. Scroll attempt: 2
+2025-05-29 03:37:58,691 - WARNING - Không thấy bài viết mới, thử scroll tiếp... (3/10)
+2025-05-29 03:38:01,697 - INFO - Hiện tại đã thu thập 14 link. Scroll attempt: 3
+2025-05-29 03:38:06,805 - WARNING - Không thấy bài viết mới, thử scroll tiếp... (4/10)
+2025-05-29 03:38:09,811 - INFO - Hiện tại đã thu thập 14 link. Scroll attempt: 4
+2025-05-29 03:38:14,993 - WARNING - Không thấy bài viết mới, thử scroll tiếp... (5/10)
+2025-05-29 03:38:16,777 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(54, 'Connection reset by peer')': /session/b8cb4cad4df04b001b8233dc21569c13
+2025-05-29 03:38:16,779 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x106c83d40>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/b8cb4cad4df04b001b8233dc21569c13
+2025-05-29 03:38:16,779 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x106c80e30>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/b8cb4cad4df04b001b8233dc21569c13
+2025-05-29 03:38:16,780 - INFO - Đã đóng trình duyệt.
+2025-05-29 03:38:23,900 - INFO - ===== TOOL LẤY LINK BÀI VIẾT FACEBOOK =====
+2025-05-29 03:38:27,885 - WARNING - Không thể thêm cookie presence: Message: invalid argument: invalid 'expiry'
+  (Session info: chrome=136.0.7103.114)
+Stacktrace:
+0   chromedriver                        0x0000000100b103e0 cxxbridge1$str$ptr + 2829900
+1   chromedriver                        0x0000000100b086a8 cxxbridge1$str$ptr + 2797844
+2   chromedriver                        0x0000000100645fbc cxxbridge1$string$len + 90140
+3   chromedriver                        0x00000001006dd608 cxxbridge1$string$len + 710248
+4   chromedriver                        0x00000001006ce044 cxxbridge1$string$len + 647332
+5   chromedriver                        0x00000001006813f8 cxxbridge1$string$len + 332888
+6   chromedriver                        0x0000000100ad4804 cxxbridge1$str$ptr + 2585200
+7   chromedriver                        0x0000000100ad7ad4 cxxbridge1$str$ptr + 2598208
+8   chromedriver                        0x0000000100ab5dd8 cxxbridge1$str$ptr + 2459716
+9   chromedriver                        0x0000000100ad834c cxxbridge1$str$ptr + 2600376
+10  chromedriver                        0x0000000100aa7664 cxxbridge1$str$ptr + 2400464
+11  chromedriver                        0x0000000100af82b0 cxxbridge1$str$ptr + 2731292
+12  chromedriver                        0x0000000100af843c cxxbridge1$str$ptr + 2731688
+13  chromedriver                        0x0000000100b082f4 cxxbridge1$str$ptr + 2796896
+14  libsystem_pthread.dylib             0x000000019021ffa8 _pthread_start + 148
+15  libsystem_pthread.dylib             0x000000019021ada0 thread_start + 8
+
+2025-05-29 03:38:27,894 - INFO - Đã thêm 8/9 cookie vào trình duyệt
+2025-05-29 03:38:29,837 - INFO - Đăng nhập thành công!
+2025-05-29 03:38:54,186 - INFO - Đã gửi (1/50): https://www.facebook.com/groups/tansinhvienneu/posts/2486981538367435/
+2025-05-29 03:38:55,100 - INFO - Đã gửi (2/50): https://www.facebook.com/groups/tansinhvienneu/posts/2457973397934916/
+2025-05-29 03:38:56,022 - INFO - Đã gửi (3/50): https://www.facebook.com/groups/tansinhvienneu/posts/2487241228341466/
+2025-05-29 03:38:57,081 - INFO - Đã gửi (4/50): https://www.facebook.com/groups/tansinhvienneu/posts/2486910545041201/
+2025-05-29 03:38:58,466 - INFO - Đã thu thập 4 bài viết. Scroll attempts: 0
+2025-05-29 03:39:10,396 - INFO - Đã thu thập 4 bài viết. Scroll attempts: 0
+2025-05-29 03:39:15,408 - INFO - Đã gửi (5/50): https://www.facebook.com/groups/tansinhvienneu/posts/2486507518414837/
+2025-05-29 03:39:16,866 - INFO - Đã thu thập 5 bài viết. Scroll attempts: 0
+2025-05-29 03:39:27,904 - INFO - Đã thu thập 5 bài viết. Scroll attempts: 0
+2025-05-29 03:39:34,058 - WARNING - Không tìm thấy bài viết mới và không thể cuộn nữa (1/15).
+2025-05-29 03:39:37,063 - INFO - Đã thu thập 5 bài viết. Scroll attempts: 1
+2025-05-29 03:39:48,935 - INFO - Đã thu thập 5 bài viết. Scroll attempts: 0
+2025-05-29 03:39:55,348 - WARNING - Không tìm thấy bài viết mới và không thể cuộn nữa (1/15).
+2025-05-29 03:39:58,353 - INFO - Đã thu thập 5 bài viết. Scroll attempts: 1
+2025-05-29 03:40:10,175 - INFO - Đã thu thập 5 bài viết. Scroll attempts: 0
+2025-05-29 03:40:15,747 - WARNING - Không tìm thấy bài viết mới và không thể cuộn nữa (1/15).
+2025-05-29 03:40:18,753 - INFO - Đã thu thập 5 bài viết. Scroll attempts: 1
+2025-05-29 03:40:30,029 - INFO - Đã thu thập 5 bài viết. Scroll attempts: 0
+2025-05-29 03:40:37,276 - WARNING - Không tìm thấy bài viết mới và không thể cuộn nữa (1/15).
+2025-05-29 03:40:40,282 - INFO - Đã thu thập 5 bài viết. Scroll attempts: 1
+2025-05-29 03:40:52,381 - INFO - Đã thu thập 5 bài viết. Scroll attempts: 0
+2025-05-29 03:40:59,416 - WARNING - Không tìm thấy bài viết mới và không thể cuộn nữa (1/15).
+2025-05-29 03:41:02,422 - INFO - Đã thu thập 5 bài viết. Scroll attempts: 1
+2025-05-29 03:41:12,887 - INFO - Đã thu thập 5 bài viết. Scroll attempts: 0
+2025-05-29 03:41:19,294 - WARNING - Không tìm thấy bài viết mới và không thể cuộn nữa (1/15).
+2025-05-29 03:41:22,299 - INFO - Đã thu thập 5 bài viết. Scroll attempts: 1
+2025-05-29 03:41:34,046 - INFO - Đã gửi (6/50): https://www.facebook.com/groups/tansinhvienneu/posts/2485380201860902/
+2025-05-29 03:41:35,099 - INFO - Đã gửi (7/50): https://www.facebook.com/groups/tansinhvienneu/posts/2487250108340578/
+2025-05-29 03:41:36,070 - INFO - Đã gửi (8/50): https://www.facebook.com/groups/tansinhvienneu/posts/2486822091716713/
+2025-05-29 03:41:37,155 - INFO - Đã thu thập 8 bài viết. Scroll attempts: 0
+2025-05-29 03:46:52,124 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'RemoteDisconnected('Remote end closed connection without response')': /session/16586d6da91245b3771ffcb75e9bfc95
+2025-05-29 03:46:52,127 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1020e40b0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/16586d6da91245b3771ffcb75e9bfc95
+2025-05-29 03:46:52,127 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x100ae05c0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/16586d6da91245b3771ffcb75e9bfc95
+2025-05-29 03:46:52,128 - INFO - Đã đóng trình duyệt.
+2025-05-29 03:46:59,482 - INFO - ===== TOOL LẤY LINK BÀI VIẾT FACEBOOK =====
+2025-05-29 03:47:03,530 - WARNING - Không thể thêm cookie presence: Message: invalid argument: invalid 'expiry'
+  (Session info: chrome=136.0.7103.114)
+Stacktrace:
+0   chromedriver                        0x00000001009803e0 cxxbridge1$str$ptr + 2829900
+1   chromedriver                        0x00000001009786a8 cxxbridge1$str$ptr + 2797844
+2   chromedriver                        0x00000001004b5fbc cxxbridge1$string$len + 90140
+3   chromedriver                        0x000000010054d608 cxxbridge1$string$len + 710248
+4   chromedriver                        0x000000010053e044 cxxbridge1$string$len + 647332
+5   chromedriver                        0x00000001004f13f8 cxxbridge1$string$len + 332888
+6   chromedriver                        0x0000000100944804 cxxbridge1$str$ptr + 2585200
+7   chromedriver                        0x0000000100947ad4 cxxbridge1$str$ptr + 2598208
+8   chromedriver                        0x0000000100925dd8 cxxbridge1$str$ptr + 2459716
+9   chromedriver                        0x000000010094834c cxxbridge1$str$ptr + 2600376
+10  chromedriver                        0x0000000100917664 cxxbridge1$str$ptr + 2400464
+11  chromedriver                        0x00000001009682b0 cxxbridge1$str$ptr + 2731292
+12  chromedriver                        0x000000010096843c cxxbridge1$str$ptr + 2731688
+13  chromedriver                        0x00000001009782f4 cxxbridge1$str$ptr + 2796896
+14  libsystem_pthread.dylib             0x000000019021ffa8 _pthread_start + 148
+15  libsystem_pthread.dylib             0x000000019021ada0 thread_start + 8
+
+2025-05-29 03:47:03,546 - INFO - Đã thêm 8/9 cookie vào trình duyệt
+2025-05-29 03:47:05,610 - INFO - Đăng nhập thành công!
+2025-05-29 03:47:09,117 - INFO - Tìm link mới: https://www.facebook.com/groups/tansinhvienneu/posts/2486483285083927/
+2025-05-29 03:47:09,350 - INFO - Đã gửi link lên API: https://www.facebook.com/groups/tansinhvienneu/posts/2486483285083927/
+2025-05-29 03:47:09,363 - INFO - Tìm link mới: https://www.facebook.com/groups/tansinhvienneu/posts/2486215118444077/
+2025-05-29 03:47:09,456 - INFO - Đã gửi link lên API: https://www.facebook.com/groups/tansinhvienneu/posts/2486215118444077/
+2025-05-29 03:47:14,723 - INFO - Không tìm được link mới lần thứ 1, chiều cao trang không thay đổi
+2025-05-29 03:47:16,624 - INFO - Tìm link mới: https://www.facebook.com/groups/tansinhvienneu/posts/2486597705072485/
+2025-05-29 03:47:16,714 - INFO - Đã gửi link lên API: https://www.facebook.com/groups/tansinhvienneu/posts/2486597705072485/
+2025-05-29 03:47:18,526 - INFO - Không tìm được link mới lần thứ 1, chiều cao trang không thay đổi
+2025-05-29 03:47:20,486 - INFO - Không tìm được link mới lần thứ 2, chiều cao trang không thay đổi
+2025-05-29 03:47:22,431 - INFO - Tìm link mới: https://www.facebook.com/groups/tansinhvienneu/posts/2486981538367435/
+2025-05-29 03:47:22,522 - INFO - Đã gửi link lên API: https://www.facebook.com/groups/tansinhvienneu/posts/2486981538367435/
+2025-05-29 03:47:24,716 - INFO - Tìm link mới: https://www.facebook.com/groups/tansinhvienneu/posts/2457973397934916/
+2025-05-29 03:47:24,814 - INFO - Đã gửi link lên API: https://www.facebook.com/groups/tansinhvienneu/posts/2457973397934916/
+2025-05-29 03:47:27,098 - INFO - Không tìm được link mới lần thứ 1, chiều cao trang không thay đổi
+2025-05-29 03:47:32,410 - INFO - Tìm link mới: https://www.facebook.com/groups/tansinhvienneu/posts/2487241228341466/
+2025-05-29 03:47:32,498 - INFO - Đã gửi link lên API: https://www.facebook.com/groups/tansinhvienneu/posts/2487241228341466/
+2025-05-29 03:47:34,666 - INFO - Không tìm được link mới lần thứ 1, chiều cao trang không thay đổi
+2025-05-29 03:47:36,944 - INFO - Tìm link mới: https://www.facebook.com/groups/tansinhvienneu/posts/2486910545041201/
+2025-05-29 03:47:37,037 - INFO - Đã gửi link lên API: https://www.facebook.com/groups/tansinhvienneu/posts/2486910545041201/
+2025-05-29 03:47:38,809 - INFO - Không tìm được link mới lần thứ 1, chiều cao trang không thay đổi
+2025-05-29 03:47:40,890 - INFO - Không tìm được link mới lần thứ 2, chiều cao trang không thay đổi
+2025-05-29 03:47:43,771 - INFO - Không tìm được link mới lần thứ 3, chiều cao trang không thay đổi
+2025-05-29 03:47:45,797 - INFO - Không tìm được link mới lần thứ 4, chiều cao trang không thay đổi
+2025-05-29 03:47:48,117 - INFO - Không tìm được link mới lần thứ 5, chiều cao trang không thay đổi
+2025-05-29 03:47:50,800 - INFO - Không tìm được link mới lần thứ 6, chiều cao trang không thay đổi
+2025-05-29 03:47:52,439 - INFO - Không tìm được link mới lần thứ 7, chiều cao trang không thay đổi
+2025-05-29 03:47:55,439 - INFO - Không tìm được link mới lần thứ 8, chiều cao trang không thay đổi
+2025-05-29 03:47:57,927 - INFO - Tìm link mới: https://www.facebook.com/groups/tansinhvienneu/posts/2485380201860902/
+2025-05-29 03:47:58,034 - INFO - Đã gửi link lên API: https://www.facebook.com/groups/tansinhvienneu/posts/2485380201860902/
+2025-05-29 03:47:58,096 - INFO - Tìm link mới: https://www.facebook.com/groups/tansinhvienneu/posts/2486507518414837/
+2025-05-29 03:47:58,191 - INFO - Đã gửi link lên API: https://www.facebook.com/groups/tansinhvienneu/posts/2486507518414837/
+2025-05-29 03:48:00,023 - INFO - Tìm link mới: https://www.facebook.com/groups/tansinhvienneu/posts/2487250108340578/
+2025-05-29 03:48:00,113 - INFO - Đã gửi link lên API: https://www.facebook.com/groups/tansinhvienneu/posts/2487250108340578/
+2025-05-29 03:48:01,994 - INFO - Tìm link mới: https://www.facebook.com/groups/tansinhvienneu/posts/2486822091716713/
+2025-05-29 03:48:02,201 - INFO - Đã gửi link lên API: https://www.facebook.com/groups/tansinhvienneu/posts/2486822091716713/
+2025-05-29 03:48:04,128 - INFO - Không tìm được link mới lần thứ 1, chiều cao trang không thay đổi
+2025-05-29 03:48:06,700 - INFO - Không tìm được link mới lần thứ 2, chiều cao trang không thay đổi
+2025-05-29 03:48:08,677 - INFO - Tìm link mới: https://www.facebook.com/groups/tansinhvienneu/posts/2486977828367806/
+2025-05-29 03:48:08,773 - INFO - Đã gửi link lên API: https://www.facebook.com/groups/tansinhvienneu/posts/2486977828367806/
+2025-05-29 03:48:12,448 - INFO - Tìm link mới: https://www.facebook.com/groups/tansinhvienneu/posts/2486468221752100/
+2025-05-29 03:48:12,544 - INFO - Đã gửi link lên API: https://www.facebook.com/groups/tansinhvienneu/posts/2486468221752100/
+2025-05-29 03:48:14,454 - INFO - Không tìm được link mới lần thứ 1, chiều cao trang không thay đổi
+2025-05-29 03:48:17,050 - INFO - Không tìm được link mới lần thứ 2, chiều cao trang không thay đổi
+2025-05-29 03:48:19,458 - INFO - Tìm link mới: https://www.facebook.com/groups/tansinhvienneu/posts/2487119395020316/
+2025-05-29 03:48:19,546 - INFO - Đã gửi link lên API: https://www.facebook.com/groups/tansinhvienneu/posts/2487119395020316/
+2025-05-29 03:48:22,216 - INFO - Không tìm được link mới lần thứ 1, chiều cao trang không thay đổi
+2025-05-29 03:48:24,087 - INFO - Không tìm được link mới lần thứ 2, chiều cao trang không thay đổi
+2025-05-29 03:48:26,876 - INFO - Tìm link mới: https://www.facebook.com/groups/tansinhvienneu/posts/2486916098373979/
+2025-05-29 03:48:26,972 - INFO - Đã gửi link lên API: https://www.facebook.com/groups/tansinhvienneu/posts/2486916098373979/
+2025-05-29 03:48:32,040 - INFO - Không tìm được link mới lần thứ 1, chiều cao trang không thay đổi
+2025-05-29 03:48:35,130 - INFO - Tìm link mới: https://www.facebook.com/groups/tansinhvienneu/posts/2487048101694112/
+2025-05-29 03:48:35,228 - INFO - Đã gửi link lên API: https://www.facebook.com/groups/tansinhvienneu/posts/2487048101694112/
+2025-05-29 03:48:37,595 - INFO - Không tìm được link mới lần thứ 1, chiều cao trang không thay đổi
+2025-05-29 03:48:39,288 - INFO - Tìm link mới: https://www.facebook.com/groups/tansinhvienneu/posts/2486551288410460/
+2025-05-29 03:48:39,382 - INFO - Đã gửi link lên API: https://www.facebook.com/groups/tansinhvienneu/posts/2486551288410460/
+2025-05-29 03:48:41,435 - INFO - Không tìm được link mới lần thứ 1, chiều cao trang không thay đổi
+2025-05-29 03:48:43,485 - INFO - Tìm link mới: https://www.facebook.com/groups/tansinhvienneu/posts/2487261225006133/
+2025-05-29 03:48:43,578 - INFO - Đã gửi link lên API: https://www.facebook.com/groups/tansinhvienneu/posts/2487261225006133/
+2025-05-29 03:48:46,656 - INFO - Tìm link mới: https://www.facebook.com/groups/tansinhvienneu/posts/2481368522262070/
+2025-05-29 03:48:46,763 - INFO - Đã gửi link lên API: https://www.facebook.com/groups/tansinhvienneu/posts/2481368522262070/
+2025-05-29 03:48:49,475 - INFO - Không tìm được link mới lần thứ 1, chiều cao trang không thay đổi
+2025-05-29 03:48:51,650 - INFO - Tìm link mới: https://www.facebook.com/groups/tansinhvienneu/posts/2487080535024202/
+2025-05-29 03:48:51,747 - INFO - Đã gửi link lên API: https://www.facebook.com/groups/tansinhvienneu/posts/2487080535024202/
+2025-05-29 03:48:56,224 - INFO - Không tìm được link mới lần thứ 1, chiều cao trang không thay đổi
+2025-05-29 03:48:58,456 - INFO - Không tìm được link mới lần thứ 2, chiều cao trang không thay đổi
+2025-05-29 03:49:00,689 - INFO - Tìm link mới: https://www.facebook.com/groups/tansinhvienneu/posts/2487073891691533/
+2025-05-29 03:49:00,787 - INFO - Đã gửi link lên API: https://www.facebook.com/groups/tansinhvienneu/posts/2487073891691533/
+2025-05-29 03:49:02,458 - INFO - Không tìm được link mới lần thứ 1, chiều cao trang không thay đổi
+2025-05-29 03:49:04,696 - INFO - Không tìm được link mới lần thứ 2, chiều cao trang không thay đổi
+2025-05-29 03:49:06,345 - INFO - Không tìm được link mới lần thứ 3, chiều cao trang không thay đổi
+2025-05-29 03:49:08,951 - INFO - Tìm link mới: https://www.facebook.com/groups/tansinhvienneu/posts/2142089912856601/
+2025-05-29 03:49:09,048 - INFO - Đã gửi link lên API: https://www.facebook.com/groups/tansinhvienneu/posts/2142089912856601/
+2025-05-29 03:49:12,070 - INFO - Không tìm được link mới lần thứ 1, chiều cao trang không thay đổi
+2025-05-29 03:49:14,483 - INFO - Không tìm được link mới lần thứ 2, chiều cao trang không thay đổi
+2025-05-29 03:49:17,561 - INFO - Tìm link mới: https://www.facebook.com/groups/tansinhvienneu/posts/2486318155100440/
+2025-05-29 03:49:17,659 - INFO - Đã gửi link lên API: https://www.facebook.com/groups/tansinhvienneu/posts/2486318155100440/
+2025-05-29 03:49:19,844 - INFO - Tìm link mới: https://www.facebook.com/groups/tansinhvienneu/posts/2486197848445804/
+2025-05-29 03:49:19,943 - INFO - Đã gửi link lên API: https://www.facebook.com/groups/tansinhvienneu/posts/2486197848445804/
+2025-05-29 03:49:22,849 - INFO - Không tìm được link mới lần thứ 1, chiều cao trang không thay đổi
+2025-05-29 03:49:25,860 - INFO - Không tìm được link mới lần thứ 2, chiều cao trang không thay đổi
+2025-05-29 03:49:27,535 - INFO - Tìm link mới: https://www.facebook.com/groups/tansinhvienneu/posts/2486892038376385/
+2025-05-29 03:49:27,640 - INFO - Đã gửi link lên API: https://www.facebook.com/groups/tansinhvienneu/posts/2486892038376385/
+2025-05-29 03:49:33,411 - INFO - Tìm link mới: https://www.facebook.com/groups/tansinhvienneu/posts/2487237531675169/
+2025-05-29 03:49:33,503 - INFO - Đã gửi link lên API: https://www.facebook.com/groups/tansinhvienneu/posts/2487237531675169/
+2025-05-29 03:49:35,191 - INFO - Không tìm được link mới lần thứ 1, chiều cao trang không thay đổi
+2025-05-29 03:49:44,835 - INFO - Không tìm được link mới lần thứ 1, chiều cao trang không thay đổi
+2025-05-29 03:49:51,322 - INFO - Tìm link mới: https://www.facebook.com/groups/tansinhvienneu/posts/2487034781695444/
+2025-05-29 03:49:51,420 - INFO - Đã gửi link lên API: https://www.facebook.com/groups/tansinhvienneu/posts/2487034781695444/
+2025-05-29 03:49:54,153 - INFO - Không tìm được link mới lần thứ 1, chiều cao trang không thay đổi
+2025-05-29 03:49:57,112 - INFO - Không tìm được link mới lần thứ 2, chiều cao trang không thay đổi
+2025-05-29 03:49:59,946 - INFO - Tìm link mới: https://www.facebook.com/groups/tansinhvienneu/posts/2486082518457337/
+2025-05-29 03:50:00,052 - INFO - Đã gửi link lên API: https://www.facebook.com/groups/tansinhvienneu/posts/2486082518457337/
+2025-05-29 03:50:00,067 - INFO - Tìm link mới: https://www.facebook.com/groups/tansinhvienneu/posts/2486504161748506/
+2025-05-29 03:50:00,166 - INFO - Đã gửi link lên API: https://www.facebook.com/groups/tansinhvienneu/posts/2486504161748506/
+2025-05-29 03:50:03,152 - INFO - Không tìm được link mới lần thứ 1, chiều cao trang không thay đổi
+2025-05-29 03:50:04,900 - INFO - Không tìm được link mới lần thứ 2, chiều cao trang không thay đổi
+2025-05-29 03:50:07,373 - INFO - Tìm link mới: https://www.facebook.com/groups/tansinhvienneu/posts/2486965455035710/
+2025-05-29 03:50:07,464 - INFO - Đã gửi link lên API: https://www.facebook.com/groups/tansinhvienneu/posts/2486965455035710/
+2025-05-29 03:50:09,687 - INFO - Không tìm được link mới lần thứ 1, chiều cao trang không thay đổi
+2025-05-29 03:50:12,504 - INFO - Không tìm được link mới lần thứ 2, chiều cao trang không thay đổi
+2025-05-29 03:50:14,996 - INFO - Không tìm được link mới lần thứ 3, chiều cao trang không thay đổi
+2025-05-29 03:50:19,463 - INFO - Không tìm được link mới lần thứ 1, chiều cao trang không thay đổi
+2025-05-29 03:50:21,764 - INFO - Không tìm được link mới lần thứ 2, chiều cao trang không thay đổi
+2025-05-29 03:50:24,036 - INFO - Tìm link mới: https://www.facebook.com/groups/tansinhvienneu/posts/2486165445115711/
+2025-05-29 03:50:24,153 - INFO - Đã gửi link lên API: https://www.facebook.com/groups/tansinhvienneu/posts/2486165445115711/
+2025-05-29 03:50:29,001 - INFO - Không tìm được link mới lần thứ 1, chiều cao trang không thay đổi
+2025-05-29 03:50:31,362 - INFO - Không tìm được link mới lần thứ 2, chiều cao trang không thay đổi
+2025-05-29 03:50:33,272 - INFO - Tìm link mới: https://www.facebook.com/groups/tansinhvienneu/posts/2485904645141791/
+2025-05-29 03:50:33,367 - INFO - Đã gửi link lên API: https://www.facebook.com/groups/tansinhvienneu/posts/2485904645141791/
+2025-05-29 03:50:35,839 - INFO - Tìm link mới: https://www.facebook.com/groups/tansinhvienneu/posts/2483756042023318/
+2025-05-29 03:50:35,931 - INFO - Đã gửi link lên API: https://www.facebook.com/groups/tansinhvienneu/posts/2483756042023318/
+2025-05-29 03:50:37,943 - INFO - Không tìm được link mới lần thứ 1, chiều cao trang không thay đổi
+2025-05-29 03:50:39,716 - INFO - Không tìm được link mới lần thứ 2, chiều cao trang không thay đổi
+2025-05-29 03:50:41,625 - INFO - Tìm link mới: https://www.facebook.com/groups/tansinhvienneu/posts/2482781475454108/
+2025-05-29 03:50:41,721 - INFO - Đã gửi link lên API: https://www.facebook.com/groups/tansinhvienneu/posts/2482781475454108/
+2025-05-29 03:50:43,788 - INFO - Không tìm được link mới lần thứ 1, chiều cao trang không thay đổi
+2025-05-29 03:50:46,838 - INFO - Không tìm được link mới lần thứ 2, chiều cao trang không thay đổi
+2025-05-29 03:50:49,556 - INFO - Tìm link mới: https://www.facebook.com/groups/tansinhvienneu/posts/2485221268543462/
+2025-05-29 03:50:49,649 - INFO - Đã gửi link lên API: https://www.facebook.com/groups/tansinhvienneu/posts/2485221268543462/
+2025-05-29 03:50:55,452 - INFO - Không tìm được link mới lần thứ 1, chiều cao trang không thay đổi
+2025-05-29 03:50:57,663 - INFO - Không tìm được link mới lần thứ 2, chiều cao trang không thay đổi
+2025-05-29 03:51:00,466 - INFO - Tìm link mới: https://www.facebook.com/groups/tansinhvienneu/posts/2486190978446491/
+2025-05-29 03:51:00,562 - INFO - Đã gửi link lên API: https://www.facebook.com/groups/tansinhvienneu/posts/2486190978446491/
+2025-05-29 03:51:03,334 - INFO - Không tìm được link mới lần thứ 1, chiều cao trang không thay đổi
+2025-05-29 03:51:05,318 - INFO - Không tìm được link mới lần thứ 2, chiều cao trang không thay đổi
+2025-05-29 03:51:07,218 - INFO - Không tìm được link mới lần thứ 3, chiều cao trang không thay đổi
+2025-05-29 03:51:09,498 - INFO - Tìm link mới: https://www.facebook.com/groups/tansinhvienneu/posts/2487077171691205/
+2025-05-29 03:51:09,633 - INFO - Đã gửi link lên API: https://www.facebook.com/groups/tansinhvienneu/posts/2487077171691205/
+2025-05-29 03:51:14,338 - INFO - Không tìm được link mới lần thứ 1, chiều cao trang không thay đổi
+2025-05-29 03:51:17,197 - INFO - Tìm link mới: https://www.facebook.com/groups/tansinhvienneu/posts/2487134938352095/
+2025-05-29 03:51:17,307 - INFO - Đã gửi link lên API: https://www.facebook.com/groups/tansinhvienneu/posts/2487134938352095/
+2025-05-29 03:51:19,974 - INFO - Không tìm được link mới lần thứ 1, chiều cao trang không thay đổi
+2025-05-29 03:51:22,275 - INFO - Không tìm được link mới lần thứ 2, chiều cao trang không thay đổi
+2025-05-29 03:51:24,527 - INFO - Không tìm được link mới lần thứ 3, chiều cao trang không thay đổi
+2025-05-29 03:51:26,755 - INFO - Không tìm được link mới lần thứ 4, chiều cao trang không thay đổi
+2025-05-29 03:51:29,494 - INFO - Không tìm được link mới lần thứ 5, chiều cao trang không thay đổi
+2025-05-29 03:51:31,405 - INFO - Không tìm được link mới lần thứ 6, chiều cao trang không thay đổi
+2025-05-29 03:51:34,288 - INFO - Không tìm được link mới lần thứ 7, chiều cao trang không thay đổi
+2025-05-29 03:51:36,910 - INFO - Không tìm được link mới lần thứ 8, chiều cao trang không thay đổi
+2025-05-29 03:51:40,029 - INFO - Không tìm được link mới lần thứ 9, chiều cao trang không thay đổi
+2025-05-29 03:51:42,775 - INFO - Không tìm được link mới lần thứ 10, chiều cao trang không thay đổi
+2025-05-29 03:51:42,775 - INFO - Thu thập được 38 link bài viết.
+2025-05-29 03:51:42,775 - INFO - ✅ Đã gửi đủ 50 bài viết lên API!
+2025-05-29 03:51:42,918 - INFO - Đã đóng trình duyệt.
+2025-05-29 03:53:41,210 - INFO - ===== TOOL LẤY LINK BÀI VIẾT FACEBOOK =====
+2025-05-29 03:53:45,487 - WARNING - Không thể thêm cookie presence: Message: invalid argument: invalid 'expiry'
+  (Session info: chrome=136.0.7103.114)
+Stacktrace:
+0   chromedriver                        0x00000001013ec3e0 cxxbridge1$str$ptr + 2829900
+1   chromedriver                        0x00000001013e46a8 cxxbridge1$str$ptr + 2797844
+2   chromedriver                        0x0000000100f21fbc cxxbridge1$string$len + 90140
+3   chromedriver                        0x0000000100fb9608 cxxbridge1$string$len + 710248
+4   chromedriver                        0x0000000100faa044 cxxbridge1$string$len + 647332
+5   chromedriver                        0x0000000100f5d3f8 cxxbridge1$string$len + 332888
+6   chromedriver                        0x00000001013b0804 cxxbridge1$str$ptr + 2585200
+7   chromedriver                        0x00000001013b3ad4 cxxbridge1$str$ptr + 2598208
+8   chromedriver                        0x0000000101391dd8 cxxbridge1$str$ptr + 2459716
+9   chromedriver                        0x00000001013b434c cxxbridge1$str$ptr + 2600376
+10  chromedriver                        0x0000000101383664 cxxbridge1$str$ptr + 2400464
+11  chromedriver                        0x00000001013d42b0 cxxbridge1$str$ptr + 2731292
+12  chromedriver                        0x00000001013d443c cxxbridge1$str$ptr + 2731688
+13  chromedriver                        0x00000001013e42f4 cxxbridge1$str$ptr + 2796896
+14  libsystem_pthread.dylib             0x000000019021ffa8 _pthread_start + 148
+15  libsystem_pthread.dylib             0x000000019021ada0 thread_start + 8
+
+2025-05-29 03:53:45,503 - INFO - Đã thêm 8/9 cookie vào trình duyệt
+2025-05-29 03:53:48,399 - INFO - Đăng nhập thành công!
+2025-05-29 03:53:52,542 - INFO - Đang thu thập link thứ 1 / 50: https://www.facebook.com/groups/tansinhvienneu/posts/2486483285083927/
+2025-05-29 03:53:52,878 - INFO - Đã gửi link lên API: https://www.facebook.com/groups/tansinhvienneu/posts/2486483285083927/
+2025-05-29 03:53:52,893 - INFO - Đang thu thập link thứ 2 / 50: https://www.facebook.com/groups/tansinhvienneu/posts/2486215118444077/
+2025-05-29 03:53:53,000 - INFO - Đã gửi link lên API: https://www.facebook.com/groups/tansinhvienneu/posts/2486215118444077/
+2025-05-29 03:54:00,592 - INFO - Đang thu thập link thứ 3 / 50: https://www.facebook.com/groups/tansinhvienneu/posts/2486597705072485/
+2025-05-29 03:54:00,686 - INFO - Đã gửi link lên API: https://www.facebook.com/groups/tansinhvienneu/posts/2486597705072485/
+2025-05-29 03:54:02,749 - INFO - Không tìm được link mới lần thứ 1, chiều cao trang không thay đổi
+2025-05-29 03:54:05,781 - INFO - Đang thu thập link thứ 4 / 50: https://www.facebook.com/groups/tansinhvienneu/posts/2486981538367435/
+2025-05-29 03:54:06,031 - INFO - Đã gửi link lên API: https://www.facebook.com/groups/tansinhvienneu/posts/2486981538367435/
+2025-05-29 03:54:08,216 - INFO - Không tìm được link mới lần thứ 1, chiều cao trang không thay đổi
+2025-05-29 03:54:10,756 - INFO - Đang thu thập link thứ 5 / 50: https://www.facebook.com/groups/tansinhvienneu/posts/2457973397934916/
+2025-05-29 03:54:10,860 - INFO - Đã gửi link lên API: https://www.facebook.com/groups/tansinhvienneu/posts/2457973397934916/
+2025-05-29 03:54:13,673 - INFO - Không tìm được link mới lần thứ 1, chiều cao trang không thay đổi
+2025-05-29 03:54:16,169 - INFO - Không tìm được link mới lần thứ 2, chiều cao trang không thay đổi
+2025-05-29 03:54:18,947 - INFO - Đang thu thập link thứ 6 / 50: https://www.facebook.com/groups/tansinhvienneu/posts/2487241228341466/
+2025-05-29 03:54:19,193 - INFO - Đã gửi link lên API: https://www.facebook.com/groups/tansinhvienneu/posts/2487241228341466/
+2025-05-29 03:54:21,792 - INFO - Không tìm được link mới lần thứ 1, chiều cao trang không thay đổi
+2025-05-29 03:54:24,263 - INFO - Đang thu thập link thứ 7 / 50: https://www.facebook.com/groups/tansinhvienneu/posts/2486910545041201/
+2025-05-29 03:54:24,355 - INFO - Đã gửi link lên API: https://www.facebook.com/groups/tansinhvienneu/posts/2486910545041201/
+2025-05-29 03:54:29,495 - INFO - Không tìm được link mới lần thứ 1, chiều cao trang không thay đổi
+2025-05-29 03:54:31,163 - INFO - Đang thu thập link thứ 8 / 50: https://www.facebook.com/groups/tansinhvienneu/posts/2485380201860902/
+2025-05-29 03:54:31,258 - INFO - Đã gửi link lên API: https://www.facebook.com/groups/tansinhvienneu/posts/2485380201860902/
+2025-05-29 03:54:33,128 - INFO - Không tìm được link mới lần thứ 1, chiều cao trang không thay đổi
+2025-05-29 03:54:35,557 - INFO - Không tìm được link mới lần thứ 2, chiều cao trang không thay đổi
+2025-05-29 03:54:39,226 - INFO - Đang thu thập link thứ 9 / 50: https://www.facebook.com/groups/tansinhvienneu/posts/2486507518414837/
+2025-05-29 03:54:39,321 - INFO - Đã gửi link lên API: https://www.facebook.com/groups/tansinhvienneu/posts/2486507518414837/
+2025-05-29 03:54:41,886 - INFO - Không tìm được link mới lần thứ 1, chiều cao trang không thay đổi
+2025-05-29 03:54:43,897 - INFO - Không tìm được link mới lần thứ 2, chiều cao trang không thay đổi
+2025-05-29 03:54:45,782 - INFO - Không tìm được link mới lần thứ 3, chiều cao trang không thay đổi
+2025-05-29 03:54:47,428 - INFO - Không tìm được link mới lần thứ 4, chiều cao trang không thay đổi
+2025-05-29 03:54:49,508 - INFO - Không tìm được link mới lần thứ 5, chiều cao trang không thay đổi
+2025-05-29 03:54:52,605 - INFO - Không tìm được link mới lần thứ 6, chiều cao trang không thay đổi
+2025-05-29 03:54:55,664 - INFO - Không tìm được link mới lần thứ 7, chiều cao trang không thay đổi
+2025-05-29 03:54:57,314 - INFO - Không tìm được link mới lần thứ 8, chiều cao trang không thay đổi
+2025-05-29 03:54:59,992 - INFO - Không tìm được link mới lần thứ 9, chiều cao trang không thay đổi
+2025-05-29 03:55:01,995 - INFO - Không tìm được link mới lần thứ 10, chiều cao trang không thay đổi
+2025-05-29 03:55:01,996 - INFO - Thu thập được tổng cộng 9 link bài viết.
+2025-05-29 03:55:01,996 - INFO - ✅ Đã gửi đủ 50 bài viết lên API!
+2025-05-29 03:55:02,126 - INFO - Đã đóng trình duyệt.
