@@ -159,7 +159,7 @@ def clean_post_url(url):
 def get_post_links_from_group(driver, group_url, max_posts=50):
     try:
         driver.get(group_url)
-        WebDriverWait(driver, 15).until(EC.presence_of_element_located((By.XPATH, "//div[@role='main']")))
+        WebDriverWait(driver, 30).until(EC.presence_of_element_located((By.XPATH, "//div[@role='main']")))
 
         collected, processed_links = 0, set()
         last_height = driver.execute_script("return document.body.scrollHeight")
