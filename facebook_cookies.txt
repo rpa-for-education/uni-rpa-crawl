@@ -1,9 +1,7 @@
-.facebook.com	TRUE	/	True	0	presence	C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1748398957004%2C%22v%22%3A1%7D
-.facebook.com	TRUE	/	True	1756174955	fr	0huK5igHzj7EVRt8k.AWec_7wou7W6daCOij6ZzBM5TPDAV6qAVsqa-ps1FwSDtz0KNOE.BoNnM8..AAA.0.0.BoNnNr.AWdmqyszJWUnu8taHZQxdQLf6h4
-.facebook.com	TRUE	/	True	1779934955	xs	21%3AVzmot6C2FvIijQ%3A2%3A1748398953%3A-1%3A-1
-.facebook.com	TRUE	/	True	1782958908	ps_l	1
-.facebook.com	TRUE	/	True	1782958955	sb	PHM2aNLQScdAIC-oSGq_DrRS
-.facebook.com	TRUE	/	True	1782958908	ps_n	1
-.facebook.com	TRUE	/	True	1779934955	c_user	61576745485867
-.facebook.com	TRUE	/	True	1749003756	wd	1512x738
-.facebook.com	TRUE	/	True	1782958908	datr	PHM2aL9ZGZVyGon5VzS4srO2
+.facebook.com	TRUE	/	True	0	presence	C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1748675884471%2C%22v%22%3A1%7D
+.facebook.com	TRUE	/	True	1756451881	fr	0SLxGVGW2LfJtb5dH.AWc_2775aYVZHT_Q23U-VUqopIxaw1_BsJTumhvDtizMe-Uqr94.BoOqz8..AAA.0.0.BoOq0p.AWdniXGZMXqbOQmV6JyIR0fuR88
+.facebook.com	TRUE	/	True	1780211880	xs	33%3AoOKiSIHHOoV0-Q%3A2%3A1748675877%3A-1%3A-1
+.facebook.com	TRUE	/	True	1780211880	c_user	61576745485867
+.facebook.com	TRUE	/	True	1749280684	wd	1512x733
+.facebook.com	TRUE	/	True	1783235880	sb	_Kw6aCmXDiuogxCGPlY0DOCJ
+.facebook.com	TRUE	/	True	1783235835	datr	-6w6aOXZd6zWdXQcXNJ2aVMb
